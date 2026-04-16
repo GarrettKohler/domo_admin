@@ -1,0 +1,164 @@
+dataflow_id,current_name,proposed_name,change_type,owner_name
+680,[AM Test Copy] RPA Conversion for Vistar,TEST - RPA Conversion for Vistar,env_prefix,GSTV-Domo-Admin
+679,[AM Test Copy] RPA Conversion for Vistar - V2.0 - 4 Slots,TEST - RPA Conversion for Vistar - V2.0 - 4 Slots,env_prefix,GSTV-Domo-Admin
+827,[Casey's Test] - RPA Conversion for Vistar - Load RSM and Enterprise Data from PowerAutomate Email - Ad Ops,TEST - Casey's - RPA Conversion for Vistar - Load RSM and Enterprise Data from PowerAutomate Email - Ad Ops,env_prefix,GSTV-Domo-Admin
+179,[Deactivated] Programmatic Site Performance - 2w,DEPRECATED - Programmatic Site Performance - 2w,env_prefix,GSTV-Domo-Admin
+864,[DELETE] Pluto Diagnostics Comparison,DEPRECATED - Pluto Diagnostics Comparison,env_prefix,GSTV-Domo-Admin
+910,[DEV] - Ad Ops - Programmatic Campaign Tracking,DEV - Ad Ops - Programmatic Campaign Tracking,env_prefix,Antonio Bowens
+308,[DEV] Writeback to INVENTORYDATA.INVENTORYDATA_SCHEMA.SITE_HISTORIES,DEV - Writeback to INVENTORYDATA.INVENTORYDATA_SCHEMA.SITE_HISTORIES,env_prefix,Garrett Kohler
+452,[Development] Campaign Validated Impressions - Daily - Recursive - Include Non-CVI for Comparison,DEV - Campaign Validated Impressions - Daily - Recursive - Include Non-CVI for Comparison,env_prefix,GSTV-Domo-Admin
+599,[DNU] Daily Programmatic Exchange Revenue V2,DEPRECATED - Daily Programmatic Exchange Revenue V2,env_prefix,GSTV-Domo-Admin
+497,[DNU] Patch - Vistar SSP Historicals,DEPRECATED - Patch - Vistar SSP Historicals,env_prefix,GSTV-Domo-Admin
+726,[Do Not Use] Vegas - Pre-Process Managed Service Retailer Schedule,DEPRECATED - Vegas - Pre-Process Managed Service Retailer Schedule,env_prefix,GSTV-Domo-Admin
+790,"[GK TEST] Programmatic - Vistar - All Revenue and Diagnostics - Live - by Date, Site - Remove Python Tile","TEST - Programmatic - Vistar - All Revenue and Diagnostics - Live - by Date, Site - Remove Python Tile",env_prefix,GSTV-Domo-Admin
+691,[Production] California Tribal Council - RPA Conversion,PROD - California Tribal Council - RPA Conversion,env_prefix,Al Minetola
+758,[Production] Vegas - RPA Conversion - Managed Service RPAs,PROD - Vegas - RPA Conversion - Managed Service RPAs,env_prefix,GSTV-Domo-Admin
+604,[Reetu Copy for Test] Sell Through Calculations - V1,TEST - Sell Through Calculations - V1,env_prefix,Reetu Sood
+759,[Temp] RPA - Speedway Managed Service - IO Site Scheduling,DEV - RPA - Speedway Managed Service - IO Site Scheduling,env_prefix,GSTV-Domo-Admin
+856,[TEMP] Unvalidated Transactions - Hourly,DEV - Unvalidated Transactions - Hourly,env_prefix,GSTV-Domo-Admin
+852,[Test Casey's] - RPA Managed Services - Determine RPAs to be Unscheduled,TEST - Casey's - RPA Managed Services - Determine RPAs to be Unscheduled,env_prefix,GSTV-Domo-Admin
+600,[Test] Fix Vistar Venue Avails for Sell Through V2 ,TEST - Fix Vistar Venue Avails for Sell Through V2,"strip_whitespace, env_prefix",GSTV-Domo-Admin
+610,[Test] RPA Scheduling with Salesforce,TEST - RPA Scheduling with Salesforce,env_prefix,GSTV-Domo-Admin
+324,[TEST] SQL ETL - Traffic Instructions,TEST - SQL ETL - Traffic Instructions,env_prefix,Garrett Kohler
+735,[TEST][VEGAS] Managed Service RPAs - Sample Sites for Test IOs,TEST - Vegas - Managed Service RPAs - Sample Sites for Test IOs,env_prefix,GSTV-Domo-Admin
+728,[Test][VEGAS] RPA Conversion 3.2 - 2 Line Items - Ad Ops,TEST - Vegas - RPA Conversion 3.2 - 2 Line Items - Ad Ops,env_prefix,GSTV-Domo-Admin
+112,Accounts - Base Data Set,Accounts - Base Dataset,casing_fix,GSTV-Domo-Admin
+107,Adrenaline_Gilbarco_All_Test,Adrenaline Gilbarco All Test,underscore_to_space,
+103,Adrenaline_Gilbarco_Test,Adrenaline Gilbarco Test,underscore_to_space,
+391,Campaign Validated Data - Base Data Set Creation,Campaign Validated Data - Base Dataset Creation,casing_fix,GSTV-Domo-Admin
+86,Campaign_Committed,Campaign Committed,underscore_to_space,
+883,Casey's Monthly GVR RMM Fee,Casey's Monthly Gilbarco RMM Fee,network_name,Kayla Cekal
+904,Clawback: ICS GVR Daily POP Stats,Clawback: ICS Gilbarco Daily POP Stats,network_name,Hailee Mcfarland
+392,Configurable-  Revenue Share - Network Partners,Configurable- Revenue Share - Network Partners,collapse_spaces,Abigail Kane
+689,Copy of [Production] - RPA Conversion for Vistar - Load RSM and Enterprise Data from PowerAutomate Email - Ad Ops,COPY - PROD - RPA Conversion for Vistar - Load RSM and Enterprise Data from PowerAutomate Email - Ad Ops,"copy_prefix, env_prefix",GSTV-Domo-Admin
+214,Copy of All Networks - Transactions - Patch - Hourly,COPY - All Networks - Transactions - Patch - Hourly,copy_prefix,Aaron Olson
+283,Copy of All Networks - Transactions - Patch - Input,COPY - All Networks - Transactions - Patch - Input,copy_prefix,Garrett Kohler
+108,Copy of Campaign Transactions - Test,COPY - Campaign Transactions - Test,copy_prefix,
+719,Copy of Campaign Validated Impressions - Daily - Recursive,COPY - Campaign Validated Impressions - Daily - Recursive,copy_prefix,GSTV-Domo-Admin
+409,Copy of Configurable-  Revenue Share - Network Partners,COPY - Configurable- Revenue Share - Network Partners,"copy_prefix, collapse_spaces",Abigail Kane
+396,Copy of Copy of Revenue Share - Network Partners,COPY - Revenue Share - Network Partners,copy_prefix,Abigail Kane
+340,Copy of Data Quality - Salesforce and TIM IO Reconciliation - Previous Month,COPY - Data Quality - Salesforce and TIM IO Reconciliation - Previous Month,copy_prefix,Abigail Kane
+332,Copy of Dataflow - Transaction + Plays - Unvalidated Network Impressions,COPY - Dataflow - Transaction + Plays - Unvalidated Network Impressions,copy_prefix,Garrett Kohler
+325,Copy of Development - ETL - Traffic Instructions - Data Engineering,COPY - Development - ETL - Traffic Instructions - Data Engineering,copy_prefix,Garrett Kohler
+695,Copy of Dover - Transactions - Live - Hourly,COPY - Dover - Transactions - Live - Hourly,copy_prefix,GSTV-Domo-Admin
+40,Copy of DP Flatten TI 202004,COPY - DP Flatten TI 202004,copy_prefix,
+162,Copy of DP Flatten TI 202011,COPY - DP Flatten TI 202011,copy_prefix,Adam Doughty
+370,Copy of ETL - IO List v3,COPY - ETL - IO List v3,copy_prefix,Kayla Cekal
+52,Copy of FlattenTI,COPY - FlattenTI,copy_prefix,
+225,Copy of Gilbarco April Outage Impact,COPY - Gilbarco April Outage Impact,copy_prefix,Abigail Kane
+249,Copy of Historical Comscore Transaction Report - WIP,COPY - Historical Comscore Transaction Report - WIP,copy_prefix,Kayla Cekal
+232,Copy of Impressions by IO by DMA,COPY - Impressions by IO by DMA,copy_prefix,Abigail Kane
+671,Copy of Landmark Industries Rent Payment,COPY - Landmark Industries Rent Payment,copy_prefix,Kayla Cekal
+498,Copy of Network Dashboard - Join NVIs to Site Data,COPY - Network Dashboard - Join NVIs to Site Data,copy_prefix,GSTV-Domo-Admin
+192,Copy of OPP/IO Rev - Base Data Set,COPY - OPP/IO Rev - Base Dataset,"copy_prefix, casing_fix",Aaron Olson
+408,Copy of Partner Site List - Place Exchange - Clean Up,COPY - Partner Site List - Place Exchange - Clean Up,copy_prefix,Abigail Kane
+189,Copy of Programmatic Ad Leases with Revenue,COPY - Programmatic Ad Leases with Revenue,copy_prefix,
+639,Copy of Revenue Share - Network Partners - Live,COPY - Revenue Share - Network Partners - Live,copy_prefix,Aaron Olson
+419,Copy of Revenue Share - Retailer Campaigns,COPY - Revenue Share - Retailer Campaigns,copy_prefix,Abigail Kane
+238,Copy of Revenue Share - Site/State - Configurable,COPY - Revenue Share - Site/State - Configurable,copy_prefix,Abigail Kane
+676,Copy of Revenue Share - Unified TO BE DELETED,COPY - Revenue Share - Unified TO BE DELETED,copy_prefix,Kayla Cekal
+400,Copy of RPA Conversion for Vistar - V2.0 - 4 Slots,COPY - RPA Conversion for Vistar - V2.0 - 4 Slots,copy_prefix,Garrett Kohler
+632,Copy of RPA Scheduling - Check for Asset Name in Nuxeo - MH,COPY - RPA Scheduling - Check for Asset Name in Nuxeo - MH,copy_prefix,GSTV-Domo-Admin
+740,Copy of RPA Utilization - Tagged for migration,COPY - RPA Utilization - Tagged for migration,copy_prefix,GSTV-Domo-Admin
+205,Copy of Site Status History - Base Data Set,COPY - Site Status History - Base Dataset,"copy_prefix, casing_fix",Abigail Kane
+496,Copy of Sites - Days With Proof of Play - Previous Month,COPY - Sites - Days With Proof of Play - Previous Month,copy_prefix,Abigail Kane
+286,Copy of Sites Reporting Plays - Delete after use,COPY - Sites Reporting Plays - Delete after use,copy_prefix,Abigail Kane
+882,Copy of Speedway Rent Payment - Daily,COPY - Speedway Rent Payment - Daily,copy_prefix,Kayla Cekal
+791,Copy of TEMP - Analysis - Transactions - YoY By Site By Day,COPY - TEMP - Analysis - Transactions - YoY By Site By Day,copy_prefix,Aaron Olson
+18,Copy of Transactions and Plays,COPY - Transactions and Plays,copy_prefix,
+75,Copy of Transactions-Historical,COPY - Transactions-Historical,copy_prefix,
+647,Copy of Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network,COPY - Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network,copy_prefix,Aaron Olson
+265,Copy of Vistar Campaign Migration,COPY - Vistar Campaign Migration,copy_prefix,Garrett Kohler
+132,Copy of Vistar Site List,COPY - Vistar Site List,copy_prefix,Aaron Olson
+662,Data Quality - Salesforce and CVI  - Previous Month,Data Quality - Salesforce and CVI - Previous Month,collapse_spaces,Kayla Cekal
+878,DEV_AssembleTransactions_Gilbarco,DEV - AssembleTransactions Gilbarco,"env_prefix, underscore_to_space",GSTV-Domo-Admin
+877,DEV_AssembleTransactions_Speedway,DEV - AssembleTransactions Speedway,"env_prefix, underscore_to_space",GSTV-Domo-Admin
+334,DF334 - DOMO_GOV_PDP - REC,Df334 - Domo Gov Pdp - Rec,"underscore_to_space, allcaps_to_titlecase",
+343,DF343 - VIEW - Sum_Plays_Monitoring_Play_Metrics |Date-Asset-Network | STG,DF343 - VIEW - Sum Plays Monitoring Play Metrics |Date-Asset-Network | STG,underscore_to_space,
+362,DF362 - Transactions_Monitoring | All_Locations,DF362 - Transactions Monitoring | All Locations,underscore_to_space,
+363,DF363 - Transactions_Monitoring | Daily & Prior | By Location,DF363 - Transactions Monitoring | Daily & Prior | By Location,underscore_to_space,
+434,DFx - Sites - Base Data Set - Programmatic Revenue Testing Sites Tagged,DFx - Sites - Base Dataset - Programmatic Revenue Testing Sites Tagged,casing_fix,GSTV-Domo-Admin
+262,Domo_Gov_Dataset_Usage_INT,Domo Gov Dataset Usage INT,underscore_to_space,GSTV-Domo-Admin
+58,DP IO List for Rev Share,DP IO List for Revenue Share,casing_fix,
+298,Duplicate Location_Date_Hour - 20210430 Transaction Data,Duplicate Location Date Hour - 20210430 Transaction Data,underscore_to_space,Garrett Kohler
+540,DXPromote Proof Of Play Delay Analysis,DXPromote Proof of Play Delay Analysis,casing_fix,Aaron Olson
+905,GVR ICS Clawback,Gilbarco ICS Clawback,network_name,Hailee Mcfarland
+531,HuntBrothersPizza_2023_Retailer_Logs,HuntBrothersPizza 2023 Retailer Logs,underscore_to_space,GSTV-Domo-Admin
+378,INT_GSTV_Stacked_Campaign,INT GSTV Stacked Campaign,underscore_to_space,Garrett Kohler
+31,IO List for Rev Share,IO List for Revenue Share,casing_fix,
+94,IO List for Rev Share 202001,IO List for Revenue Share 202001,casing_fix,Garrett Kohler
+701,KRPTON_TEST - Speedway - Email Transactions - Live - Hourly,KRPTON TEST - Speedway - Email Transactions - Live - Hourly,underscore_to_space,GSTV-Domo-Admin
+477,MARSH - Clone of Sites - Base Data Set,MARSH - Clone of Sites - Base Dataset,casing_fix,GSTV-Domo-Admin
+263,Master | Domo_Governance_Dataset,Master | Domo Governance Dataset,underscore_to_space,GSTV-Domo-Admin
+76,MasterSchedule_TI-TPS,MasterSchedule TI-TPS,underscore_to_space,
+463,Monitoring - Dataflow and Dataset Execution Status - Base Data Set - DFx,Monitoring - Dataflow and Dataset Execution Status - Base Dataset - DFx,casing_fix,GSTV-Domo-Admin
+43,Monthly Pop for Rev Share,Monthly Pop for Revenue Share,casing_fix,
+499,Network Dashboard - Snowflake - Base Data Set,Network Dashboard - Snowflake - Base Dataset,casing_fix,GSTV-Domo-Admin
+494,Network Validated Impressions - Base Data Set with Fiscal Calendar and Utility Helper,Network Validated Impressions - Base Dataset with Fiscal Calendar and Utility Helper,casing_fix,GSTV-Domo-Admin
+698,NOC Report - GVR Weekly Offline,NOC Report - Gilbarco Weekly Offline,network_name,Adam Doughty
+501,NVI Historic - Base Data Set,NVI Historic - Base Dataset,casing_fix,GSTV-Domo-Admin
+427,OPP/IO for Sept. Rev Share w IO 7409,OPP/IO for Sept. Revenue Share w IO 7409,casing_fix,Abigail Kane
+138,OPP/IO Rev - Base Data Set,OPP/IO Rev - Base Dataset,casing_fix,GSTV-Domo-Admin
+1,Opportunities - Base Data Set,Opportunities - Base Dataset,casing_fix,GSTV-Domo-Admin
+354,Patch -  Opportunities - Base Data Set,Patch - Opportunities - Base Dataset,"collapse_spaces, casing_fix",Garrett Kohler
+353,Patch - OPP/IO Rev - Base Data Set,Patch - OPP/IO Rev - Base Dataset,casing_fix,Garrett Kohler
+111,PoP_byNetwork,PoP byNetwork,underscore_to_space,
+875,PROD_GSTV_InstanceGovernance,PROD GSTV InstanceGovernance,underscore_to_space,GSTV-Domo-Admin
+902,Programmatic - Revenue - Place Exchange - Base Data Set,Programmatic - Revenue - Place Exchange - Base Dataset,casing_fix,GSTV-Domo-Admin
+485,Programmatic - Vistar Flexible and Exchange Revenue - Base Data Set,Programmatic - Vistar Flexible and Exchange Revenue - Base Dataset,casing_fix,GSTV-Domo-Admin
+582,Programmatic Ad Leases and Expirations - Base Data Set,Programmatic Ad Leases and Expirations - Base Dataset,casing_fix,GSTV-Domo-Admin
+863,Programmatic Diagnostics - Base Data Set,Programmatic Diagnostics - Base Dataset,casing_fix,GSTV-Domo-Admin
+859,Programmatic Play Rate - Base Data Set,Programmatic Play Rate - Base Dataset,casing_fix,GSTV-Domo-Admin
+198,Programmatic Site Enable_Disable Analysis,Programmatic Site Enable Disable Analysis,underscore_to_space,
+29,Rev Allocation - Base Data Set,Rev Allocation - Base Dataset,casing_fix,GSTV-Domo-Admin
+528,Rev Share - PoP,Revenue Share - PoP,casing_fix,GSTV-Domo-Admin
+608,RPA Scheduling - Base Data Set,RPA Scheduling - Base Dataset,casing_fix,GSTV-Domo-Admin
+120,Site Status History - Base Data Set,Site Status History - Base Dataset,casing_fix,GSTV-Domo-Admin
+118,Sites - Base Data Set,Sites - Base Dataset,casing_fix,GSTV-Domo-Admin
+489,Sites_LEFT_JOINED_With_POP,Sites LEFT JOINED With POP,underscore_to_space,GSTV-Domo-Admin
+273,SQL Pivot TASK_MONITORING,SQL Pivot TASK MONITORING,underscore_to_space,Garrett Kohler
+591,SSP Revenue - Load Prior Day into Base Data Set,SSP Revenue - Load Prior Day into Base Dataset,casing_fix,GSTV-Domo-Admin
+557,Temp - Additional Dover Transactions Analysis,DEV - Additional Dover Transactions Analysis,env_prefix,Aaron Olson
+681,TEMP - Analysis - Transactions - YoY By Site By Day,DEV - Analysis - Transactions - YoY By Site By Day,env_prefix,Aaron Olson
+854,TEMP - Casey's Standup - Average Daily And Monthly Impressions,DEV - Casey's Standup - Average Daily And Monthly Impressions,env_prefix,Aaron Olson
+216,Temp - Circle K - Synthetic Transactions,DEV - Circle K - Synthetic Transactions,env_prefix,Aaron Olson
+417,TEMP - CVI Testing - Revenue Share - Network Partners,DEV - CVI Testing - Revenue Share - Network Partners,env_prefix,Aaron Olson
+579,TEMP - CVIs And Revenue By Site By Month - Since FY23,DEV - CVIs And Revenue By Site By Month - Since FY23,env_prefix,Aaron Olson
+570,TEMP - DFS Offline Sites Since 2023,DEV - DFS Offline Sites Since 2023,env_prefix,Aaron Olson
+564,TEMP - DXPromote - Derived Versus Provided Transaction Analysis - Normalized,DEV - DXPromote - Derived Versus Provided Transaction Analysis - Normalized,env_prefix,Aaron Olson
+739,TEMP - ICS Analysis 3-25-2025,DEV - ICS Analysis 3-25-2025,env_prefix,Bill Binkiewicz
+703,TEMP - ICS Site Analysis - November 2024 - February 2025,DEV - ICS Site Analysis - November 2024 - February 2025,env_prefix,Aaron Olson
+848,TEMP - Investigating Unvalidated Transaction Dataset Discrepancies,DEV - Investigating Unvalidated Transaction Dataset Discrepancies,env_prefix,Aaron Olson
+505,TEMP - IOTV DXPromote Binned Data - July 2023,DEV - IOTV DXPromote Binned Data - July 2023,env_prefix,Aaron Olson
+562,TEMP - Master Station List Individual Site Delta Analysis,DEV - Master Station List Individual Site Delta Analysis,env_prefix,Aaron Olson
+846,TEMP - Monthly Revenue With Site Status History And Transactions For Analysis,DEV - Monthly Revenue With Site Status History And Transactions For Analysis,env_prefix,Aaron Olson
+304,TEMP - Network Validated Impressions Comparisons,DEV - Network Validated Impressions Comparisons,env_prefix,Aaron Olson
+545,TEMP - NVI Market Plan Comparison,DEV - NVI Market Plan Comparison,env_prefix,Aaron Olson
+415,TEMP - NVI Testing - Market Plan - Direct,DEV - NVI Testing - Market Plan - Direct,env_prefix,Aaron Olson
+416,TEMP - NVI Testing - Transactions - Daily and Monthly Calculations,DEV - NVI Testing - Transactions - Daily and Monthly Calculations,env_prefix,Aaron Olson
+660,TEMP - NVIs - Daily and Monthly Calculations - 365 Day Lookback,DEV - NVIs - Daily and Monthly Calculations - 365 Day Lookback,env_prefix,Aaron Olson
+661,TEMP - NVIs - Daily and Monthly Calculations - 90 Day Lookback,DEV - NVIs - Daily and Monthly Calculations - 90 Day Lookback,env_prefix,Aaron Olson
+590,TEMP - Open Exchange CPM Analysis,DEV - Open Exchange CPM Analysis,env_prefix,Aaron Olson
+763,TEMP - Programmatic Analysis,DEV - Programmatic Analysis,env_prefix,Bill Binkiewicz
+767,TEMP - Project Pluto - Fill Rate - Prior Week,DEV - Project Pluto - Fill Rate - Prior Week,env_prefix,Aaron Olson
+541,TEMP - Salesforce Duplicate Task Analysis,DEV - Salesforce Duplicate Task Analysis,env_prefix,Aaron Olson
+605,Temp - Sell Through V2,DEV - Sell Through V2,env_prefix,GSTV-Domo-Admin
+529,TEMP - Site Status History per Day - Historic Rerun,DEV - Site Status History per Day - Historic Rerun,env_prefix,Aaron Olson
+568,TEMP - Supply Accuracy Analysis,DEV - Supply Accuracy Analysis,env_prefix,Aaron Olson
+674,TEMP - Transaction Analysis - Month Over Month By Site,DEV - Transaction Analysis - Month Over Month By Site,env_prefix,Aaron Olson
+692,TEMP - Vistar Diagnostic Insights - Q4 2024,DEV - Vistar Diagnostic Insights - Q4 2024,env_prefix,Aaron Olson
+853,temp_hackathon,temp hackathon,underscore_to_space,GSTV-Domo-Admin
+688,Test - Deduplicated Ad Leases on _ID,Test - Deduplicated Ad Leases on ID,"underscore_to_space, collapse_spaces",GSTV-Domo-Admin
+377,TEST_GSTV_Campaign_Data,TEST GSTV Campaign Data,underscore_to_space,Garrett Kohler
+700,TEST_KRYPTON - Gilbarco - Transactions - Live - Hourly,TEST KRYPTON - Gilbarco - Transactions - Live - Hourly,underscore_to_space,GSTV-Domo-Admin
+696,TEST_KRYPTON Wayne - Transactions - Live - Hourly,TEST KRYPTON Wayne - Transactions - Live - Hourly,underscore_to_space,GSTV-Domo-Admin
+705,TEST_VEGAS - User Input Validation,TEST VEGAS - User Input Validation,underscore_to_space,GSTV-Domo-Admin
+515,Transaction Monitoring - Base Data Set,Transaction Monitoring - Base Dataset,casing_fix,GSTV-Domo-Admin
+71,TXNS_Dover_LastWeek_INT,TXNS Dover LastWeek INT,underscore_to_space,
+72,TXNS_Gilbarco_LastWeek_INT,TXNS Gilbarco LastWeek INT,underscore_to_space,
+70,TXNS_Speedway_LastWeek_INT,TXNS Speedway LastWeek INT,underscore_to_space,
+868,Unvalidated Transactions - Base Data Set,Unvalidated Transactions - Base Dataset,casing_fix,GSTV-Domo-Admin
+278,View of Sites 10/20-10/21,View - Sites 10/20-10/21,view_prefix,Kayla Cekal
+876,Vistar Diagnostic Daily - Base Data Set,Vistar Diagnostic Daily - Base Dataset,casing_fix,GSTV-Domo-Admin
+420,Vistar Excahnge - August for Rev Share,Vistar Excahnge - August for Revenue Share,casing_fix,Abigail Kane
+267,VistarMigrationCampaigns_IsCurrent,VistarMigrationCampaigns IsCurrent,underscore_to_space,Garrett Kohler

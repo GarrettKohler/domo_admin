@@ -1,0 +1,907 @@
+dataflow_id,dataflow_name,existing_description,suggested_description,source,owner
+712,Project Krypton - Transaction Comparison To Retailer Data,,Compares transaction volumes across sources for data quality validation,inferred,Aaron Olson
+375,2021 Transactions/Impressions and Revenue,,,,Garrett Kohler
+680,[AM Test Copy] RPA Conversion for Vistar,,Converts RPA scheduling data between internal and Vistar formats,inferred,GSTV-Domo-Admin
+679,[AM Test Copy] RPA Conversion for Vistar - V2.0 - 4 Slots,,Converts RPA data to Vistar multi-slot scheduling format,inferred,GSTV-Domo-Admin
+827,[Casey's Test] - RPA Conversion for Vistar - Load RSM and Enterprise Data from PowerAutomate Email - Ad Ops,,Converts RPA scheduling data between internal and Vistar formats,inferred,GSTV-Domo-Admin
+179,[Deactivated] Programmatic Site Performance - 2w,,,,GSTV-Domo-Admin
+864,[DELETE] Pluto Diagnostics Comparison,,,,GSTV-Domo-Admin
+910,[DEV] - Ad Ops - Programmatic Campaign Tracking,,Tracks campaign delivery progress against contracted commitments,inferred,Antonio Bowens
+308,[DEV] Writeback to INVENTORYDATA.INVENTORYDATA_SCHEMA.SITE_HISTORIES,,,,Garrett Kohler
+452,[Development] Campaign Validated Impressions - Daily - Recursive - Include Non-CVI for Comparison,,Processes and validates campaign impression data for billing accuracy,inferred,GSTV-Domo-Admin
+599,[DNU] Daily Programmatic Exchange Revenue V2,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+497,[DNU] Patch - Vistar SSP Historicals,"Replaced with ""Patch Process - Vistar SSP Revenue"" DataFlow",,existing,GSTV-Domo-Admin
+726,[Do Not Use] Vegas - Pre-Process Managed Service Retailer Schedule,,,,GSTV-Domo-Admin
+790,"[GK TEST] Programmatic - Vistar - All Revenue and Diagnostics - Live - by Date, Site - Remove Python Tile",,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+691,[Production] California Tribal Council - RPA Conversion,,Converts RPA scheduling data between internal and Vistar formats,inferred,Al Minetola
+758,[Production] Vegas - RPA Conversion - Managed Service RPAs,Loads the Managed Service RPA from RPA Management schedule. Converts to format for Vistar scheduling later.,,existing,GSTV-Domo-Admin
+604,[Reetu Copy for Test] Sell Through Calculations - V1,"Combines data from Vistar scheduling, Vistar revenue, and site status histories to calculate sell through rates based on pre- and post-programmatic sold times",,existing,Reetu Sood
+759,[Temp] RPA - Speedway Managed Service - IO Site Scheduling,,Processes data specific to the Speedway retailer network,inferred,GSTV-Domo-Admin
+856,[TEMP] Unvalidated Transactions - Hourly,,,,GSTV-Domo-Admin
+852,[Test Casey's] - RPA Managed Services - Determine RPAs to be Unscheduled,"This dataflow creates the output dataset that will be compared to the RPA Conversion - 2 Line Items, which will remove line items that are categorized as ""RPA to Unschedule"" in this dataflow.",,existing,GSTV-Domo-Admin
+600,[Test] Fix Vistar Venue Avails for Sell Through V2,,"Calculates sell-through rates combining avails, scheduling, and revenue data",inferred,GSTV-Domo-Admin
+610,[Test] RPA Scheduling with Salesforce,,Processes Salesforce CRM data for integration with Domo reporting,inferred,GSTV-Domo-Admin
+324,[TEST] SQL ETL - Traffic Instructions,"Calculate from Vistar BI, IOList, Gbase TI",,existing,Garrett Kohler
+735,[TEST][VEGAS] Managed Service RPAs - Sample Sites for Test IOs,,,,GSTV-Domo-Admin
+728,[Test][VEGAS] RPA Conversion 3.2 - 2 Line Items - Ad Ops,Updated to remove RPAs for managed services,,existing,GSTV-Domo-Admin
+112,Accounts - Base Data Set,,,,GSTV-Domo-Admin
+438,Active RPA Utilization Prev Month data flow - Filtered with Veronica's details,,Filters or segments data for a specific use case,inferred,GSTV-Domo-Admin
+704,Ad Lease Analysis - Hardware and Experience Analysis,,,,GSTV-Domo-Admin
+776,Ad Ops - Campaigns - Launch Monitoring,,Ad operations pipeline for scheduling and delivery tracking,inferred,GSTV-Domo-Admin
+764,Ad Ops - Category Restriction Check,,Ad operations pipeline for scheduling and delivery tracking,inferred,Antonio Bowens
+635,Ad Ops - Lease Rate - Vistar Insights,,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+637,Ad Ops Monitoring - Vistar Diagnostics Insights,,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+68,Adam State Farm Jerky Test,,,,Adam Doughty
+87,Adam Test,Denormalized POP past 30 days,,existing,Adam Doughty
+65,adam test flow,,,,Adam Doughty
+5,AddGTVIDsToPoP,,Processes Proof of Play data for ad delivery verification,inferred,
+561,Admin - Datasets Reference - Column Details,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+668,Admin - Ontology - Dataflow Inputs and Outs,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+669,Admin - Viewflow Inputs and Outputs,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+101,Adrenaline - Test,,,,
+107,Adrenaline_Gilbarco_All_Test,,,,
+103,Adrenaline_Gilbarco_Test,,,,
+907,Advertisers No Longer Bidding,,,,Antonio Bowens
+603,Alerts - Vistar Stop Spend,,Data quality monitoring and alerting pipeline,inferred,GSTV-Domo-Admin
+708,All GSTV - Ad Serving - Flexible - 2022/2023/2024/2025,,Ad operations pipeline for scheduling and delivery tracking,inferred,Aaron Olson
+809,All GSTV - Combined SSP and Flex - 2023/2024/2025 - Full Granularity,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+706,All GSTV - Diagnostic Insights - 2022/2023/2024/2025,,,,Aaron Olson
+812,All GSTV - Flexible and SSP Revenue - Full Granularity - Live,,,,GSTV-Domo-Admin
+811,All GSTV - Flexible Revenue - March 2025 to July 15 2025,,,,GSTV-Domo-Admin
+710,All GSTV - Programmatic Perfomance - 2022/2023/2024/2025,,,,Aaron Olson
+707,All GSTV - SSP - 2022/2023/2024/2025,,,,Aaron Olson
+810,All GSTV - SSP Revenue - March 2025 to July 15 2025 - Full Granularity,,,,GSTV-Domo-Admin
+817,All GSTV - Vistar - SSP Revenue - Full Granularity,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+84,All Networks - Transactions - Historic - Hourly,,,,Aaron Olson
+135,All Networks - Transactions - Patch - Input,,Patches or backfills historical data for completeness,inferred,GSTV-Domo-Admin
+117,"All Networks - Transactions - Weekly - Current, WoW, and YoY",,,,Aaron Olson
+119,All Sites with Week Ending Status,,,,Aaron Olson
+368,Analysis - Account Ownership Impact on Pipeline,,,,Aaron Olson
+527,Analysis - Average Time Offline,,,,Aaron Olson
+173,Analysis - Speedway - Current Year - Average Daily Transactions,,Processes data specific to the Speedway retailer network,inferred,Aaron Olson
+382,Annual Programmatic Ad Revenue by Network,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+293,Append Dataflow Output to View - Transactions - Writeback to Snowflake,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+602,Append to Programmatic List of Advertisers,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+533,Apple Audit - CVI and Sell Through Calculations for Audited Sites,,"Calculates sell-through rates combining avails, scheduling, and revenue data",inferred,GSTV-Domo-Admin
+537,Apple Audit - Sites With Site Status History And Vistar Pre-Programmatic Sell Through,,"Calculates sell-through rates combining avails, scheduling, and revenue data",inferred,Aaron Olson
+539,Apple Audit - Terminal Level Analysis,,,,Aaron Olson
+269,Average Revenue Per Location and CPM - TTM - September 2021,,,,Aaron Olson
+8,Bad Test Run,,,,GSTV-Domo-Admin
+642,Campaign Data - Mongo Writeback Input,,,,GSTV-Domo-Admin
+542,"Campaign Delivery Reporting - DMA Averages, NVI, and CVI",,Tracks campaign delivery progress against contracted commitments,inferred,Nick Kaufmann
+256,Campaign Delivery Reporting - Salesforce Integration - February 2021,,Tracks campaign delivery progress against contracted commitments,inferred,Aaron Olson
+270,Campaign Delivery Reporting - Salesforce Integration - Filterable,,Tracks campaign delivery progress against contracted commitments,inferred,Kayla Cekal
+266,Campaign Delivery Reporting - Salesforce Integration - Previous Month,,Tracks campaign delivery progress against contracted commitments,inferred,Kayla Cekal
+508,Campaign Impact Analysis,,,,Aaron Olson
+509,Campaign Impact Analysis - Impacted DMAs By Day,Create A Row Per Day Per DMA,,existing,Aaron Olson
+511,Campaign Impact Analysis - Network View,,,,Aaron Olson
+488,Campaign Site Transactions - IO 8199 - June 10,,,,GSTV-Domo-Admin
+106,Campaign Transactions - Test,,,,
+391,Campaign Validated Data - Base Data Set Creation,,,,GSTV-Domo-Admin
+390,Campaign Validated Impressions - Daily - Recursive,,Processes and validates campaign impression data for billing accuracy,inferred,GSTV-Domo-Admin
+526,Campaign Validated Impressions - Recursive - Patch,,Processes and validates campaign impression data for billing accuracy,inferred,GSTV-Domo-Admin
+86,Campaign_Committed,,,,
+883,Casey's Monthly GVR RMM Fee,,Processes data specific to the Casey's retailer network,inferred,Kayla Cekal
+616,Cassandra - Future Availability Test,,Calculates ad inventory availability for scheduling and sell-through,inferred,GSTV-Domo-Admin
+619,Certification,,,,Garrett Kohler
+620,Certification MySQL - Baby Names,,,,Garrett Kohler
+444,Check duplicates,,,,Sriram Vepuri
+222,Cheddar News Rebrand - Traffic Instruction Overrides,,,,Aaron Olson
+181,Chevy Programmatic Sites with Status,,,,
+190,Circle K,,Processes data for the Circle K retailer network,inferred,Abigail Kane
+524,Circle K Sites w/Holiday in Contract,,Processes data for the Circle K retailer network,inferred,Adam Doughty
+95,Circle K Test,,Processes data for the Circle K retailer network,inferred,Adam Doughty
+904,Clawback: ICS GVR Daily POP Stats,,Calculates revenue clawback adjustments for billing,inferred,Hailee Mcfarland
+702,Combine Gilbarco Health Data With POP,,Processes Proof of Play data for ad delivery verification,inferred,Bill Binkiewicz
+746,Combine SSP + Exchange Live and Consolidated,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+224,Commission Payout Calculations,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+248,Comscore Transaction Report - DF WIP,,,,
+284,Comscore Transaction Report - Monthly,,,,Abigail Kane
+241,Comscore Transaction Report - WIP,,,,Abigail Kane
+392,Configurable-  Revenue Share - Network Partners,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+689,Copy of [Production] - RPA Conversion for Vistar - Load RSM and Enterprise Data from PowerAutomate Email - Ad Ops,,Converts RPA scheduling data between internal and Vistar formats,inferred,GSTV-Domo-Admin
+214,Copy of All Networks - Transactions - Patch - Hourly,,Patches or backfills historical data for completeness,inferred,Aaron Olson
+283,Copy of All Networks - Transactions - Patch - Input,,Patches or backfills historical data for completeness,inferred,Garrett Kohler
+813,Copy of Campaign Delivery Reporting - Salesforce Integration - Filterable,,Tracks campaign delivery progress against contracted commitments,inferred,Hailee Mcfarland
+814,Copy of Campaign Delivery Reporting - Salesforce Integration - Filterable,,Tracks campaign delivery progress against contracted commitments,inferred,Hailee Mcfarland
+108,Copy of Campaign Transactions - Test,,"Copy of the ""Campaign Transactions - Test"" dataflow",inferred,
+719,Copy of Campaign Validated Impressions - Daily - Recursive,,Processes and validates campaign impression data for billing accuracy,inferred,GSTV-Domo-Admin
+385,Copy of Comscore Transaction Report - Monthly,,"Copy of the ""Comscore Transaction Report - Monthly"" dataflow",inferred,Abigail Kane
+394,Copy of Comscore Transaction Report - Monthly,,"Copy of the ""Comscore Transaction Report - Monthly"" dataflow",inferred,Abigail Kane
+246,Copy of Comscore Transaction Report - WIP,,"Copy of the ""Comscore Transaction Report - WIP"" dataflow",inferred,
+409,Copy of Configurable-  Revenue Share - Network Partners,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+247,Copy of Copy of Comscore Transaction Report - WIP,,"Copy of the ""Copy of Comscore Transaction Report - WIP"" dataflow",inferred,
+466,Copy of Copy of Impressions By IO By DMA Previous Month,,"Copy of the ""Copy of Impressions By IO By DMA Previous Month"" dataflow",inferred,GSTV-Domo-Admin
+396,Copy of Copy of Revenue Share - Network Partners,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+432,Copy of Copy of Vistar Programmatic Revenue,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+340,Copy of Data Quality - Salesforce and TIM IO Reconciliation - Previous Month,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Abigail Kane
+332,Copy of Dataflow - Transaction + Plays - Unvalidated Network Impressions,,"Copy of the ""Dataflow - Transaction + Plays - Unvalidated Network Impressions"" dataflow",inferred,Garrett Kohler
+146,Copy of DenormalizeProofOfPlay,,Denormalizes Proof of Play records into a flat structure for reporting,inferred,
+199,Copy of DenormalizeProofOfPlay,,Denormalizes Proof of Play records into a flat structure for reporting,inferred,
+325,Copy of Development - ETL - Traffic Instructions - Data Engineering,Development ETL for processing Vistar BI files,,existing,Garrett Kohler
+695,Copy of Dover - Transactions - Live - Hourly,Transaction pipeline from Snowflake,,existing,GSTV-Domo-Admin
+40,Copy of DP Flatten TI 202004,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+162,Copy of DP Flatten TI 202011,Adam's Copy for testing,,existing,Adam Doughty
+370,Copy of ETL - IO List v3,,"Copy of the ""ETL - IO List v3"" dataflow",inferred,Kayla Cekal
+52,Copy of FlattenTI,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+225,Copy of Gilbarco April Outage Impact,,"Copy of the ""Gilbarco April Outage Impact"" dataflow",inferred,Abigail Kane
+249,Copy of Historical Comscore Transaction Report - WIP,,Patches or backfills historical data for completeness,inferred,Kayla Cekal
+232,Copy of Impressions by IO by DMA,,"Copy of the ""Impressions by IO by DMA"" dataflow",inferred,Abigail Kane
+239,Copy of Impressions By IO By DMA Previous Month,,"Copy of the ""Impressions By IO By DMA Previous Month"" dataflow",inferred,Abigail Kane
+671,Copy of Landmark Industries Rent Payment,,"Copy of the ""Landmark Industries Rent Payment"" dataflow",inferred,Kayla Cekal
+498,Copy of Network Dashboard - Join NVIs to Site Data,For NVI 3.0,,existing,GSTV-Domo-Admin
+192,Copy of OPP/IO Rev - Base Data Set,,"Copy of the ""OPP/IO Rev - Base Data Set"" dataflow",inferred,Aaron Olson
+408,Copy of Partner Site List - Place Exchange - Clean Up,,"Copy of the ""Partner Site List - Place Exchange - Clean Up"" dataflow",inferred,Abigail Kane
+189,Copy of Programmatic Ad Leases with Revenue,,Aggregates programmatic exchange revenue data,inferred,
+639,Copy of Revenue Share - Network Partners - Live,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+419,Copy of Revenue Share - Retailer Campaigns,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+195,Copy of Revenue Share - Site/State,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+237,Copy of Revenue Share - Site/State,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+442,Copy of Revenue Share - Site/State,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+238,Copy of Revenue Share - Site/State - Configurable,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+676,Copy of Revenue Share - Unified TO BE DELETED,,Calculates revenue share or commission allocations,inferred,Kayla Cekal
+400,Copy of RPA Conversion for Vistar - V2.0 - 4 Slots,,Converts RPA data to Vistar multi-slot scheduling format,inferred,Garrett Kohler
+632,Copy of RPA Scheduling - Check for Asset Name in Nuxeo - MH,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+740,Copy of RPA Utilization - Tagged for migration,,"Copy of the ""RPA Utilization - Tagged for migration"" dataflow",inferred,GSTV-Domo-Admin
+205,Copy of Site Status History - Base Data Set,,Processes site operational status data for tracking and reporting,inferred,Abigail Kane
+496,Copy of Sites - Days With Proof of Play - Previous Month,,Processes Proof of Play data for ad delivery verification,inferred,Abigail Kane
+286,Copy of Sites Reporting Plays - Delete after use,,"Copy of the ""Sites Reporting Plays - Delete after use"" dataflow",inferred,Abigail Kane
+252,Copy of Speedway Rent Payment - Configurable,,Processes data specific to the Speedway retailer network,inferred,Kayla Cekal
+467,Copy of Speedway Rent Payment - Configurable,,Processes data specific to the Speedway retailer network,inferred,GSTV-Domo-Admin
+882,Copy of Speedway Rent Payment - Daily,,Processes data specific to the Speedway retailer network,inferred,Kayla Cekal
+791,Copy of TEMP - Analysis - Transactions - YoY By Site By Day,,"Copy of the ""TEMP - Analysis - Transactions - YoY By Site By Day"" dataflow",inferred,Aaron Olson
+18,Copy of Transactions and Plays,,"Copy of the ""Transactions and Plays"" dataflow",inferred,
+75,Copy of Transactions-Historical,,Patches or backfills historical data for completeness,inferred,
+647,Copy of Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network,,"Copy of the ""Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network"" dataflow",inferred,Aaron Olson
+265,Copy of Vistar Campaign Migration,,"Copy of the ""Vistar Campaign Migration"" dataflow",inferred,Garrett Kohler
+431,Copy of Vistar Programmatic Revenue,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+132,Copy of Vistar Site List,,"Copy of the ""Vistar Site List"" dataflow",inferred,Aaron Olson
+66,Count of Sites By TI,,,,
+316,Count Rows of Snowflake Read,,,,Garrett Kohler
+19,Covid Dataflow,,,,
+20,Covid Ending April 1st Dataflow,,,,
+4,Create Advertiser List,,,,Aaron Olson
+857,Create IO Site List with Asset Spot Length,,,,GSTV-Domo-Admin
+862,Creative_Plays_11072025,,Processes creative content scheduling data,inferred,Minu Sara Thomas
+194,Current/Future Advertisements - Speedway Only,Weekly report for Speedway use,,existing,Adam Doughty
+523,CVI dataset - Sriram - Problematic Campaigns - 10/18/2023 v3,,,,GSTV-Domo-Admin
+538,Daily CVI impressions - Previous Month,,,,Kayla Cekal
+656,Daily Programmatic Exchange Revenue (States A-I) - Deduplicate,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+291,daily transaction comparison alert flow,,Compares transaction volumes across sources for data quality validation,inferred,
+22,DanData,,,,
+23,DanData_20200214,,,,
+662,Data Quality - Salesforce and CVI  - Previous Month,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Kayla Cekal
+153,Data Quality - Salesforce and TIM IO Reconciliation - Previous Month,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Aaron Olson
+381,Data Quality - Salesforce and Vistar - Previous Month,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Abigail Kane
+188,Data Quality - Sites - Salesforce/Gbase Syncing,,Processes Salesforce CRM data for integration with Domo reporting,inferred,
+292,Dataflow - Monitoring - Gilbarco Transactions Writeback to Snowflake,,Monitors data pipeline health from Snowflake transaction feeds,inferred,GSTV-Domo-Admin
+331,Dataflow - Transaction + Plays - Unvalidated Network Impressions,,,,Garrett Kohler
+327,Dataflow - Transactions - Monitoring - Historic,,,,GSTV-Domo-Admin
+326,Dataflow - Transactions - Monitoring - Most Recent Day,,,,GSTV-Domo-Admin
+328,Dataflow - Transactions - Monitoring - Most Recent Day - Gilbarco,,Processes transaction data for the specified network,inferred,GSTV-Domo-Admin
+329,Dataflow - Transactions - Monitoring - Most Recent Day - Speedway,,Processes transaction data for the specified network,inferred,GSTV-Domo-Admin
+516,Demo - Transaction Monitoring - Segment Networks,"Input is Snowflake Transaction Monitoring Connector. This creates three output datasets, one for each network.",,existing,GSTV-Domo-Admin
+6,DenormalizeProofOfPlay,,Denormalizes Proof of Play records into a flat structure for reporting,inferred,GSTV-Domo-Admin
+200,DenormalizeProofOfPlay Dec 2020,,Denormalizes Proof of Play records into a flat structure for reporting,inferred,
+844,DEV Parse Gilbarco ICS Notifications,,,,Michael Girard
+878,DEV_AssembleTransactions_Gilbarco,,Processes transaction data for the specified network,inferred,GSTV-Domo-Admin
+877,DEV_AssembleTransactions_Speedway,,Processes transaction data for the specified network,inferred,GSTV-Domo-Admin
+320,Development - ETL - Traffic Instructions - Data Engineering,Development ETL for processing Vistar BI files,,existing,Garrett Kohler
+330,DF330 - Transactions - Monitoring - All Networks,Appends All Networks Most Recent Day to All Network Historical,,existing,Garrett Kohler
+334,DF334 - DOMO_GOV_PDP - REC,,Domo governance dataflow for instance monitoring and credit tracking,inferred,
+339,DF339 - Monitoring - Traffic Instructions - Daily Unique Site and Assets,,Monitoring pipeline tracking site/network operational health,inferred,Garrett Kohler
+343,DF343 - VIEW - Sum_Plays_Monitoring_Play_Metrics |Date-Asset-Network | STG,,Monitoring pipeline tracking site/network operational health,inferred,
+345,DF345 - View - Monitoring - Sites - Active Sites | INT - DF345,,Monitoring pipeline tracking site/network operational health,inferred,
+346,DF346 - View - Monitoring Sites - Temp Deactivated Sites | INT,,Monitoring pipeline tracking site/network operational health,inferred,
+347,DF347 - Monitoring - Salesforce Sites & Site Status History - Row Counts,,Monitoring pipeline tracking site/network operational health,inferred,
+348,DF348 - Snowflake Writebacks - Daily & Prior Rows,,,,
+349,DF349 - Wayne-Dover Live Transactions Hourly Input | REC,,Processes transaction data for the specified retail network,inferred,
+350,DF350 - Gilbarco Live Transactions Hourly Input | REC,,Processes transaction data for the specified retail network,inferred,
+351,DF351 - Speedway Live Transactions Hourly Input | REC,,Processes data specific to the Speedway retailer network,inferred,GSTV-Domo-Admin
+352,DF352 - Monitoring - SF Opp-IO & Opportunities - Row Counts,,,,
+360,DF360 - Transactions - Monitoring - Daily & Prior,,,,
+362,DF362 - Transactions_Monitoring | All_Locations,,Aggregates transaction monitoring data across all networks for daily tracking,inferred,
+363,DF363 - Transactions_Monitoring | Daily & Prior | By Location,,,,
+364,DF364 - Snowflake Transaction Writebacks - Monitoring | PROD,,,,GSTV-Domo-Admin
+366,DF366 - Traffic Instructions Monitoring - Site Count by Asset-Day,,Monitoring pipeline tracking site/network operational health,inferred,
+589,DFS Weekly Reporting,NOC agenda data,,existing,Adam Doughty
+469,DFx - Impression Multiplier - Using Unvalidated Transaction - Hourly,,Processes and validates ad impression data,inferred,GSTV-Domo-Admin
+421,DFx - Monitoring - Daily Transactions - Gilbarco,Test Casting Nulls,,existing,GSTV-Domo-Admin
+398,DFx - Monitoring - Snowflake - Sites Reporting Transactions,Daily Sites Reporting Transactions - All Networks,,existing,GSTV-Domo-Admin
+402,DFx - Monitoring - Transactions,Daily Transactions - All Networks,,existing,Garrett Kohler
+380,DFx - Patch - Transactions - May 2022 All Networkss,,Patches or backfills historical data for completeness,inferred,Garrett Kohler
+474,DFx - Programmatic - Exchange Revenue - All Networks,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+405,DFx - Revenue - Campaign Revenue by DMA,,,,Garrett Kohler
+423,DFx - Site Status by Day - Salesforce Writeback,,Processes site operational status data for tracking and reporting,inferred,GSTV-Domo-Admin
+414,DFx - Site Status by Month - Salesforce Retailers,,Processes site operational status data for tracking and reporting,inferred,Aaron Olson
+434,DFx - Sites - Base Data Set - Programmatic Revenue Testing Sites Tagged,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+418,DFx - Sites - Sell Through Calculations - V1,,"Calculates sell-through rates combining avails, scheduling, and revenue data",inferred,GSTV-Domo-Admin
+424,DFx - Vistar - Direct Revenue - All DMAs - Daily,Append batched data from Vistar reports,,existing,GSTV-Domo-Admin
+425,DFx - Vistar - Exchange Revenue - All DMAs - Daily,Append data from Vistar Exchange reports,,existing,GSTV-Domo-Admin
+305,DFx Market Plan 2021,,,,Abigail Kane
+449,DFx Market Plan 2022,,,,Abigail Kane
+274,DFx Snowflake Task Monitoring by Day,,,,Garrett Kohler
+828,Discover Daily SSP,,,,Antonio Bowens
+302,domo - dataflow + MySql + MongoDb - bug fix,,,,Garrett Kohler
+765,Domo Activity Log Automation,,,,GSTV-Domo-Admin
+299,Domo daily site count last 20 days - sql,,,,
+879,Domo Governance,,Domo governance dataflow for instance monitoring and credit tracking,inferred,GSTV-Domo-Admin
+300,Domo Snowflake Writeback - All - Daily,,,,GSTV-Domo-Admin
+262,Domo_Gov_Dataset_Usage_INT,,Domo governance dataflow for instance monitoring and credit tracking,inferred,GSTV-Domo-Admin
+525,DomoStats - DataFlow and View Inputs - Map IDs to Name,,,,GSTV-Domo-Admin
+571,Domostats - Dataflow Input Datasources with Names,,,,GSTV-Domo-Admin
+572,Domostats - Dataflow Output Datasources with Names,,,,GSTV-Domo-Admin
+168,DomoStats - DataFlows DataSets People and Health,DomoStats Official DataFlow,,existing,Aaron Olson
+242,DomoStats - DataFlows DataSets People and Health,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+612,DomoStats - DataFlows DataSets People and Health,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+801,DomoStats - DataFlows DataSets People and Health,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+169,DomoStats - DataSet and DataFlow History with DataSet Names and Owners,DomoStats Official DataFlow,,existing,Aaron Olson
+243,DomoStats - DataSet and DataFlow History with DataSet Names and Owners,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+613,DomoStats - DataSet and DataFlow History with DataSet Names and Owners,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+802,DomoStats - DataSet and DataFlow History with DataSet Names and Owners,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+170,DomoStats - DataSets with Owners,DomoStats Official DataFlow,,existing,Aaron Olson
+244,DomoStats - DataSets with Owners,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+614,DomoStats - DataSets with Owners,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+803,DomoStats - DataSets with Owners,DomoStats Official DataFlow,,existing,GSTV-Domo-Admin
+574,Domostats - View and Dataflow Inputs and Outputs,,,,GSTV-Domo-Admin
+573,Domostats - View Input Datasources with Names,,,,GSTV-Domo-Admin
+275,DomoStats People with Activity Log,,,,GSTV-Domo-Admin
+638,DomoStats People with Activity Log,,,,GSTV-Domo-Admin
+481,Dover - Transactions - Historic - Hourly,,Processes transaction data for the specified retail network,inferred,GSTV-Domo-Admin
+476,Dover - Transactions - Live - Hourly,,Processes transaction data for the specified retail network,inferred,GSTV-Domo-Admin
+580,Dover - Transactions - Live - Hourly,Transaction pipeline from Snowflake,,existing,GSTV-Domo-Admin
+789,Dover DXPromote Pop + Site Status History,,Processes site operational status data for tracking and reporting,inferred,Bill Binkiewicz
+164,DP Flatten TI - Retail Team,Modified TP Flatten TI for monthly retail team use,,existing,Adam Doughty
+39,DP Flatten TI 202001,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+41,DP Flatten TI 202001,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+24,DP Flatten TI 202002,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+47,DP Flatten TI 202002,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+25,DP Flatten TI 202003,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+48,DP Flatten TI 202003,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+27,DP Flatten TI 202004,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+49,DP Flatten TI 202004,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+50,DP Flatten TI 202005,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+51,DP Flatten TI 202006,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+93,DP Flatten TI 202006 New,,Flattens traffic instruction data from nested format into a denormalized table,inferred,Garrett Kohler
+60,DP Flatten TI 202007,,Flattens traffic instruction data from nested format into a denormalized table,inferred,Garrett Kohler
+96,DP Flatten TI 202008 NEW,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+59,DP Flatten TI 202008+,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+110,DP Flatten TI 202009,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+122,DP Flatten TI 202010,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+124,DP Flatten TI 202010 CHECK,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+137,DP Flatten TI 20201009,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+115,DP Flatten TI VUSE,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+58,DP IO List for Rev Share,,,,
+271,DS_DomoStats_Dataset_Execution_Error_History_INT,,,,GSTV-Domo-Admin
+487,DS_DomoStats_DataSets_Mapped_To_UserNames,,,,Sriram Vepuri
+298,Duplicate Location_Date_Hour - 20210430 Transaction Data,,,,Garrett Kohler
+540,DXPromote Proof Of Play Delay Analysis,,Processes Proof of Play data for ad delivery verification,inferred,Aaron Olson
+182,Enabled Chevy Programmatic Sites,,,,Michael Girard
+584,Enrich Credit Mapping - Quickstart,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+594,Enrich Credit Mapping - Quickstart,,Combines multiple data sources through joining or appending,inferred,
+441,Enterprise - RPA Conversion for Vistar - V2.1 - Email Ingest,,Converts RPA scheduling data between internal and Vistar formats,inferred,GSTV-Domo-Admin
+301,ETL - IO List v3,,,,GSTV-Domo-Admin
+784,ETL to joined Simpli.fi and Salesforce Data,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Antonio Bowens
+443,EV - Restriction Management - Combined Restrictions,"All Restrictions for States, Municipalities, Retailers, and Sites",,existing,GSTV-Domo-Admin
+867,Exchange Revenue by CPM Floor,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+839,Fairlife Daily SSP,,,,Antonio Bowens
+871,Fast Sites Stats,,,,Bill Binkiewicz
+26,Fill In TI Flights,,,,
+895,Finance - CVI and NVI Modifications,,Processes network validated impression (NVI) calculations,inferred,GSTV-Domo-Admin
+690,Finance - Programmatic Revenue Analysis - Vistar Exchange Revenue by Site,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+357,flatten TI offload 2021 - 01 - 02,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+28,Flatten TI With Site Status History,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+21,Flatten TPS,,,,
+9,FlattenTI,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+77,FlattenTI2019,,Flattens traffic instruction data from nested format into a denormalized table,inferred,
+90,FourSquareExampleWithSiteInformation,,,,
+886,FP6 NVI Flow,,Processes network validated impression (NVI) calculations,inferred,Adam Doughty
+872,FP6 Site Meta Data,,,,Bill Binkiewicz
+92,Full Site List,,,,Garrett Kohler
+91,Gbase and Domo Transaction Comparisons,,Compares transaction volumes across sources for data quality validation,inferred,Aaron Olson
+55,Gilbarco - Transactions - Live - Hourly,,Processes transaction data for the specified retail network,inferred,Aaron Olson
+760,Gilbarco Applause Sites Health Dashboard - Data Flow,,Data quality monitoring and alerting pipeline,inferred,Bill Binkiewicz
+255,"Gilbarco Coupons Printed by Date, Coupon",Distinct site count and sum printed,,existing,Adam Doughty
+754,Gilbarco Hour of Week Impression Multipliers - Previous Quarter,Calculates hour of week impression multipliers for Gilbarco ICS FlexPay IV and Applause sites using the previous quarter's data.,,existing,Bill Binkiewicz
+845,Gilbarco ICS - Cloud Amplifier - 24 Hours POP,,Processes Proof of Play data for ad delivery verification,inferred,Bill Binkiewicz
+623,Gilbarco ICS - Transactions - Patch - Input,,Processes transaction data for the specified retail network,inferred,GSTV-Domo-Admin
+901,Gilbarco ICS Monthly Operating Status Process,,,,Bill Binkiewicz
+913,Gilbarco ICS Notifications - Enriched,,Combines multiple data sources through joining or appending,inferred,Viji Karthikeyan
+757,Gilbarco ICS Plays By Day,,,,Bill Binkiewicz
+723,Gilbarco ICS Pop + Site Status History,,Processes site operational status data for tracking and reporting,inferred,Bill Binkiewicz
+658,Gilbarco ICS Revenue,,,,GSTV-Domo-Admin
+720,Gilbarco ICS Site Health Transform,,Data quality monitoring and alerting pipeline,inferred,Bill Binkiewicz
+865,Gilbarco ICS Site Validation Workflow,,,,Bill Binkiewicz
+558,Gilbarco Job Stats Processor,,,,Bill Binkiewicz
+220,Gilbarco Outage Analysis,Bumpe site counts by hour by date,,existing,Adam Doughty
+213,Gilbarco Outage Impact,,,,
+664,Gilbarco Programmatic Multiplier Calculation,,,,Michael Girard
+102,Gilbarco to Adrenaline Test,,,,
+129,Gilbarco Transactions - May 2021,,Processes transaction data for the specified retail network,inferred,Aaron Olson
+621,Gilbarco V2 - Transactions - Live - Hourly,Transaction pipeline from Snowflake,,existing,GSTV-Domo-Admin
+15,GilbarcoRestartAnalysisTransform,,,,
+687,GK - Transaction Audit - YoY Network Comparison,,Compares transaction volumes across sources for data quality validation,inferred,GSTV-Domo-Admin
+641,Governance - Dataset Updates - Rows per Update,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+804,Grouped Programmatic Direct,,,,Antonio Bowens
+464,GSTV Domo User Activity,Use DS_DomoStats_Activity_Log to create a semantically valuable output of Domo use at GSTV,,existing,GSTV-Domo-Admin
+869,GSTV Fast Sites Pop Metrics,,Processes Proof of Play data for ad delivery verification,inferred,Bill Binkiewicz
+455,GTVID Creation - Venue Lead DMA Lookup,Creates GTVIDs in Salesforce using the Venue Lead's DMA field as a lookup,,existing,GSTV-Domo-Admin
+905,GVR ICS Clawback,,Calculates revenue clawback adjustments for billing,inferred,Hailee Mcfarland
+369,Heat Map - Transactions - Day of Week by Time of Day,,,,Garrett Kohler
+588,Historic - Vistar Venue Avails Before Programmatic - Data Cleanup,,Processes Vistar venue availability data for sell-through analysis,inferred,Aaron Olson
+245,Historical Comscore Transaction Report - WIP,,Patches or backfills historical data for completeness,inferred,Kayla Cekal
+650,Hivestack - Hourly Impressions By Week,,,,Aaron Olson
+646,Hourly Impression Multipliers - Site Actuals And DMA Averages,,,,Aaron Olson
+142,Hourly Transactions - Writeback,,,,Aaron Olson
+171,HR - Pulse Survey,,,,Aaron Olson
+531,HuntBrothersPizza_2023_Retailer_Logs,,,,GSTV-Domo-Admin
+422,Hurrican Ian Campaign Impact -,,,,GSTV-Domo-Admin
+788,ICS Revenue Per Site Breakdown,,,,Aaron Olson
+607,Identify Sites Playing Programmatic While Flagged Unsellable,,,,Adam Doughty
+231,Impressions by IO by DMA,,,,Abigail Kane
+233,Impressions By IO By DMA Previous Month,,,,Nick Kaufmann
+874,Instance Governance Sample Output,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+378,INT_GSTV_Stacked_Campaign,,,,Garrett Kohler
+622,Inventory - Update Place Exchange Site Status,,Processes site operational status data for tracking and reporting,inferred,Scott Anger
+31,IO List for Rev Share,,,,
+94,IO List for Rev Share 202001,,,,Garrett Kohler
+335,IO List From Vistar BI - Pervious Month,,,,Abigail Kane
+319,IO List From Vistar BI - Prior Month,,,,GSTV-Domo-Admin
+144,IO List v2 Verification Flow,,,,
+203,IO Products - Previous Month,,,,
+230,IO with DMA with Impressions,,,,Abigail Kane
+235,IOs Missing in SF,,,,Kayla Cekal
+693,IOTV to DXP Conversion Planning,,,,Adam Doughty
+147,IOTV1 Equipment and Operating Fees,,,,Aaron Olson
+446,JIRA Data Join,,Combines multiple data sources through joining or appending,inferred,Michelle Bachmann
+447,JIRA Issues w/o Dups,,,,Michelle Bachmann
+448,Jira Projects,,,,Michelle Bachmann
+454,JIRA Time Tracking Compliance - Month To Date,,,,Aaron Olson
+770,JOined,,Combines multiple data sources through joining or appending,inferred,Antonio Bowens
+773,Joined Daily SSP,,Combines multiple data sources through joining or appending,inferred,Antonio Bowens
+797,Joined DE Data,,Combines multiple data sources through joining or appending,inferred,Antonio Bowens
+909,Joined Place Exchange PMP Pacing Data,,Combines multiple data sources through joining or appending,inferred,Antonio Bowens
+209,KFC Q1 2021 Tracker Report,https://docs.google.com/spreadsheets/d/1D52RgLt7f1KYHOQNEZkOaJjKWnIvdmfj5Hk2YAQtzCQ/edit#gid=0,,existing,Adam Doughty
+701,KRPTON_TEST - Speedway - Email Transactions - Live - Hourly,Weekly Load (Live),,existing,GSTV-Domo-Admin
+514,Kwik Trip for RevShare,,Processes data for the Kwik Trip retailer network,inferred,Abigail Kane
+253,Landmark Industries Rent Payment,,,,Kayla Cekal
+42,LiveSitesPlayingWhite,,,,
+451,Magnite SSP Site List,Programmatic site list for Magnite SSP,,existing,Adam Doughty
+453,Magnite SSP Site List,,,,Adam Doughty
+536,Map View and Dataflow Inputs and Output IDs to Object Names,,,,GSTV-Domo-Admin
+307,March POP + March TI for Vistar Analysis,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+88,Market Plan,,,,
+98,Market Plan,,,,
+552,Market Plan - Direct - Using NVIs,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+843,Market Plan - Direct - Using NVIs - Casey's General Stores Only,,Processes data specific to the Casey's retailer network,inferred,Hailee Mcfarland
+598,Market Plan - Direct - Using NVIs - Gulp Media Network Only,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+659,Market Plan - Direct - Using NVIs - No Exclusions,"Same General Market Plan set up, but without the exclusions",,existing,Hailee Mcfarland
+123,Market Plan - Direct - Using Transactions,,,,Aaron Olson
+535,Market Plan - Direct w/NVI,,Processes network validated impression (NVI) calculations,inferred,Nick Kaufmann
+554,Market Plan - Programmatic - Using NVIs,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+156,Market Plan - Programmatic - Using Transactions,,,,Aaron Olson
+261,Market Plan - Site List - Snapshot - Uploaded,,,,Abigail Kane
+665,Market Plan Current vs. Previous Comparison,,,,Adam Doughty
+881,Marketing - CVI - Summer Tentpole and Holiday Transactions/Impression Trends,,,,GSTV-Domo-Admin
+477,MARSH - Clone of Sites - Base Data Set,"Combining site data from Salesforce, additional missing columns from Gbase, and finally adding in the legacy site ID",,existing,GSTV-Domo-Admin
+475,Marsh - Plays and Site Status - Sites to Reactivate,"Join Plays - by Site, Asset, Hour on Marsh - Site Status History per Day - Sites to Reactivate",,existing,GSTV-Domo-Admin
+480,MARSH - Test - Sites Reporting Proof of Play - By Day-Current Month - using Snowflake for DenormalizedPoP,,Processes Proof of Play data for ad delivery verification,inferred,GSTV-Domo-Admin
+479,MARSH - Test DenormalizeProofOfPlay - Remove Gbase Add Snowflake,,Denormalizes Proof of Play records into a flat structure for reporting,inferred,GSTV-Domo-Admin
+587,Master Monthly Impressions - Using CVIs,,,,Nick Kaufmann
+553,Master Monthly Impressions - Using NVIs,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+154,Master Monthly Impressions - Using Transactions,Creates Master Monthly Impression dataset and Post-Comscore Monthly Transactions dataset output,,existing,Aaron Olson
+263,Master | Domo_Governance_Dataset,,Domo governance dataflow for instance monitoring and credit tracking,inferred,GSTV-Domo-Admin
+76,MasterSchedule_TI-TPS,,,,
+841,Mcdonalds Daily SSP,,,,Antonio Bowens
+294,Merge Transaction Data - 0430,,Combines multiple data sources through joining or appending,inferred,Garrett Kohler
+899,Mid-Campaign Tracking - Ad Ops - Active Campaigns,,Tracks campaign delivery progress against contracted commitments,inferred,GSTV-Domo-Admin
+113,Minetola Vistar Test,,,,Adam Doughty
+128,Missing Dover Transactions - 08/13/2020 - 10/04/2020,,Processes transaction data for the specified retail network,inferred,Aaron Olson
+663,Mongo Sites,,,,GSTV-Domo-Admin
+463,Monitoring - Dataflow and Dataset Execution Status - Base Data Set - DFx,Appends DS_DomoStats_DataSets to DS_DomoStats_Dataflows for combined monitoring dataset,,existing,GSTV-Domo-Admin
+341,Monitoring - Sales Force Connector - Alerts,,Data quality monitoring and alerting pipeline,inferred,Garrett Kohler
+311,Monitoring - Salesforce Connector Data Load,,Processes Salesforce CRM data for integration with Domo reporting,inferred,GSTV-Domo-Admin
+404,Monitoring - Site Status History per Day - All Networks,,Monitoring pipeline tracking site/network operational health,inferred,GSTV-Domo-Admin
+403,Monitoring - Sites Status History,Joins Site Status History - Base Data Set onto GSTV Fiscal Calendar to Monitor Data Ingest into Domo,,existing,Garrett Kohler
+410,Monitoring - Snowflake Writebacks - Dai,,Monitors data pipeline health from Snowflake transaction feeds,inferred,GSTV-Domo-Admin
+566,Monitoring - Speedway - S3 Transactions - Live - Hourly - Store ID QA,Transaction Patch using Speedway S3 transaction data files,,existing,GSTV-Domo-Admin
+406,Monitoring - Traffic Instructions - By Network,,Monitoring pipeline tracking site/network operational health,inferred,GSTV-Domo-Admin
+413,Monitoring - Traffic Instructions - Sites Reporting,,Monitoring pipeline tracking site/network operational health,inferred,GSTV-Domo-Admin
+560,Monitoring - Transactions,,Monitors data pipeline health from Snowflake transaction feeds,inferred,GSTV-Domo-Admin
+407,Monitoring - Transactions - All Networks,,Monitoring pipeline tracking site/network operational health,inferred,GSTV-Domo-Admin
+522,Monitoring - Transactions - By Hour Analysis,,Monitors data pipeline health from Snowflake transaction feeds,inferred,GSTV-Domo-Admin
+491,Monitoring - Transactions - Data Assembler,,Monitors data pipeline health from Snowflake transaction feeds,inferred,GSTV-Domo-Admin
+521,Monitoring - Transactions - Snowflake Writeback Check,,Monitors data pipeline health from Snowflake transaction feeds,inferred,GSTV-Domo-Admin
+43,Monthly Pop for Rev Share,,Processes Proof of Play data for ad delivery verification,inferred,
+2,Monthly Revenue,,,,Aaron Olson
+556,MP MOM Comparison,,,,Adam Doughty
+234,Net Impressions by DMA,,,,Kayla Cekal
+499,Network Dashboard - Snowflake - Base Data Set,,,,GSTV-Domo-Admin
+11,Network Hourly Transactions,,,,
+643,Network Uptime Metrics,Calculate key metrics to be used in determining network uptime statistics,,existing,Bill Binkiewicz
+494,Network Validated Impressions - Base Data Set with Fiscal Calendar and Utility Helper,,Processes network validated impression (NVI) calculations,inferred,GSTV-Domo-Admin
+401,Network Validated Impressions - Daily - Recursive,,Processes network validated impression (NVI) calculations,inferred,GSTV-Domo-Admin
+440,Network Validated Impressions - Network Dashboard,"Self-joins ""Network Validated Impressions - Base Data Set"" onto itself to get Previous Week and Previous Year data",,existing,GSTV-Domo-Admin
+534,Network Validated Impressions - Sites Reporting More Than 14 Days Of NVIs In The Last 32 Days,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+30,New ETL Transform,,,,
+32,New ETL Transform,,,,
+33,New ETL Transform,,,,Aaron Olson
+57,New ETL Transform,,,,
+78,New ETL Transform,,,,Aaron Olson
+83,New ETL Transform,,,,Aaron Olson
+89,New ETL Transform,,,,
+126,New ETL Transform,,,,Aaron Olson
+140,New ETL Transform,,,,Aaron Olson
+172,New ETL Transform,,,,Aaron Olson
+185,New ETL Transform,,,,Aaron Olson
+219,New ETL Transform,,,,Aaron Olson
+251,New ETL Transform,,,,
+272,New ETL Transform,,,,Garrett Kohler
+277,New ETL Transform,,,,Kayla Cekal
+280,New ETL Transform,,,,Garrett Kohler
+373,New ETL Transform,,,,Garrett Kohler
+393,New ETL Transform,,,,GSTV-Domo-Admin
+450,New ETL Transform,,,,GSTV-Domo-Admin
+490,New ETL Transform,,,,Abigail Kane
+506,New ETL Transform,,,,Bill Binkiewicz
+606,New ETL Transform,,,,GSTV-Domo-Admin
+633,New ETL Transform,Transaction pipeline from Snowflake,,existing,GSTV-Domo-Admin
+684,New ETL Transform,,,,GSTV-Domo-Admin
+725,New ETL Transform,,,,Aaron Olson
+753,New ETL Transform,,,,Bill Binkiewicz
+768,New ETL Transform,,,,Antonio Bowens
+849,New ETL Transform,,,,GSTV-Domo-Admin
+855,New ETL Transform,,,,Bill Binkiewicz
+861,New ETL Transform,,,,Bill Binkiewicz
+880,New ETL Transform,,,,GSTV-Domo-Admin
+885,New ETL Transform,,,,Bill Binkiewicz
+891,New ETL Transform,,,,Bill Binkiewicz
+908,New High Bidders,,,,Antonio Bowens
+105,No POP Active and Temp Sites - Most Recent Day Available,For use in Hurricane reporting,,existing,Adam Doughty
+99,No POP Sites,"Sites that are Active but not receiving POP, have not yet turned Temp",,existing,Adam Doughty
+609,NOC - Full Status Report - Append Email Connector Datasets,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+576,NOC - Monitoring - Site Plays,,Monitoring pipeline tracking site/network operational health,inferred,GSTV-Domo-Admin
+567,"NOC - Play Monitoring - by Site, Asset, Hour",,Monitoring pipeline tracking site/network operational health,inferred,GSTV-Domo-Admin
+808,NOC Flow - All Platforms FP6 DXP IOTV FP4 ICS Jupiter Status,,,,Adam Doughty
+850,NOC Flow - Brand / Retailer Changes - Last 14 Days,,,,Adam Doughty
+851,NOC Flow - Brand / Retailer Changes - Last 14 Days Alternate,,,,Adam Doughty
+842,NOC Flow - Casey's Deployment POP History,,Processes data specific to the Casey's retailer network,inferred,Adam Doughty
+782,NOC Flow - DXP Conversion Requirements,,,,Adam Doughty
+783,NOC Flow - Evergreen Analysis,,,,Adam Doughty
+911,NOC Flow - FP6 Activation Date Calculation,,,,Adam Doughty
+798,NOC Flow - FP6 Reporting,,,,Adam Doughty
+729,NOC Flow - ICS POP and Screen Counts,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+870,NOC Flow - ICS Sites that Need Activation Date,,,,Adam Doughty
+914,NOC Flow - Jupiter Sites Report,,,,Adam Doughty
+738,NOC Flow - Metrics Data Summary,,Aggregates or summarizes data for reporting,inferred,Adam Doughty
+611,NOC Flow - NFC + Screen/Dispenser,,,,Adam Doughty
+762,NOC Flow - NVI History,,Processes network validated impression (NVI) calculations,inferred,Adam Doughty
+737,NOC Flow - Retail Partnerships Reporting,,,,Adam Doughty
+733,NOC Flow - Retailer with Mixed Managed Service Sites,,,,Adam Doughty
+795,NOC Flow - Revenue by Site / DMA,,,,Adam Doughty
+805,NOC Flow - RPA Sites & Retailers,,,,Adam Doughty
+800,NOC Flow - Screen Hardware,,,,Adam Doughty
+829,NOC Flow - Screen POP Summary,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+727,NOC Flow - Sites Reporting POP by Platform,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+748,NOC Flow - Status History,,,,Adam Doughty
+745,NOC Flow - Unsellable Flag Summary,,Aggregates or summarizes data for reporting,inferred,Adam Doughty
+673,NOC Master Data,,,,Adam Doughty
+716,NOC Report - Circle K ICS Deactivated Monitor,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+698,NOC Report - GVR Weekly Offline,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+678,NOC Report - ICS Reports,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+675,NOC Report - Market Plan Preview,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+682,NOC Report - Monthly/Weekly SLT Inventory Changes,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+699,NOC Report - POP / Transaction History Summary,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+722,NOC Report - Retailer Site Reports,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+709,NOC Report - TDLINX Update Flow,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+697,NOC Report - Transactions vs Prior Years,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+718,NOC Report - Wayne Gilbarco Partner Data,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+677,NOC Report - Weekly Master Reports,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+259,NOC Report Flow - Count of Network Status By Date By Network,OKR Weekly Report,,existing,Adam Doughty
+210,NOC Report Flow - Count of Network Status By Date By Program,OKR Weekly Report,,existing,Adam Doughty
+717,NOC Report Transactions History,,Generates Network Operations Center reporting data,inferred,Adam Doughty
+543,NVI - Monthly DMA Averages,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+501,NVI Historic - Base Data Set,,Processes network validated impression (NVI) calculations,inferred,GSTV-Domo-Admin
+551,NVIs - Daily and Monthly Calculations,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+597,NVIs - Daily and Monthly Calculations - Gulp Media Network Only,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+831,Odyssey 2.0 - Advertiser Churn,"Outputs: Odyssey 2.0 - Advertiser Revenue, Odyssey 2.0 - Site Revenue",,existing,GSTV-Domo-Admin
+838,Odyssey 2.0 - Exchange Revenue by Advertiser,Pluto,,existing,GSTV-Domo-Admin
+837,"Odyssey 2.0 - Programmatic - Exchange Revenue - by Date, Site",,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+824,Odyssey 2.0 - Programmatic Revenue - Period Comparisons,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+833,Odyssey 2.0 - Programmatic Revenue - SSP - Full Granularity,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+774,"Odyssey 2.0 - Revenue, Diagnostics, and Availability - by Site",,Calculates ad inventory availability for scheduling and sell-through,inferred,GSTV-Domo-Admin
+806,"Odyssey 2.0 - Vistar - Exchange and Deal Revenue - by Site, Adversiter",,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+427,OPP/IO for Sept. Rev Share w IO 7409,,,,Abigail Kane
+138,OPP/IO Rev - Base Data Set,,,,GSTV-Domo-Admin
+1,Opportunities - Base Data Set,,,,GSTV-Domo-Admin
+900,Opportunities - Buying Agencies,,,,GSTV-Domo-Admin
+303,Orca Transaction Patch - Data Assembler Output Schema Match,,Patches or backfills historical data for completeness,inferred,Garrett Kohler
+296,Output - Merge Transactions - 0412,,Combines multiple data sources through joining or appending,inferred,Garrett Kohler
+295,Output - Remove Duplicated - Merged Transaction Data - 0430,,Combines multiple data sources through joining or appending,inferred,Garrett Kohler
+297,Output - Remove Duplicates - Merge Transactions - 0412,,Combines multiple data sources through joining or appending,inferred,Garrett Kohler
+116,Parkin Vistar,GTV + Vistar Enabled,,existing,Adam Doughty
+462,Partner Inventory List - AdQuick,,,,Isaac Olowokere
+459,Partner Inventory List - Adstruc,,,,Isaac Olowokere
+493,Partner Inventory List - Billups,,,,Isaac Olowokere
+460,Partner Inventory List - Domedia,,,,Isaac Olowokere
+461,Partner Inventory List - Goldfish Ads,,,,Isaac Olowokere
+458,Partner Inventory List - MediaX,,,,Isaac Olowokere
+471,Partner Inventory List - Rapportal,,,,Isaac Olowokere
+500,Partner Inventory List - Talon/Plato - Offline Frames,,,,Isaac Olowokere
+457,Partner Inventory List - Talon/Plato - Online Frames,,,,Isaac Olowokere
+121,Partner Site List - Adomni,,,,Aaron Olson
+177,Partner Site List - Adquick,,,,Aaron Olson
+176,Partner Site List - Aki,,,,Aaron Olson
+519,Partner Site List - Broadsign,,,,Abigail Kane
+206,Partner Site List - Hivestack,,,,Abigail Kane
+207,Partner Site List - Hivestack,,,,Abigail Kane
+97,Partner Site List - Place Exchange,,,,GSTV-Domo-Admin
+64,Partner Site List - Ubimo,,,,GSTV-Domo-Admin
+472,Partner Transaction List - Rapportal,,,,Aaron Olson
+354,Patch -  Opportunities - Base Data Set,,Patches or backfills historical data for completeness,inferred,Garrett Kohler
+429,Patch - DFx - Vistar Programmatic Exchange Revenue,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+353,Patch - OPP/IO Rev - Base Data Set,,Patches or backfills historical data for completeness,inferred,Garrett Kohler
+555,Patch - Speedway - S3 Transactions - Live - Hourly,Transaction Patch using Speedway S3 transaction data files,,existing,GSTV-Domo-Admin
+384,Patch - Transactions - All Networks,,Patches or backfills historical data for completeness,inferred,Garrett Kohler
+127,Patch - Transactions - All Networks - Hourly,"Takes combined patch data from all networks, assigns partition key, joins site and status history data, and creates an input dataset for Data Assembler to partition-update the Unvalidated Transactions - Hourly dataset",,existing,GSTV-Domo-Admin
+312,Patch - Transactions - Gilbarco,,Processes transaction data for the specified network,inferred,
+313,Patch - Transactions - Speedway,,Processes transaction data for the specified network,inferred,Garrett Kohler
+565,Patch - Transactions - Speedway V2 - S3 Data,S3 patch process,,existing,GSTV-Domo-Admin
+314,Patch - Transactions - Wayne,,Processes transaction data for the specified network,inferred,
+550,Patch - Wayne Transactions - Weighted Calculation,,Processes transaction data for the specified retail network,inferred,GSTV-Domo-Admin
+518,Patch DA - Programmatic Revenue - Hivestack,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+507,Patch Process - Vistar SSP Revenue,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+771,PD Campaign with Months,,,,Antonio Bowens
+894,Platinum - Calc Active site Days,,,,GSTV-Domo-Admin
+892,Platinum - Monthly Validated Revenue Days by Site,,,,GSTV-Domo-Admin
+893,Platinum - Monthly Validated Revenue Days by Site,,,,GSTV-Domo-Admin
+903,Platinum - Site Tiers with Revenue Predictions,,,,GSTV-Domo-Admin
+793,Pluto - CPM Floors - Live,,,,GSTV-Domo-Admin
+785,Pluto - CPM Group Tracking,,,,GSTV-Domo-Admin
+786,Pluto - Dashboard Reporting,,,,GSTV-Domo-Admin
+775,Pluto - Exchange Revenue - Hourly by Site,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+787,Pluto - Fill First 3 Weeks CPM Floor,,,,GSTV-Domo-Admin
+794,Pluto - Period Comparison Metrics,,,,GSTV-Domo-Admin
+766,Pluto - Regression Analysis,,,,GSTV-Domo-Admin
+781,Pluto - Reporting Metrics,,,,GSTV-Domo-Admin
+743,"Pluto - Revenue - Vistar Exchange and Flex - Live - Daily, by Site",,,,GSTV-Domo-Admin
+799,Pluto - Sankey Chart - Process Data,,,,GSTV-Domo-Admin
+769,Pluto - Test Group Tracking,,,,GSTV-Domo-Admin
+744,"Pluto - Vistar Diagnostic and Revenue - Live - Daily, by Site",,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+741,"Pluto - Vistar Diagnostics and Revenue - Live - Daily, by Site",,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+742,"Pluto - Vistar Diagnostics and Site Data - All - Daily, by Site",,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+777,Pluto - Weekly Fill Rate Groups,,,,GSTV-Domo-Admin
+834,PMAR-202 - Site Plays and Leases,,,,GSTV-Domo-Admin
+240,POP for the week,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+80,PoP Report QL,,Processes Proof of Play data for ad delivery verification,inferred,Al Minetola
+111,PoP_byNetwork,,Processes Proof of Play data for ad delivery verification,inferred,
+310,Posterscope Formatted Site Data,,,,Adam Doughty
+685,Pricing Test - Programmatic Revenue By Venue Groups,,Aggregates programmatic exchange revenue data,inferred,Bill Binkiewicz
+730,PROD - Append - Create Prioritized RPA Schedule and RPA Names,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+732,PROD - Append - IO Updates,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+731,PROD - Append - Managed Service Retailer Contracts,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+734,PROD - Managed Services - Determine RPAs to be Unscheduled,"This dataflow creates the output dataset that will be compared to the RPA Conversion - 2 Line Items, which will remove line items that are categorized as ""RPA to Unschedule"" in this dataflow.",,existing,GSTV-Domo-Admin
+736,PROD - Managed Services - RPA Conversion - Create Line Items - Ad Ops RPA Conversion,Output for Vistar Schedule Upload,,existing,GSTV-Domo-Admin
+897,PROD - ORCA 6.0 - Mid-Campaign Tracking,,Tracks campaign delivery progress against contracted commitments,inferred,GSTV-Domo-Admin
+752,PROD - Pluto - Revenue and Diagnostics,,,,GSTV-Domo-Admin
+484,PROD - Programmatic - Place Exchange - Revenue - by Date,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+503,PROD - Programmatic - SSP Revenue,Append SSP data together,,existing,GSTV-Domo-Admin
+751,PROD - Programmatic - Vistar Email - Diagnostic Insights - Daily by Site,,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+860,PROD - Programmatic - Weekly New Advertisers,,,,GSTV-Domo-Admin
+807,PROD - Programmatic Revenue and Diagnostics - Base Data Sets - Odyssey + Pluto,"Outputs: Odyssey 2.0 - Advertiser Revenue, Odyssey 2.0 - Site Revenue",,existing,GSTV-Domo-Admin
+399,PROD - RPA Conversion 3.1 - 2 Line Items - Ad Ops,,Converts RPA scheduling data between internal and Vistar formats,inferred,Jim Borovsky
+889,PROD - RPA Scheduling - Append Most Recent Schedules from RSMs and Enterprise,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+890,PROD - Site Scoring - Data for Classification Labeling,,,,GSTV-Domo-Admin
+358,PROD | Dataflow for Instance Governance Dashboard App,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+615,PROD | Dataflow for Instance Governance Dashboard App,,Administrative/governance dataflow for platform management,inferred,GSTV-Domo-Admin
+875,PROD_GSTV_InstanceGovernance,,Domo governance dataflow for instance monitoring and credit tracking,inferred,GSTV-Domo-Admin
+683,Programmatic - Ad Leases and Expirations,,,,GSTV-Domo-Admin
+583,Programmatic - Ad Request Monitoring - Combine Cloudwatch EC2 Monitoring Sources,,Combines multiple data sources through joining or appending,inferred,GSTV-Domo-Admin
+747,Programmatic - Add Fields to Programmatic Campaign Pacing,# of Days,,existing,Antonio Bowens
+778,Programmatic - Cominbed for POP,,Processes Proof of Play data for ad delivery verification,inferred,Antonio Bowens
+657,Programmatic - Diagnostics and Revenue by Venue,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+563,Programmatic - Direct Revenue - By Network - Finance,,Aggregates programmatic exchange revenue data,inferred,Nick Kaufmann
+906,Programmatic - DX Promote Tracking,,,,GSTV-Domo-Admin
+483,Programmatic - Exchange - Revenue - Hivestack,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+482,Programmatic - Exchange - Revenue - Vistar,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+473,Programmatic - Hivestack Patch - Fix Email Connector Dataset,,Patches or backfills historical data for completeness,inferred,GSTV-Domo-Admin
+636,Programmatic - Impression Delivery,,,,GSTV-Domo-Admin
+830,Programmatic - Mongo - Site Leases and Plays,,,,GSTV-Domo-Admin
+840,Programmatic - New Advertiser Spend Alert,,Data quality monitoring and alerting pipeline,inferred,GSTV-Domo-Admin
+835,Programmatic - New Revenue from Play Rate Increase,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+715,Programmatic - Place Exchange with Destination Media,,,,GSTV-Domo-Admin
+823,Programmatic - Revenue - Full Granularity - Live,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+902,Programmatic - Revenue - Place Exchange - Base Data Set,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+749,Programmatic - Vistar - Exchange Revenue - Daily by Site,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+761,"Programmatic - Vistar - Exchange Revenue - Daily Email Load - by Day, Site",,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+755,Programmatic - Vistar - Fill Rate,,,,GSTV-Domo-Admin
+750,Programmatic - Vistar - Flexible Revenue - Daily by Site,Pluto,,existing,GSTV-Domo-Admin
+433,Programmatic - Vistar Direct Revenue - Daily by Site,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+485,Programmatic - Vistar Flexible and Exchange Revenue - Base Data Set,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+653,Programmatic - Vistar SSP Revenue - by Venue by Day,Use for daily site-level programmatic revenue.,,existing,GSTV-Domo-Admin
+582,Programmatic Ad Leases and Expirations - Base Data Set,,,,GSTV-Domo-Admin
+361,Programmatic Ad Leases V2 - With BackToBackAnalysis,,,,GSTV-Domo-Admin
+174,Programmatic Ad Leases with Revenue,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+260,Programmatic Competition 1w,,,,
+863,Programmatic Diagnostics - Base Data Set,,,,GSTV-Domo-Admin
+337,Programmatic Leases by Sites by hour with Unique assets,,,,GSTV-Domo-Admin
+143,Programmatic Market Plan,,,,Aaron Olson
+859,Programmatic Play Rate - Base Data Set,,,,GSTV-Domo-Admin
+585,Programmatic PoP Blockers - Site Enablement Tracking,,Processes Proof of Play data for ad delivery verification,inferred,GSTV-Domo-Admin
+517,Programmatic Revenue - Vistar Direct,,Aggregates programmatic exchange revenue data,inferred,GSTV-Domo-Admin
+896,Programmatic Revenue - YoY YTD Analysis,,Aggregates programmatic exchange revenue data,inferred,Aaron Olson
+714,Programmatic Revenue and Diagnostics,"Revenue, Costs, and Impressions by site for Vistar Direct, Vistar Exchange, Place Exchange, Hivestack, and Broadsign",,existing,GSTV-Domo-Admin
+198,Programmatic Site Enable_Disable Analysis,,,,
+586,Programmatic Site Enablement - PoP Blockers,,Processes Proof of Play data for ad delivery verification,inferred,GSTV-Domo-Admin
+721,Project Krypton - Speedway Transaction Analysis,,Processes data specific to the Speedway retailer network,inferred,Aaron Olson
+711,Project Krypton - SWGA Oil Fuel Transactions 2024,,,,Aaron Olson
+204,Provided Locations Matched to TDLinx Verified Addresses,,,,Aaron Olson
+847,QA Vegas 2.1 - RPA Managed Services - Determine RPAs to be Unscheduled,"This dataflow creates the output dataset that will be compared to the RPA Conversion - 2 Line Items, which will remove line items that are categorized as ""RPA to Unschedule"" in this dataflow.",,existing,GSTV-Domo-Admin
+355,QSR Analysis Test,,,,Abigail Kane
+191,Quicken Aug- November,,,,Abigail Kane
+547,REID - RPA Conversion for Salesforce Handoff,,Converts RPA scheduling data between internal and Vistar formats,inferred,GSTV-Domo-Admin
+694,Retail Success - CA Tribal Council - Weekly Schedule Upload,,,,Al Minetola
+884,Retail Success - Daily Scheduled Creatives,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+468,Retailer Health,Identifying Retailers where a large percentage of their sites are Temporarily Deactivated,,existing,Skye Morgan
+376,Retailer Temp 50+/50%+,Part of Retailer Temp reports,,existing,Adam Doughty
+29,Rev Allocation - Base Data Set,,,,GSTV-Domo-Admin
+528,Rev Share - PoP,,Processes Proof of Play data for ad delivery verification,inferred,GSTV-Domo-Admin
+412,Revenue by DMA,,,,Abigail Kane
+445,Revenue by Site by Network,,,,Abigail Kane
+223,Revenue by State Analysis,,,,Aaron Olson
+197,Revenue Share - Discrepancies,,Calculates revenue share or commission allocations,inferred,Kayla Cekal
+148,Revenue Share - Network Partners,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+212,Revenue Share - Network Partners - Configurable,,Calculates revenue share or commission allocations,inferred,Kayla Cekal
+268,Revenue Share - Network Partners - Live,,Calculates revenue share or commission allocations,inferred,GSTV-Domo-Admin
+193,Revenue Share - Retailer Campaigns,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+478,Revenue Share - Retailer Campaigns - Historical,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+167,Revenue Share - Site/State,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+228,Revenue Share - Site/State - Configurable,,Calculates revenue share or commission allocations,inferred,Kayla Cekal
+640,Revenue Share - Unified,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+504,Revenue Share patch - Transactions,,Calculates revenue share or commission allocations,inferred,Abigail Kane
+672,Revenue Share Unified - Retailer Campaigns,,Calculates revenue share or commission allocations,inferred,Hailee Mcfarland
+276,RPA Conversion for Vistar,,Converts RPA scheduling data between internal and Vistar formats,inferred,Aaron Olson
+724,RPA Conversion for Vistar - Aaron's Original,,Converts RPA scheduling data between internal and Vistar formats,inferred,Al Minetola
+386,RPA Conversion for Vistar - V2.0 - 4 Slots,,Converts RPA data to Vistar multi-slot scheduling format,inferred,Aaron Olson
+595,RPA Engagement - Site Plays,,,,GSTV-Domo-Admin
+16,RPA Plays,,,,
+17,RPA Plays Analysis,,,,
+437,RPA POP to Unified Filenames,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+608,RPA Scheduling - Base Data Set,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+624,RPA Scheduling - Check for Asset Name in Nuxeo - AW,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+628,RPA Scheduling - Check for Asset Name in Nuxeo - BR,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+627,RPA Scheduling - Check for Asset Name in Nuxeo - DC,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+625,RPA Scheduling - Check for Asset Name in Nuxeo - LRamirez,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+626,RPA Scheduling - Check for Asset Name in Nuxeo - LRobertson,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+631,RPA Scheduling - Check for Asset Name in Nuxeo - MH,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+630,RPA Scheduling - Check for Asset Name in Nuxeo - PH,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+629,RPA Scheduling - Check for Asset Name in Nuxeo - PS,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+887,RPA Scheduling - Daypart Blockers,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+559,RPA Scheduling - Remove Duplicates,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+601,RPA Scheduling Blockers - Check RPA Creative Names in Media Distribution Verified Assets,,Processes creative content scheduling data,inferred,GSTV-Domo-Admin
+439,RPA Utilization - Active Prev Month - Date Filter,,Filters or segments data for a specific use case,inferred,Sriram Vepuri
+426,RPA Utilization - dataset,,,,Sriram Vepuri
+435,RPA Utilization - Exxon - for Next Month data flow,,,,Sriram Vepuri
+436,RPA Utilization - Interim version - for Next Month data flow,,,,Sriram Vepuri
+465,RPA Utilization - Previous Month Utilization - 2022,Active RPA Util Prev Month data flow - for each month in 2022,,existing,GSTV-Domo-Admin
+470,RPA Utilization - VSC based Active RPA Util Prev Month data flow - for each month in 2023,,,,GSTV-Domo-Admin
+428,RPA Utilization data flow,,,,Sriram Vepuri
+288,RPAs - Historic - Google Sheet Output,,,,Aaron Olson
+281,RPAs - Historic - Vistar Output,,,,Aaron Olson
+14,RyanDateTest,,,,
+866,Sales Planning - Campaign Extension Flagging,,,,GSTV-Domo-Admin
+236,Salesforce and TIM IO Reconciliation - Filterable,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Kayla Cekal
+388,Sandbox Virtual Datasets,,,,
+387,Sell Through Calculations - V1,"Combines data from Vistar scheduling, Vistar revenue, and site status histories to calculate sell through rates based on pre- and post-programmatic sold times",,existing,Aaron Olson
+114,Site By Week Backbone,,,,Aaron Olson
+79,Site Filter Test,,Filters or segments data for a specific use case,inferred,
+617,Site Inventory Availability,,Calculates ad inventory availability for scheduling and sell-through,inferred,GSTV-Domo-Admin
+898,Site Level Opportunity,,,,Antonio Bowens
+456,Site Metric Study - Site Status,,Processes site operational status data for tracking and reporting,inferred,Abigail Kane
+258,Site Metrics - Characteristics - Completeness - Monthly,,,,Aaron Olson
+141,Site Metrics - Characteristics - Completeness - Weekly,,,,Aaron Olson
+257,Site Metrics - Characteristics - KPI - Monthly,,,,Aaron Olson
+160,Site Metrics - Characteristics - KPI - Weekly,,,,Aaron Olson
+159,Site Metrics - Characteristics Historic ETL,,,,Aaron Olson
+183,Site Metrics - Network - Change - Monthly,,,,Aaron Olson
+139,Site Metrics - Network - Change - Weekly,,,,Aaron Olson
+372,Site Metrics - Network - Change - Weekly - Patch,,Patches or backfills historical data for completeness,inferred,Aaron Olson
+178,Site Metrics - Network - Monthly - Snapshot,,,,Aaron Olson
+161,Site Metrics - Network - Snapshot,,,,Aaron Olson
+492,Site Metrics - Network - Snapshot - Patch,,Patches or backfills historical data for completeness,inferred,Aaron Olson
+158,Site Metrics - Network Growth Historic ETL,,,,Aaron Olson
+575,"Site Revenue By County, ZIP, and DMA With NVIs And Impressions",,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+836,"Site Scores - Site Revenue, Impressions, and Diagnostics",,,,GSTV-Domo-Admin
+858,Site Scoring - DMA CVI Variance,,,,GSTV-Domo-Admin
+82,Site Status by Day,,Processes site operational status data for tracking and reporting,inferred,Aaron Olson
+581,Site Status Ending with State Detail,,Processes site operational status data for tracking and reporting,inferred,Abigail Kane
+120,Site Status History - Base Data Set,,Processes site operational status data for tracking and reporting,inferred,GSTV-Domo-Admin
+315,Site Status History by Day - Patch,,Processes site operational status data for tracking and reporting,inferred,GSTV-Domo-Admin
+371,Site Status History Per Day - Configurable - Patch,Date Range Transform Parameters - change date in history_cross_join to change,,existing,GSTV-Domo-Admin
+131,Site Status History per Day - Current Day,Creates a per site per day record based on the available statuses,,existing,Aaron Olson
+45,Site Status History per Day - Historic,Creates a per site per day record based on the available statuses,,existing,
+654,Site Status History per Day - Replace MySQL Dataflow,Replace Data Assembler Job Site Status per Day,,existing,GSTV-Domo-Admin
+118,Sites - Base Data Set,"Combining site data from Salesforce, additional missing columns from Gbase, and finally adding in the legacy site ID",,existing,GSTV-Domo-Admin
+578,Sites - Calculate Missing Data For FatTail To Write To Salesforce,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Aaron Olson
+666,Sites - Configurations,,,,GSTV-Domo-Admin
+202,Sites - Days With Proof of Play - Configurable,,Processes Proof of Play data for ad delivery verification,inferred,Aaron Olson
+151,Sites - Days With Proof of Play - Previous Month,,Processes Proof of Play data for ad delivery verification,inferred,Aaron Olson
+667,Sites - Programmatic,,,,GSTV-Domo-Admin
+912,Sites - Salesforce Writeback - Create Input Dataset,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Abigail Kane
+3,Sites Analytics,,,,
+873,Sites Programmatic CPMs by Week,,,,Michael Girard
+285,Sites Reporting Plays - Delete after use,,,,Kayla Cekal
+211,Sites Reporting Proof of Play - By Day - Configurable,,Processes Proof of Play data for ad delivery verification,inferred,Kayla Cekal
+221,Sites Reporting Proof of Play - By Day - Previous Month,,Processes Proof of Play data for ad delivery verification,inferred,Aaron Olson
+287,Sites Reporting Proof of Play - By Day-Current Month,,Processes Proof of Play data for ad delivery verification,inferred,Kayla Cekal
+104,Sites with Current POP,List of sites with POP on most recent day available,,existing,Adam Doughty
+44,Sites | w/Legacy ID,,,,
+489,Sites_LEFT_JOINED_With_POP,,Processes Proof of Play data for ad delivery verification,inferred,GSTV-Domo-Admin
+336,Slack Dataflow,,,,Garrett Kohler
+342,Snowflake Writeback - Monitoring - Alerts,,Data quality monitoring and alerting pipeline,inferred,Garrett Kohler
+180,Speedway - Email Transactions - Live - Hourly,Weekly Load (Live),,existing,Aaron Olson
+130,"Speedway - Missing Transactions - April 2020, May 2020, September 2020",,Processes data specific to the Speedway retailer network,inferred,Aaron Olson
+359,Speedway - R1T - Live Transactions - Backfill,ONE-TIME Run of a Live Transactions backfill for 5/8-5/17,,existing,GSTV-Domo-Admin
+546,Speedway - S3 Transactions - Live - Hourly,S3,,existing,GSTV-Domo-Admin
+549,Speedway - S3 Transactions - Live - Hourly - copy for testing,,Processes data specific to the Speedway retailer network,inferred,GSTV-Domo-Admin
+81,Speedway - Transactions - Live - Hourly - Weekly Input,Weekly Load (Live),,existing,Aaron Olson
+544,Speedway Analysis - Revenue and Impressions by Network,,Processes data specific to the Speedway retailer network,inferred,GSTV-Domo-Admin
+35,Speedway Historical Site Hourly Data to Week totals,,Processes data specific to the Speedway retailer network,inferred,
+53,Speedway Hourly Transactions | REC,,Processes data specific to the Speedway retailer network,inferred,
+832,Speedway Plays By Day,,Processes data specific to the Speedway retailer network,inferred,Bill Binkiewicz
+826,Speedway Pop + Site Status History,,Processes data specific to the Speedway retailer network,inferred,Bill Binkiewicz
+201,Speedway Rent Payment - Configurable,,Processes data specific to the Speedway retailer network,inferred,Abigail Kane
+145,Speedway Rent Payment - Daily,,Processes data specific to the Speedway retailer network,inferred,Aaron Olson
+495,Speedway Rent Payment - Hourly,,Processes data specific to the Speedway retailer network,inferred,Abigail Kane
+34,Speedway Site Hourly Data to Week totals,,Processes data specific to the Speedway retailer network,inferred,
+37,Speedway Site/Week Aggregated Data,,Processes data specific to the Speedway retailer network,inferred,
+548,Speedway-Sources-QA-check,,Processes data specific to the Speedway retailer network,inferred,GSTV-Domo-Admin
+100,SQL No POP Sites,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+273,SQL Pivot TASK_MONITORING,,,,Garrett Kohler
+772,SSP Daily Joined,,Combines multiple data sources through joining or appending,inferred,Antonio Bowens
+713,"SSP Revenue - All SSPs - by Date, Site","Revenue, Costs, and Impressions by site for Vistar Direct, Vistar Exchange, Place Exchange, Hivestack, and Broadsign",,existing,GSTV-Domo-Admin
+532,SSP Revenue - Broadsign,,,,GSTV-Domo-Admin
+591,SSP Revenue - Load Prior Day into Base Data Set,,,,GSTV-Domo-Admin
+486,"SSP Revenue - PX - Grouped by Date, Advertiser, Buy Type, DSP",,,,GSTV-Domo-Admin
+670,Standard ICS Clawback,,Calculates revenue clawback adjustments for billing,inferred,Kayla Cekal
+289,Standardize Filename for Site Count by Filename,,,,Adam Doughty
+323,State Farm - Campaign Start Reporting,,,,Aaron Olson
+317,State Farm - Contract Log Processing,,,,Aaron Olson
+379,State Farm - Delivery - Patch - Formatted Input,,Patches or backfills historical data for completeness,inferred,Aaron Olson
+322,State Farm - Expected Schedule By Day,Create A Row Per Day Per Site For Each Day Of The Flight Per Campaign,,existing,Aaron Olson
+318,State Farm - Plays - Live - Daily,,,,Aaron Olson
+356,State Farm - Reporting - Monthly Plays,,,,Aaron Olson
+184,State Farm Agent POP Totals,,Processes Proof of Play data for ad delivery verification,inferred,Adam Doughty
+67,State Farm Playback Issues,,,,
+282,Summarize Transactions by Date and Network,"Gets Date, Network,  ID - Gbase, grouped by Date, Network",,existing,Garrett Kohler
+825,Take 5 Merged,,Combines multiple data sources through joining or appending,inferred,Antonio Bowens
+125,TDLinx - Updates for Gbase,,,,Aaron Olson
+218,TDLinx - Updates for Gbase (Updating WIP),,,,Abigail Kane
+226,TDLinx Data Integrity,,,,Kayla Cekal
+227,TDLinx Data Integrity Sites Not Matched,,,,Kayla Cekal
+557,Temp - Additional Dover Transactions Analysis,,Processes transaction data for the specified retail network,inferred,Aaron Olson
+681,TEMP - Analysis - Transactions - YoY By Site By Day,,,,Aaron Olson
+854,TEMP - Casey's Standup - Average Daily And Monthly Impressions,,Processes data specific to the Casey's retailer network,inferred,Aaron Olson
+216,Temp - Circle K - Synthetic Transactions,,Processes data for the Circle K retailer network,inferred,Aaron Olson
+417,TEMP - CVI Testing - Revenue Share - Network Partners,,Calculates revenue share or commission allocations,inferred,Aaron Olson
+579,TEMP - CVIs And Revenue By Site By Month - Since FY23,,,,Aaron Olson
+570,TEMP - DFS Offline Sites Since 2023,,,,Aaron Olson
+564,TEMP - DXPromote - Derived Versus Provided Transaction Analysis - Normalized,,,,Aaron Olson
+739,TEMP - ICS Analysis 3-25-2025,,,,Bill Binkiewicz
+703,TEMP - ICS Site Analysis - November 2024 - February 2025,,,,Aaron Olson
+848,TEMP - Investigating Unvalidated Transaction Dataset Discrepancies,,,,Aaron Olson
+505,TEMP - IOTV DXPromote Binned Data - July 2023,,,,Aaron Olson
+562,TEMP - Master Station List Individual Site Delta Analysis,,,,Aaron Olson
+846,TEMP - Monthly Revenue With Site Status History And Transactions For Analysis,,Processes site operational status data for tracking and reporting,inferred,Aaron Olson
+304,TEMP - Network Validated Impressions Comparisons,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+545,TEMP - NVI Market Plan Comparison,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+415,TEMP - NVI Testing - Market Plan - Direct,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+416,TEMP - NVI Testing - Transactions - Daily and Monthly Calculations,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+660,TEMP - NVIs - Daily and Monthly Calculations - 365 Day Lookback,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+661,TEMP - NVIs - Daily and Monthly Calculations - 90 Day Lookback,,Processes network validated impression (NVI) calculations,inferred,Aaron Olson
+590,TEMP - Open Exchange CPM Analysis,,,,Aaron Olson
+763,TEMP - Programmatic Analysis,,,,Bill Binkiewicz
+767,TEMP - Project Pluto - Fill Rate - Prior Week,,,,Aaron Olson
+541,TEMP - Salesforce Duplicate Task Analysis,,Processes Salesforce CRM data for integration with Domo reporting,inferred,Aaron Olson
+605,Temp - Sell Through V2,,"Calculates sell-through rates combining avails, scheduling, and revenue data",inferred,GSTV-Domo-Admin
+529,TEMP - Site Status History per Day - Historic Rerun,Creates a per site per day record based on the available statuses,,existing,Aaron Olson
+568,TEMP - Supply Accuracy Analysis,,,,Aaron Olson
+674,TEMP - Transaction Analysis - Month Over Month By Site,,,,Aaron Olson
+692,TEMP - Vistar Diagnostic Insights - Q4 2024,,Processes Vistar diagnostic data for programmatic health monitoring,inferred,Aaron Olson
+853,temp_hackathon,,,,GSTV-Domo-Admin
+217,Temporary - Site Metrics - Network - Monthly Change - Restating Historic Data,,,,Aaron Olson
+187,Temporary - Site Metrics - Network - Weekly Change - Fixing Historic Data,,,,Aaron Olson
+520,"Test - Create, Add to Repository, Commit, Promote in Production, Delete in Sandbox",,,,GSTV-Domo-Admin
+688,Test - Deduplicated Ad Leases on _ID,,,,GSTV-Domo-Admin
+338,TEST - DFx Output - Traffic Instructions - Monitoring,,,,Garrett Kohler
+513,Test - Materialize Data from Snowflake for Virtualization in Sandbox,,,,GSTV-Domo-Admin
+333,TEST - Network Validated Impressions,,Processes network validated impression (NVI) calculations,inferred,Garrett Kohler
+888,TEST - Revenue and Diagnostics - Site Scoring - Training Model Input,,,,GSTV-Domo-Admin
+512,Test - Sandbox DataFlow - Copy Creation,,,,GSTV-Domo-Admin
+254,TEST - Shortened,,,,
+377,TEST_GSTV_Campaign_Data,,,,Garrett Kohler
+700,TEST_KRYPTON - Gilbarco - Transactions - Live - Hourly,,Processes transaction data for the specified retail network,inferred,GSTV-Domo-Admin
+696,TEST_KRYPTON Wayne - Transactions - Live - Hourly,,Processes transaction data for the specified retail network,inferred,GSTV-Domo-Admin
+705,TEST_VEGAS - User Input Validation,,,,GSTV-Domo-Admin
+196,Texas POP Sites,For Snowstorm analysis,,existing,Adam Doughty
+10,Traffic Instruction Plays,,Processes traffic instructions and matches to play records,inferred,
+12,Traffic Instruction Plays - Collapsed,,Processes traffic instructions and matches to play records,inferred,
+7,Traffic Instruction Testing - Aaron,,,,Aaron Olson
+395,Traffic Instructions - Configurable,,,,Abigail Kane
+321,Traffic Instructions - Filter Duplicates from Vistar BI Reports,,Filters or segments data for a specific use case,inferred,Garrett Kohler
+389,Traffic Instructions - Previous Month,,,,Aaron Olson
+186,Traffic Instructions - Previous Month - Manual Overrides,,,,Aaron Olson
+367,Traffic Instructions Monitoring - Asset Count by Site-Day - DF367,,Monitoring pipeline tracking site/network operational health,inferred,
+686,Transaction Data Assembler Audit - 2024/2025 Speedway and Dover,"Auditing null counts for Program, Network, Status, GTVID and identifying other issues",,existing,GSTV-Domo-Admin
+515,Transaction Monitoring - Base Data Set,,,,GSTV-Domo-Admin
+510,Transaction Monitoring - Segment Networks,"Input is Snowflake Transaction Monitoring Connector. This creates three output datasets, one for each network.",,existing,GSTV-Domo-Admin
+593,Transaction Monitoring Dashboard,,,,GSTV-Domo-Admin
+56,Transactions & Proof of Play,,Processes Proof of Play data for ad delivery verification,inferred,
+618,Transactions - Certification,,,,Garrett Kohler
+136,Transactions - Daily and Monthly Calculations,,,,Aaron Olson
+634,Transactions - Gilbarco ICS - Live - Hourly,Transaction pipeline from Snowflake,,existing,GSTV-Domo-Admin
+215,Transactions - Hourly - Gilbarco - Computed,,Processes transaction data for the specified network,inferred,Aaron Olson
+569,Transactions - Load Speedway - Update with 10 day lookup for updates.,Loads most recent day of Speedway data and gets 9 days before that for partition update.,,existing,GSTV-Domo-Admin
+780,Transactions - Patch - Site Status History,,Processes site operational status data for tracking and reporting,inferred,GSTV-Domo-Admin
+13,Transactions and Plays,,,,
+374,Transactions and Site Revenue - 2021,,,,Aaron Olson
+38,Transactions-Historical,,Patches or backfills historical data for completeness,inferred,
+46,Transactions-Rolling,,,,
+279,Transform Load Monitoring from Snowflake,"Update column information, map and format values from V_LOAD_MONITORING view used in Snowflake Connector",,existing,Garrett Kohler
+344,Troubleshoot - IO List From Vistar BI - Prior Month,,,,Garrett Kohler
+71,TXNS_Dover_LastWeek_INT,,,,
+72,TXNS_Gilbarco_LastWeek_INT,,,,
+70,TXNS_Speedway_LastWeek_INT,,Processes data specific to the Speedway retailer network,inferred,
+63,Ubimo Update,,,,
+36,Unified Current and Historical,,Patches or backfills historical data for completeness,inferred,
+73,Unified Glilbarco transaction Data Jan 2019 through End of June 2020,,,,
+290,Unique transaction site count - last 20 days,,,,
+756,United Pacific - Initial Start Up - Transactions By Site By Day,,,,Aaron Olson
+868,Unvalidated Transactions - Base Data Set,,,,GSTV-Domo-Admin
+792,Unvalidated Transactions - Gilbarco Control Center - Decline Analysis,,Processes transaction data for the specified network,inferred,Aaron Olson
+796,Unvalidated Transactions - Hourly,,,,GSTV-Domo-Admin
+397,Unvalidated Transactions - Hourly - Mega Patch,Temporary - Attempting to fix missing network and program information,,existing,Aaron Olson
+264,Unvalidated Transactions - Monthly DMA Averages,,,,Aaron Olson
+175,USAA Revenue Tracking,,,,
+149,USAASiteCompetition,,,,
+150,"Utility Helper - Current and Previous Week, Month, Year",,,,Aaron Olson
+411,Venue Leads - DMA Lookup - Sandbox - Partial,,,,GSTV-Domo-Admin
+69,Verizon Media Site List,,,,Garrett Kohler
+74,Viant Adelphic Site List,,,,
+278,View of Sites 10/20-10/21,,,,Kayla Cekal
+822,Vistar - All Revenue - Full Granularity - Live,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+383,Vistar - Content Sponsorship - For Revenue Share Input,,Processes Vistar venue availability data for sell-through analysis,inferred,Aaron Olson
+229,Vistar - Exchange/Direct - 2019/2020 - Configurable,,,,Abigail Kane
+819,Vistar - Flexible Revenue - Full Granularity - Live,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+649,Vistar - Hourly Impressions By Week,,,,Aaron Olson
+577,Vistar - Hourly Impressions By Week - DXPromote Migration Sites,,,,Aaron Olson
+365,Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network,,,,Aaron Olson
+651,Vistar - Requests vs Leases - Gilbarco Analysis,,,,Aaron Olson
+61,Vistar - Site Lists - GSTV and GSTV2 Network,,,,GSTV-Domo-Admin
+648,Vistar - Spot Rate,,,,Aaron Olson
+818,Vistar - SSP Revenue - Full Granularity,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+815,Vistar - SSP Revenue - Full Granularity - Live,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+821,Vistar - SSP Revenue - Full Granularity - Live,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+820,Vistar - SSP Revenue - Full Granularity - Load,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+62,Vistar - Venue Management - GSTV Network,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+152,Vistar - Venue Management - GSTV2 Network,,Processes Vistar venue availability data for sell-through analysis,inferred,Aaron Olson
+645,Vistar - Weekly Operating Hours,,,,Aaron Olson
+250,Vistar Campaign Migration,,,,
+208,Vistar Demand Pressure Targeting,,,,
+876,Vistar Diagnostic Daily - Base Data Set,,Processes Vistar diagnostic data for programmatic health monitoring,inferred,GSTV-Domo-Admin
+596,Vistar Direct Revenue - Site by Day,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+420,Vistar Excahnge - August for Rev Share,,,,Abigail Kane
+644,Vistar Historic Venue By Month By Site With Site Revenue,,Processes Vistar venue availability data for sell-through analysis,inferred,Aaron Olson
+430,Vistar Programmatic Revenue,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+306,Vistar Recovery Analysis,,,,Adam Doughty
+157,Vistar Restrictions - Add and Remove - GSTV Network,,,,Aaron Olson
+163,Vistar Restrictions - Add and Remove - GSTV2 Network,,,,Aaron Olson
+652,Vistar Spot Rate Calculation,,,,GSTV-Domo-Admin
+502,Vistar SSP Patch - By Day (Not at Site Granularity),,Patches or backfills historical data for completeness,inferred,GSTV-Domo-Admin
+816,Vistar- Flexible Revenue - Full Granularity - Load,,Processes Vistar venue availability data for sell-through analysis,inferred,GSTV-Domo-Admin
+267,VistarMigrationCampaigns_IsCurrent,,,,Garrett Kohler
+54,Wayne - Transactions - Live - Hourly,,Processes transaction data for the specified retail network,inferred,Aaron Olson
+109,Wayne Offline Sites,No POP for Meer @Wayne,,existing,Adam Doughty
+85,Wayne Report for Cindy,"Wayne sites must have OID, lists status, address, and retailer info.",,existing,Adam Doughty
+530,Weighted Hourly Transaction Patch,,Patches or backfills historical data for completeness,inferred,GSTV-Domo-Admin
+779,wlkBlockScoring,,,,GSTV-Domo-Admin

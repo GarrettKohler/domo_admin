@@ -1,0 +1,198 @@
+term,acronym,definition,domain,category
+1st Party Data,,Information or data collected directly by website publishers or retailers about their site visitors or customers. GSTV can ingest client 1st party data for targeting.,Data & Analytics,Data
+3rd Party Data,,Data acquired from sources GSTV does not have a direct relationship with for data collection. Aggregated and published data used for targeting ads and marketing messages.,Data & Analytics,Data
+ACR,ACR,Automatic content recognition — identification technology to recognize content played on a media device.,Technology,Technology
+Active Site,,Currently installed location that is playing video and returning playback data.,Sites & Locations,Network
+Acxiom,,Legacy data management company connecting anonymized 1st party data to GSTV exposure for measuring campaign impact on lift in sales or custom KPIs.,Data & Analytics,Measurement
+Ad Adjacency,,Appears next to preferred content. Can also refer to conflicting advertisements preceding or following another piece.,Campaigns & Delivery,Ad Operations
+Ad Log,,Play data with exact timestamp associated with each play. Requested via the Data Engineering team.,Data & Analytics,Ad Operations
+Ad Server,,Central decisioning stack for creative rotation pacing tracking and priority. Can host a unified auction/mediation.,Technology,Technology
+AVOD,AVOD,Ad-Supported Video-On-Demand — free platforms and subscription streaming services that serve ads.,Industry,Media
+AdBook,,GSTV Order Management System (OMS) for proposal creation and inventory management.,Technology,Sales
+Added Value,,Products/services bonused to an advertiser to incentivize a buy such as tags research studies share of voice or additional impressions.,Campaigns & Delivery,Sales
+Addressable TV,,Household-level targeting across MVPDs/CTVs using privacy-safe IDs and frequency management.,Industry,Media
+AdIntel,,Legacy competitive advertising information provider. Replaced by MediaRadar.,Data & Analytics,Competitive
+Ads.cer 2.0,,"Cryptographic signing to authenticate ad requests for supply chain integrity. Also known as Authenticated Connections.",Technology,Programmatic
+Advanced TV,,Umbrella term for CTV addressable shoppable/interactive formats and data-driven delivery across screens.,Industry,Media
+Agency Events,,Events held at local agencies or holding company headquarters to deepen relationships and showcase offerings.,Campaigns & Delivery,Marketing
+AggData,,Legacy online subscription service for obtaining data client lists used for mapping. Replaced by Retail Stat.,Data & Analytics,Data
+Applause Control Center,,Site content and performance management platform used by Gilbarco for Applause media orders on non-ICS FPIV hardware.,Technology,Network
+App Download Lift,,Attribution measurement of a campaign incremental impact on app downloads.,Data & Analytics,Measurement
+Applause Network,ATV,"Predominantly 10-inch pump screen on Gilbarco dispensers. Transaction or loop-based depending on hardware. Platforms include FlexPay II, FPIV, FP6.",Sites & Locations,Network
+ASO/ASC,ASO/ASC,Authorized Service Organization/Company — technicians who install and service fuel dispensers and payment hardware.,Sites & Locations,Network
+Asset,,Video or image provided by a client or retailer for content or creative production.,Campaigns & Delivery,Creative
+Asset ID,,Internal unique number assigned by Vistar to every asset uploaded regardless of play status. Also called creative ID.,Programmatic,Creative
+Attribution,,Data analysis connecting individual campaign exposure to actual sales or conversions using anonymized aggregated personal data.,Data & Analytics,Measurement
+Audience,,People or market segment targeted by an advertising message or campaign.,Data & Analytics,Sales
+Bandwidth,,Amount of content that can be transmitted over a network at a given time.,Technology,Technology
+Bidding Timeout Rate,BTR,Share of auctions lost to late or no responses. Latency KPI for DSPs.,Programmatic,Programmatic
+Billboard Sponsorship,,Advertiser sponsoring a segment of content with a brand logo on intro/outro screens.,Campaigns & Delivery,Sales
+Brand Development Index,BDI,"Metric quantifying relative performance of a brand within specified customer groups. BDI = (% Market Brand Sales / % Market Population) x 100.",Data & Analytics,Analytics
+Brand Guidelines,,Rules that define how a brand should look sound and be presented including approved logos colors fonts imagery and tone of voice.,Campaigns & Delivery,Marketing
+Brand Lift Study,,Measures branding impact of an ad on consumers awareness opinion and purchase intent. MFour is GSTV preferred partner.,Data & Analytics,Measurement
+Bumper,,Short video segment (3-5 seconds) letting a customer know they are watching GSTV programming at the pump.,Campaigns & Delivery,Creative
+C-Store,,Abbreviation for convenience store.,Sites & Locations,Industry
+Campaign,,Planned series of advertisements unified by a single theme or idea used across various media to achieve a specific marketing goal.,Campaigns & Delivery,Ad Operations
+Carto,,Web based subscription software providing mapping solutions for GSTV locations and advertiser proximity data.,Technology,Data
+Category Development Index,CDI,"Metric quantifying sales performance of a category in a specific group compared to all consumers. CDI = (% Market Category Sales / % Market Population) x 100.",Data & Analytics,Analytics
+Case Study,,Overview document or slides outlining the success of a campaign run on the GSTV network.,Campaigns & Delivery,Marketing
+CDR,CDR,Casual Dining Restaurant (e.g. Chipotle Panera Applebees). Sites can restrict CDR ads from their location.,Industry,Restrictions
+Characteristic,,Services and products available at a given gas station such as lottery car wash ATM.,Sites & Locations,Site Data
+Cherry-Picked Station,,When an advertiser chooses specific stations versus a full market. Less than a full DMA results in higher CPMs.,Campaigns & Delivery,Sales
+Circana,,Formerly IRI — leading provider of UPC scanner-based business solutions in CPG. GSTV uses Circana to measure lift in CPG product sales.,Data & Analytics,Measurement
+Claritas,,GSTV data provider for qualitative targeting profiles using PRIZM geodemographic segments and Claritas 360 targeting system.,Data & Analytics,Targeting
+Clear Line of Sight,,Finance term showing the number that represents Booked Revenue plus Pipeline. Also known as Completion with Pipeline.,Revenue & Monetization,Finance
+Client Needs Analysis,CNA,Assessment of a client needs and marketing objectives to uncover a problem where GSTV can offer a solution.,Campaigns & Delivery,Sales
+Client Solutions,,Marketing team handling seller partnership and requests such as RFPs proactive pitches and EBRs. Formerly Marketing Solutions.,Campaigns & Delivery,Marketing
+Clock-Drift Tolerance,,Operational tolerance windows for schedule vs system time to prevent playback misses in DOOH.,Technology,Network
+Commercial,,Video up to 30 seconds created to promote GSTV proprietary brands such as IGNITE Octane Amplify or Programmatic.,Campaigns & Delivery,Creative
+Companion Ad,,L Bar or wrap on screen graphic surrounding programming content usually containing sponsor information.,Campaigns & Delivery,Creative
+Comscore,,3rd party syndicated data source for cross platform measurement and targeting. Used to measure tune-in and web conversion lift.,Data & Analytics,Measurement
+Connected TV,CTV,TV set connected to the internet through built-in capability or through another device such as Blu-ray player game console or set-top box.,Industry,Media
+Conquesting,,Targeting GSTV stations within 1-15 mile radius of client competitors to sway consumers to take action with client.,Campaigns & Delivery,Targeting
+Content Integration,,Opportunity for advertisers to create custom content by hand picking screen subject matter from content partners. AKA Branded/Co-Branded Content.,Campaigns & Delivery,Creative
+Content Partner,,Third-party entity that produces content to air on GSTV. Includes Big Machine Label Group Blossom La Liga Live Nation and others.,Campaigns & Delivery,Content
+Continuous Loop,,GSTV media experience where media runs at all times and is maximized to full screen while fuel is being dispensed.,Technology,Network
+Converged Frequency Management,,Cross-DOOH/CTV frequency capping and pacing to reduce overexposure.,Programmatic,Programmatic
+CPG,CPG,Consumer Packaged Goods such as Snickers Gatorade Advil.,Industry,Industry
+CPM,CPM,"Cost Per Thousand Impressions — cost to deliver 1000 viewers. Formula: CPM = (Cost x 1000) / Total Impressions.",Revenue & Monetization,Sales
+Cuebiq,,Location-based measurement company measuring foot traffic lift and providing consumer analysis.,Data & Analytics,Measurement
+Daypart,,Standard time periods of the broadcast day. Includes ability to specify different times of day for an ad to air.,Campaigns & Delivery,Ad Operations
+DSP,DSP,Demand Side Platform — platform which digital buyers use to manage programmatic buying across multiple ad exchanges.,Programmatic,Programmatic
+Demo Reel,,Longer-form video up to four minutes used primarily for internal purposes to demonstrate the full GSTV experience.,Campaigns & Delivery,Marketing
+DMA,DMA,"Designated Market Area — term created by Nielsen to identify an exclusive geographic area of counties. 210 DMAs in the United States.",Sites & Locations,Geography
+Direct Flex,,Alternative way to activate a Direct IO campaign. Flexible spreading out impressions across targeted locations with dynamic pacing.,Campaigns & Delivery,Sales
+Dispenser,MPD,Industry term for advanced fuel pump usually at a gas station offering multiple fuel types. Screen Count = 2X Dispenser Count in most cases.,Sites & Locations,Hardware
+Dover/Wayne Fueling Systems,DFS,One of the world leading manufacturers of fuel dispensers. DFS MPD Models with GSTV: Ovation and Helix.,Sites & Locations,Hardware
+DTV,,Legacy GSTV proprietary pump-top hardware and video network introduced in 2005 — no longer operational.,Sites & Locations,Legacy
+Dwell Time,,Amount of time the consumer spends during a gasoline transaction.,Data & Analytics,Measurement
+DX Promote,DXP,Cloud-based site content and performance management platform used by Dover/Wayne/DFS.,Technology,Network
+Dynamic Floor CPM Optimization,,Automated strategy using buying pattern recognition to constantly adjust price floors.,Programmatic,Programmatic
+Dynamic Scheduling,,Automated pacing scheduling based on demand audience and data triggers. Supports dayparting and geo rules.,Programmatic,Ad Operations
+EMV,EMV,"Europay Mastercard Visa — global standard for smart payment cards with embedded microchips.",Technology,Payments
+Enterprise,,Site content and performance management platform used by Dover/Wayne/DFS for InOvationTV — sunset December 2025.,Technology,Legacy
+Enterprise Account,,GSTV larger partnerships/spenders with dedicated team members across AdOps IGNITE Insights Solutions and Sales Planning.,Campaigns & Delivery,Sales
+Enterprise Business Review,EBR,Established internal framework to drive repeatable scalable process to defend and grow enterprise accounts.,Campaigns & Delivery,Sales
+Event Sponsorship,,Paid opportunity where GSTV aligns with an external event to gain exposure branding and engagement.,Campaigns & Delivery,Marketing
+Evergreen File,,Content with no expiration date or reference to time allowing rotation into the programming loop as filler.,Campaigns & Delivery,Content
+Evergreen PMP,,Private Marketplace deal with no end date.,Programmatic,Programmatic
+FlexPay,,Interactive site content/transaction software by Gilbarco/GVR/Invenco. Versions include FlexPay 6 with 15 inch 9 inch and 5 inch screens.,Technology,Hardware
+Foot Traffic Lift,,Attribution measurement of campaign exposure impact on in-store visits using location tracking and geo-fencing.,Data & Analytics,Measurement
+Forecourt,,Area of the gas station outside the c-store where consumers actively pump gas.,Sites & Locations,Site Data
+Foursquare,,Formerly PLACED — leader in location analytics and visitation measurement.,Data & Analytics,Measurement
+Frequency,,Number of times a consumer is exposed to a specific advertisement. GSTV viewers are exposed approximately once every four minutes.,Data & Analytics,Media
+Full Network,,Buying all available open markets per month quarter semi-annual or annual.,Campaigns & Delivery,Sales
+gBase,gBase,"GSTV custom-built infrastructure tool for site data playlist management media distribution and proof of play — being phased out.",Technology,Network
+Geocodio,,Web based subscription tool converting addresses to latitude and longitude for mapping purposes.,Technology,Data
+Geo-Targeting,,Method of determining physical location of a viewer and delivering content based on that location.,Campaigns & Delivery,Targeting
+General Presentation,GP,GSTV primary deck to showcase capabilities and strengths to agencies/brands for first meetings.,Campaigns & Delivery,Sales
+Gilbarco Veeder-Root,GVR,One of the world largest fuel dispenser manufacturers. MPD Models with GSTV: Encore 300 500 700. Also known as Invenco.,Sites & Locations,Hardware
+Go Get,,Amount needed to reach one Goal or Plan or the amount exceeding it. Found in Salesforce reporting.,Revenue & Monetization,Finance
+Go To Market,,Team handling go-to-market and overarching category deliverables.,Campaigns & Delivery,Marketing
+GRP/TRP,GRP/TRP,"Gross Rating Point/Target Rating Point — sum of ratings delivered by media properties where ratings represent % of target audience.",Data & Analytics,Media
+Guaranteed Outcomes,,Deals optimizing toward visits or other outcomes.,Programmatic,Programmatic
+Handle-Activated,,GSTV media experience starting at beginning of fueling transaction ending when nozzle is returned to dispenser.,Technology,Network
+Highspot,,Content management system for Sales and Marketing teams to find best-performing content for each opportunity.,Technology,Sales
+IGNITE,,GSTV in-house creative and content studio responsible for content partner relationships and creating ads/RPAs.,Campaigns & Delivery,Creative
+Impression,NVI,"Network-Validated Impression — measurement of inventory referring to a view of an advertisement. In GSTV case impression = transaction.",Impressions,Core Metric
+In Good Company,IGC,Different clients GSTV has worked with typically bucketed by category.,Campaigns & Delivery,Marketing
+Index,,Form of percentage relating numbers to a base with the average being 100. Above 100 is above average.,Data & Analytics,Analytics
+InMarket,,Emerging leader in location analytics and visitation measurement.,Data & Analytics,Measurement
+InOvationTV,IOTV,"GSTV product from collaboration with Dover Fueling Systems. 10-12 inch screens embedded into Wayne Ovation Ovation2 and Helix dispensers.",Sites & Locations,Hardware
+Insertion Order,IO,Formal request and paperwork to purchase media space.,Revenue & Monetization,Sales
+Invenco Cloud Services,ICS,Gilbarco cloud-based media platform for Applause TV.,Technology,Network
+Inventory,,Unit of advertising available on a media network. GSTV has multiple 15 or 30 second units within any programming loop for sale.,Campaigns & Delivery,Ad Operations
+Inventory Optimization,,Revenue-driven method of maximizing full potential of inventory through strategic allocation of impressions.,Revenue & Monetization,Ad Operations
+iXPay,IOTV3,EMV-compliant payment terminal by Dover Fueling Systems available as retrofit on all dispensers regardless of manufacturer.,Technology,Hardware
+Key Performance Indicator,KPI,Quantifiable measure used to evaluate the performance of a marketing/media plan.,Data & Analytics,Analytics
+Key Target Accounts,KTA,Top tier brands/clients for Sales.,Revenue & Monetization,Sales
+L Bar,,Animated bar shaped like sideways L surrounding a brand spot for the entire length leveraged for awareness or calls-to-action.,Campaigns & Delivery,Creative
+Latency-Adjusted Win Rate,,Auction KPI factoring response latency into win probability. Flags throttling and timeouts.,Programmatic,Programmatic
+Legacy Platform,,Older no longer operational technology system once capable of delivering GSTV media. Examples: DTV O&O PetroTV SPP.,Technology,Legacy
+Lift Analysis,,Measurement of how a campaign impacts a key metric. Lift = percent change for exposed users vs matched control group.,Data & Analytics,Measurement
+Linear TV,,Television programming distributed through cable satellite or broadcast networks including Video on Demand.,Industry,Media
+Loop,,Cycle of media files scheduled for any given dispenser. Duration is capped within Vistar software.,Technology,Ad Operations
+Lotto Live,,On screen product displaying most recent lottery jackpot amounts.,Campaigns & Delivery,Content
+Make Good,,Free ad or extension offered to make good on an ad that ran incorrectly or if a campaign under delivered impressions.,Campaigns & Delivery,Ad Operations
+Market Plan,,Document containing list of all DMAs station/screen count and impression estimates for the network. Updated monthly.,Sites & Locations,Sales
+Marketing Communications,,Marketing team handling press events swag website and social media.,Campaigns & Delivery,Marketing
+Marketing Design,,Marketing team handling GSTV brand design such as brand assets deck templates and product mocks.,Campaigns & Delivery,Marketing
+Marketing Event Tentpole,,Major flagship event for GSTV — high investment high visibility strategically important. Examples: Possible IAB NewFronts Cannes Lions.,Campaigns & Delivery,Marketing
+Media Kit,,Marketing piece outlining basic company information.,Campaigns & Delivery,Marketing
+MRI,,MediaMark Research and Intelligence — leading provider of media and consumer research. GSTV uses GfK MRI Doublebase survey.,Data & Analytics,Measurement
+MediaRadar,,Leading provider of competitive advertising information. GSTV has access to national and local market media spend data.,Data & Analytics,Competitive
+Mediation Layer,,Server-side framework normalizing priority floor prices and auction rules across multiple SSPs and/or direct paths.,Programmatic,Programmatic
+MFour,,Mobile research vendor for brand studies connecting GSTV with a panel of 2.5 million consumers.,Data & Analytics,Measurement
+MOC,MOC,Major Oil Company — used interchangeably with fuel brand like ExxonMobil BP/Amoco Shell.,Industry,Industry
+Mock,,Example creative for a proactive or RFP pitch that is static not moving.,Campaigns & Delivery,Creative
+NCR,,Manufacturer of payment technology (now NCR Voyix/Atleos). NCR and Invenco have a long-standing partnership.,Technology,Hardware
+Network Operations Center,NOC,Internal GSTV team monitoring site performance managing station inventory service requests and handling outages.,Sites & Locations,Network
+Nielsen,NIQ,Leading global information and measurement company enabling companies to understand consumers and consumer behavior.,Data & Analytics,Measurement
+Nielsen Digital Place-Based,,Nielsen TV/GfK MRI data fusion combining National People Meter and Survey of the American Consumer data.,Data & Analytics,Measurement
+Nielsen Media Impact,NMI,Cross-platform media planning system GSTV uses to demonstrate added reach to clients media plans.,Data & Analytics,Measurement
+Octane,,GSTV data-driven audience targeting product linking station visitation to real-world and web-based behaviors.,Data & Analytics,Targeting
+OpenRTB,,Advanced programmatic advertising standard with richer contextual and audience signals. Versions 2.5 and 2.6.,Programmatic,Programmatic
+OMS,OMS,Order Management System for building proposals and managing available inventory. Source of truth for sellable supply.,Technology,Sales
+OPT,OPT,"Outdoor Payment Terminal — used by hardware partners to describe a screen pump or fueling point.",Sites & Locations,Hardware
+Optic,,Specific type of screen hardware compatible with GSTV.,Sites & Locations,Hardware
+OTT,OTT,"Over-The-Top — any app or web service content delivered over the open internet including AVOD/FAST Roku Apple TV etc.",Industry,Media
+Owned and Operated,O&O,Standard industry term meaning operator of gas station is also the owner. Also a legacy GSTV pump-top TV network no longer operational.,Sites & Locations,Legacy
+Pipeline,,List in Salesforce showing sales opportunities and activity by sales person.,Revenue & Monetization,Sales
+Playlist,,Sequence of media files to be displayed on a screen at a gas station.,Technology,Ad Operations
+POS,POS,"Point-of-Sale — combination of hardware and software for processing sales managing transactions tracking inventory.",Technology,Payments
+POS Study,,Study measuring campaign efficacy by evaluating point-of-sale transactions via retailer data.,Data & Analytics,Measurement
+Pre/Post Study,,Measuring brand impact before and after media runs to evaluate incrementality value. Requires client first party data.,Data & Analytics,Measurement
+Private Marketplace,PMP,"Curated inventory invite-only supply with negotiated floors. Most PMPs are first price auction.",Programmatic,Programmatic
+Product,,Offerings with technical capabilities for a specific client KPI including tags weather triggers and L-bars.,Campaigns & Delivery,Sales
+Programmatic,,Automated ad buying across SSP/DSP/ad-server ecosystems with unified auctions and real-time optimization.,Programmatic,Programmatic
+Programmatic Direct,,Former GSTV product name now called Direct Flex.,Programmatic,Legacy
+Programmatic Guaranteed,,Guaranteed deals with negotiated CPMs executed via DSP/SSP with automation of programmatic plus IO-like certainty.,Programmatic,Programmatic
+Programmatic TV,,Automation layer across linear and connected TV using data-driven targeting audience guarantees and real-time decisioning.,Programmatic,Media
+Programming Content,,Content that is not ads or promos used to entertain or inform the viewer.,Campaigns & Delivery,Content
+Proof of Performance Report,,Summary report provided to advertiser containing impressions summary proof of play and photos of ad running.,Data & Analytics,Reporting
+Proof of Play,POP,Message from network partner indicating a video associated with a campaign has been viewed and counts as an impression.,Proof of Play,Core Metric
+Proposal,,Document created by Sales/Sales Planning containing a campaign recommendation for an advertiser.,Campaigns & Delivery,Sales
+QSR,QSR,Quick Service Restaurant (e.g. McDonalds Taco Bell). Sites can restrict QSR ads.,Industry,Restrictions
+Rate Card,,Document outlining GSTV rates for 15 and 30 second spots by market and full network with component pricing.,Revenue & Monetization,Sales
+Rating,,Percent average audience of a universe of households or target audiences viewing a program during an average minute.,Data & Analytics,Media
+Reach,,Total number of different or unique people or households exposed at least once to a medium during a given period.,Data & Analytics,Media
+Relevant Business Reason,RBR,Best-proven approach to cold calling — explain research completed regarding client business and benefits of meeting.,Campaigns & Delivery,Sales
+Remnant Inventory,,Selling projected unfulfilled inventory to select clients as a bulk/low CPM buy to drive revenue.,Revenue & Monetization,Sales
+Restriction,,Denotes types of ads that cannot be displayed at a given gas station. Over 25 defined category restrictions in use.,Campaigns & Delivery,Restrictions
+Retailer,,Gas station or convenience store owner operator or management entity. May also be a retail partner contracted with GSTV.,Sites & Locations,Industry
+Retailer Allocation,,Portion of contractual loop length reserved exclusively for retailer promotions or retailer-sold advertising.,Campaigns & Delivery,Ad Operations
+RPA,,Retailer Promotional Advertisement — monthly network inventory allotted to fuel retailers to promote their own brand products and services.,RPA,Ad Operations
+Return on Investment,ROI,"Attributing profit and revenue growth to impact of marketing initiatives. ROI = Profit from Ads / Cost of Ads.",Revenue & Monetization,Measurement
+Return on Ad Spend,ROAS,"Marketing KPI showing revenue per dollar spent. ROAS = Revenue from Ad / Cost of Ad.",Revenue & Monetization,Measurement
+RFP Request,,Requesting a Request for Proposal response for an upcoming campaign.,Campaigns & Delivery,Sales
+Rotation,,Multiple ad units rotating within one slot of advertising space within the programming loop (up to 4 ads).,Campaigns & Delivery,Ad Operations
+Sales Lift,,Attribution measurement of incremental sales attributed to a specific campaign.,Data & Analytics,Measurement
+Seasonal Moments,,Category-specific opportunities aligned with consumer behavior and industry cycles such as Super Bowl or Halloween.,Campaigns & Delivery,Marketing
+Secure Pump Pay,SPP,Legacy media network previously operated by GSTV in partnership with Gilbarco — no longer operational.,Technology,Legacy
+Show,,Cycle through media files scheduled for any given dispenser. See also Loop.,Technology,Ad Operations
+Site Dashboard,,Web interface in gBase used to view and maintain site venue information.,Technology,Network
+Site ID,GTVID,6-character internal GSTV identification number assigned to each gas station. Example: DTG001 = Detroit 1 Gilbarco.,Sites & Locations,Core Identifier
+Site Status,,Data point describing current state of a GSTV location. Statuses: Active Temporarily Offline Awaiting Installation Awaiting Reactivation Deactivated Cancelled.,Sites & Locations,Site Data
+Sizzle Reel,,Short high-impact video (45-60 seconds) showcasing GSTV strongest work across advertising content and audience reach.,Campaigns & Delivery,Marketing
+Slate,,GSTV programming slate of content consisting of GSTV Originals and GSTV Exclusives.,Campaigns & Delivery,Content
+SLT,SLT,Senior Leadership Team.,Industry,Internal
+SOV,SOV,"Share of Voice — percentage of times an ad will be scheduled within loops. 200% = twice as many plays, 50% = every other loop.",Campaigns & Delivery,Ad Operations
+Speedway TV,,GSTV Media managed service curated specifically for fuel retailer Speedway. Operates on ICS Speedway Single Tenant.,Managed Services,Network
+Statistical Significance,,Likelihood that the difference in conversion rates between a variation and baseline is not due to random chance.,Data & Analytics,Measurement
+SVOD,SVOD,Subscription Video-On-Demand — subscription streaming service without serving ads.,Industry,Media
+SSP,SSP,Supply-Side Platform — software allowing publishers to automate management sale and optimization of ad inventory.,Programmatic,Programmatic
+Syndicated Data,,General market data collected from various sources including retail sales data and consumer surveys.,Data & Analytics,Data
+Tag,,5-second audio/video extensions to an advertiser spot designed to drive a particular KPI. Types: Action Offer Location Proximity.,Campaigns & Delivery,Creative
+TDLinx,,Nielsen IQ paid service offering store location data market size performance benchmarking and consumer insights.,Sites & Locations,Data
+TDLinx ID,,7-digit unique identifier assigned to an individual business location by NIQ TDLinx service.,Sites & Locations,Core Identifier
+Temporarily Deactivated,,Site where Proof of Performance has been temporarily deactivated due to mechanical/power issues. Still part of network but not for sale.,Sites & Locations,Site Data
+Tentpole,,High-impact cross-team initiatives aligned with GSTV core value props including Summer of Drive and Holiday Rush.,Campaigns & Delivery,Marketing
+Transaction,,Unit of measurement representing when a consumer makes a purchase at a venue. Historically a transaction equaled an impression.,Transactions,Core Metric
+TV Tune-In Lift,,Attribution measurement of campaign incremental impact on household tune-in for an advertised show.,Data & Analytics,Measurement
+Upfront,,Video ad spending committed in advance including spending from TV upfronts and IAB Digital Content NewFronts.,Revenue & Monetization,Sales
+Venue,,Term Vistar uses for a GSTV site.,Sites & Locations,Programmatic
+Vistar,,Ad serving platform used to deliver pace and measure both direct and programmatic campaigns.,Programmatic,Technology
+Walk-Up Loop,,Prior to ICS Applause TV starts playing content only after consumer begins transaction. Idle content plays when not in transaction mode.,Technology,Network
+Weather Trigger,,Product that automatically activates or adjusts a brand messaging based on weather conditions.,Campaigns & Delivery,Targeting
+Web Conversion Lift,,Attribution measurement of campaign incremental impact on advertiser web traffic.,Data & Analytics,Measurement
+Wholesaler Partner Program,WPP,Media program through which fuel suppliers establish agreement for GSTV media like inOvationTV with Marathon.,Revenue & Monetization,Partnerships

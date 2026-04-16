@@ -1,0 +1,572 @@
+dataflow_id,current_name,conservative_name,restructured_name,domain,department,owner_name
+712, Project Krypton - Transaction Comparison To Retailer Data,,Transactions - Project Krypton - Transaction Comparison To Retailer Data,Transactions,Data & Analytics,Aaron Olson
+375,2021 Transactions/Impressions and Revenue,,Transactions - 2021 Transactions/Impressions and Revenue,Transactions,Data & Analytics,Garrett Kohler
+179,[Deactivated] Programmatic Site Performance - 2w,DEPRECATED - Programmatic Site Performance - 2w,DEPRECATED - Programmatic - Site Performance - 2w,Programmatic,Programmatic,GSTV-Domo-Admin
+864,[DELETE] Pluto Diagnostics Comparison,DEPRECATED - Pluto Diagnostics Comparison,DEPRECATED - Revenue - Pluto Diagnostics Comparison,Revenue & Monetization,Finance,GSTV-Domo-Admin
+452,[Development] Campaign Validated Impressions - Daily - Recursive - Include Non-CVI for Comparison,DEV - Campaign Validated Impressions - Daily - Recursive - Include Non-CVI for Comparison,DEV - Impressions - Campaign Validated Impressions - Daily - Recursive - Include Non-CVI for Comparison,Impressions,Data & Analytics,GSTV-Domo-Admin
+726,[Do Not Use] Vegas - Pre-Process Managed Service Retailer Schedule,DEPRECATED - Vegas - Pre-Process Managed Service Retailer Schedule,DEPRECATED - Managed Services - Vegas - Pre-Process Managed Service Retailer Schedule,Managed Services,Ad Operations,GSTV-Domo-Admin
+691,[Production] California Tribal Council - RPA Conversion,PROD - California Tribal Council - RPA Conversion,PROD - RPA - California Tribal Council - RPA Conversion,RPA,Ad Operations,Al Minetola
+758,[Production] Vegas - RPA Conversion - Managed Service RPAs,PROD - Vegas - RPA Conversion - Managed Service RPAs,PROD - RPA - Vegas - RPA Conversion - Managed Service RPAs,RPA,Ad Operations,GSTV-Domo-Admin
+438,Active RPA Utilization Prev Month data flow - Filtered with Veronica's details,,RPA - Active RPA Utilization Prev Month data flow - Filtered with Veronica's details,RPA,Ad Operations,GSTV-Domo-Admin
+704,Ad Lease Analysis - Hardware and Experience Analysis,,Programmatic - Ad Lease Analysis - Hardware and Experience Analysis,Programmatic,Programmatic,GSTV-Domo-Admin
+776,Ad Ops - Campaigns - Launch Monitoring,,Campaigns - Ad Ops - Campaigns - Launch Monitoring,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+764,Ad Ops - Category Restriction Check,,Campaigns - Ad Ops - Category Restriction Check,Campaigns & Delivery,Ad Operations,Antonio Bowens
+635,Ad Ops - Lease Rate - Vistar Insights,,Programmatic - Vistar - Ad Ops - Lease Rate - Insights,Programmatic,Programmatic,GSTV-Domo-Admin
+637,Ad Ops Monitoring - Vistar Diagnostics Insights,,Programmatic Ops - Vistar - Ad Ops Monitoring - Diagnostics Insights,Programmatic Operations,Programmatic,GSTV-Domo-Admin
+668,Admin - Ontology - Dataflow Inputs and Outs,,Engineering - Admin - Ontology - Dataflow Inputs and Outs,Engineering,Engineering,GSTV-Domo-Admin
+107,Adrenaline_Gilbarco_All_Test,Adrenaline Gilbarco All Test,Managed Services - Adrenaline Gilbarco All Test,Managed Services,Ad Operations,
+103,Adrenaline_Gilbarco_Test,Adrenaline Gilbarco Test,Managed Services - Adrenaline Gilbarco Test,Managed Services,Ad Operations,
+603,Alerts - Vistar Stop Spend,,Programmatic - Vistar - Alerts - Stop Spend,Programmatic,Programmatic,GSTV-Domo-Admin
+809,All GSTV - Combined SSP and Flex - 2023/2024/2025 - Full Granularity,,Programmatic - All GSTV - Combined SSP and Flex - 2023/2024/2025 - Full Granularity,Programmatic,Programmatic,GSTV-Domo-Admin
+812,All GSTV - Flexible and SSP Revenue - Full Granularity - Live,,Revenue - All GSTV - Flexible and SSP Revenue - Full Granularity - Live,Revenue & Monetization,Finance,GSTV-Domo-Admin
+811,All GSTV - Flexible Revenue - March 2025 to July 15 2025,,Revenue - All GSTV - Flexible Revenue - March 2025 to July 15 2025,Revenue & Monetization,Finance,GSTV-Domo-Admin
+710,All GSTV - Programmatic Perfomance - 2022/2023/2024/2025,,Programmatic - All GSTV - Programmatic Perfomance - 2022/2023/2024/2025,Programmatic,Programmatic,Aaron Olson
+707,All GSTV - SSP - 2022/2023/2024/2025,,Programmatic - All GSTV - SSP - 2022/2023/2024/2025,Programmatic,Programmatic,Aaron Olson
+810,All GSTV - SSP Revenue - March 2025 to July 15 2025 - Full Granularity,,Revenue - All GSTV - SSP Revenue - March 2025 to July 15 2025 - Full Granularity,Revenue & Monetization,Finance,GSTV-Domo-Admin
+817,All GSTV - Vistar - SSP Revenue - Full Granularity,,Revenue - All GSTV - Vistar - SSP Revenue - Full Granularity,Revenue & Monetization,Finance,GSTV-Domo-Admin
+84,All Networks - Transactions - Historic - Hourly,,Transactions - All Networks - Transactions - Historic - Hourly,Transactions,Data & Analytics,Aaron Olson
+135,All Networks - Transactions - Patch - Input,,Transactions - All Networks - Transactions - Patch - Input,Transactions,Data & Analytics,GSTV-Domo-Admin
+117,"All Networks - Transactions - Weekly - Current, WoW, and YoY",,"Transactions - All Networks - Transactions - Weekly - Current, WoW, and YoY",Transactions,Data & Analytics,Aaron Olson
+119,All Sites with Week Ending Status,,Sites - All Sites with Week Ending Status,Sites & Locations,Data Engineering,Aaron Olson
+368,Analysis - Account Ownership Impact on Pipeline,,Engineering - Analysis - Account Ownership Impact on Pipeline,Engineering,Engineering,Aaron Olson
+527,Analysis - Average Time Offline,,Analytics - Analysis - Average Time Offline,Site Analytics,Data & Analytics,Aaron Olson
+173,Analysis - Speedway - Current Year - Average Daily Transactions,,Transactions - Analysis - Speedway - Current Year - Average Daily Transactions,Transactions,Data & Analytics,Aaron Olson
+382,Annual Programmatic Ad Revenue by Network,,Revenue - Annual Programmatic Ad Revenue by Network,Revenue & Monetization,Finance,GSTV-Domo-Admin
+293,Append Dataflow Output to View - Transactions - Writeback to Snowflake,,Transactions - Append Dataflow Output to View - Transactions - Writeback to Snowflake,Transactions,Data & Analytics,GSTV-Domo-Admin
+602,Append to Programmatic List of Advertisers,,Programmatic - Append to Programmatic List of Advertisers,Programmatic,Programmatic,GSTV-Domo-Admin
+533,Apple Audit - CVI and Sell Through Calculations for Audited Sites,,Impressions - Apple Audit - CVI and Sell Through Calculations for Audited Sites,Impressions,Data & Analytics,GSTV-Domo-Admin
+537,Apple Audit - Sites With Site Status History And Vistar Pre-Programmatic Sell Through,,Sites - Apple Audit - Sites With Site Status History And Vistar Pre-Programmatic Sell Through,Sites & Locations,Data Engineering,Aaron Olson
+539,Apple Audit - Terminal Level Analysis,,POP - Apple Audit - Terminal Level Analysis,Proof of Play,Network Operations,Aaron Olson
+269,Average Revenue Per Location and CPM - TTM - September 2021,,Revenue - Average Revenue Per Location and CPM - TTM - September 2021,Revenue & Monetization,Finance,Aaron Olson
+642,Campaign Data - Mongo Writeback Input,,Campaigns - Campaign Data - Mongo Writeback Input,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+542,"Campaign Delivery Reporting - DMA Averages, NVI, and CVI",,"Impressions - Campaign Delivery Reporting - DMA Averages, NVI, and CVI",Impressions,Data & Analytics,Nick Kaufmann
+256,Campaign Delivery Reporting - Salesforce Integration - February 2021,,Salesforce - Campaign Delivery Reporting - Salesforce Integration - February 2021,Salesforce / CRM,Sales,Aaron Olson
+270,Campaign Delivery Reporting - Salesforce Integration - Filterable,,Salesforce - Campaign Delivery Reporting - Salesforce Integration - Filterable,Salesforce / CRM,Sales,Kayla Cekal
+266,Campaign Delivery Reporting - Salesforce Integration - Previous Month,,Salesforce - Campaign Delivery Reporting - Salesforce Integration - Previous Month,Salesforce / CRM,Sales,Kayla Cekal
+508,Campaign Impact Analysis,,Campaigns - Analysis,Campaigns & Delivery,Ad Operations,Aaron Olson
+509,Campaign Impact Analysis - Impacted DMAs By Day,,Campaigns - Analysis - Impacted DMAs By Day,Campaigns & Delivery,Ad Operations,Aaron Olson
+511,Campaign Impact Analysis - Network View,,Campaigns - Analysis - Network View,Campaigns & Delivery,Ad Operations,Aaron Olson
+488,Campaign Site Transactions - IO 8199 - June 10,,Transactions - Campaign Site Transactions - IO 8199 - June 10,Transactions,Data & Analytics,GSTV-Domo-Admin
+391,Campaign Validated Data - Base Data Set Creation,Campaign Validated Data - Base Dataset Creation,Campaigns - Campaign Validated Data - Base Dataset Creation,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+390,Campaign Validated Impressions - Daily - Recursive,,Impressions - Campaign Validated Impressions - Daily - Recursive,Impressions,Data & Analytics,GSTV-Domo-Admin
+526,Campaign Validated Impressions - Recursive - Patch,,Impressions - Campaign Validated Impressions - Recursive - Patch,Impressions,Data & Analytics,GSTV-Domo-Admin
+86,Campaign_Committed,Campaign Committed,Campaigns - Campaign Committed,Campaigns & Delivery,Ad Operations,
+883,Casey's Monthly GVR RMM Fee,Casey's Monthly Gilbarco RMM Fee,Managed Services - Casey's - Monthly Gilbarco RMM Fee,Managed Services,Ad Operations,Kayla Cekal
+222,Cheddar News Rebrand - Traffic Instruction Overrides,,Traffic Instructions - Cheddar News Rebrand - Overrides,Traffic Instructions,Ad Operations,Aaron Olson
+181,Chevy Programmatic Sites with Status,,Sites - Chevy Programmatic Sites with Status,Sites & Locations,Data Engineering,
+190,Circle K,,Managed Services - Circle K - Circle K,Managed Services,Ad Operations,Abigail Kane
+524,Circle K Sites w/Holiday in Contract,,Managed Services - Circle K - Sites w/Holiday in Contract,Managed Services,Ad Operations,Adam Doughty
+904,Clawback: ICS GVR Daily POP Stats,Clawback: ICS Gilbarco Daily POP Stats,Revenue - Clawback: ICS Gilbarco Daily POP Stats,Revenue & Monetization,Finance,Hailee Mcfarland
+702,Combine Gilbarco Health Data With POP,,Managed Services - Combine Gilbarco Health Data With POP,Managed Services,Ad Operations,Bill Binkiewicz
+746,Combine SSP + Exchange Live and Consolidated ,,Programmatic - Combine SSP + Exchange Live and Consolidated,Programmatic,Programmatic,GSTV-Domo-Admin
+248,Comscore Transaction Report - DF WIP,,Impressions - Comscore Transaction Report - DF WIP,Impressions,Data & Analytics,
+284,Comscore Transaction Report - Monthly,,Impressions - Comscore Transaction Report - Monthly,Impressions,Data & Analytics,Abigail Kane
+241,Comscore Transaction Report - WIP,,Impressions - Comscore Transaction Report - WIP,Impressions,Data & Analytics,Abigail Kane
+392,Configurable-  Revenue Share - Network Partners,Configurable- Revenue Share - Network Partners,Revenue - Configurable- Revenue Share - Network Partners,Revenue & Monetization,Finance,Abigail Kane
+19,Covid Dataflow,,Engineering - Covid Dataflow,Engineering,Engineering,
+20,Covid Ending April 1st Dataflow,,Engineering - Covid Ending April 1st Dataflow,Engineering,Engineering,
+857,Create IO Site List with Asset Spot Length,,Sites - Create IO Site List with Asset Spot Length,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+194,Current/Future Advertisements - Speedway Only,,Managed Services - Speedway - Current/Future Advertisements - Only,Managed Services,Ad Operations,Adam Doughty
+523,CVI dataset - Sriram - Problematic Campaigns - 10/18/2023 v3,,Impressions - CVI dataset - Sriram - Problematic Campaigns - 10/18/2023 v3,Impressions,Data & Analytics,GSTV-Domo-Admin
+538,Daily CVI impressions - Previous Month,,Impressions - Daily CVI impressions - Previous Month,Impressions,Data & Analytics,Kayla Cekal
+656,Daily Programmatic Exchange Revenue (States A-I) - Deduplicate,,Revenue - Daily Programmatic Exchange Revenue (States A-I) - Deduplicate,Revenue & Monetization,Finance,GSTV-Domo-Admin
+291,daily transaction comparison alert flow,,Transactions - daily transaction comparison alert flow,Transactions,Data & Analytics,
+662,Data Quality - Salesforce and CVI  - Previous Month,Data Quality - Salesforce and CVI - Previous Month,Governance - Data Quality - Salesforce and CVI - Previous Month,Monitoring & Governance,Data Engineering,Kayla Cekal
+153,Data Quality - Salesforce and TIM IO Reconciliation - Previous Month,,Governance - Data Quality - Salesforce and TIM IO Reconciliation - Previous Month,Monitoring & Governance,Data Engineering,Aaron Olson
+381,Data Quality - Salesforce and Vistar - Previous Month,,Governance - Data Quality - Salesforce and Vistar - Previous Month,Monitoring & Governance,Data Engineering,Abigail Kane
+188,Data Quality - Sites - Salesforce/Gbase Syncing,,Governance - Data Quality - Sites - Salesforce/Gbase Syncing,Monitoring & Governance,Data Engineering,
+292,Dataflow - Monitoring - Gilbarco Transactions Writeback to Snowflake,,Transactions - Dataflow - Monitoring - Gilbarco Transactions Writeback to Snowflake,Transactions,Data & Analytics,GSTV-Domo-Admin
+331,Dataflow - Transaction + Plays - Unvalidated Network Impressions,,Transactions - Dataflow - Transaction + Plays - Unvalidated Network Impressions,Transactions,Data & Analytics,Garrett Kohler
+327,Dataflow - Transactions - Monitoring - Historic,,Transactions - Dataflow - Transactions - Monitoring - Historic,Transactions,Data & Analytics,GSTV-Domo-Admin
+326,Dataflow - Transactions - Monitoring - Most Recent Day,,Transactions - Dataflow - Transactions - Monitoring - Most Recent Day,Transactions,Data & Analytics,GSTV-Domo-Admin
+328,Dataflow - Transactions - Monitoring - Most Recent Day - Gilbarco,,Transactions - Dataflow - Transactions - Monitoring - Most Recent Day - Gilbarco,Transactions,Data & Analytics,GSTV-Domo-Admin
+329,Dataflow - Transactions - Monitoring - Most Recent Day - Speedway,,Transactions - Dataflow - Transactions - Monitoring - Most Recent Day - Speedway,Transactions,Data & Analytics,GSTV-Domo-Admin
+516,Demo - Transaction Monitoring - Segment Networks,,Transactions - Demo - Transaction Monitoring - Segment Networks,Transactions,Data & Analytics,GSTV-Domo-Admin
+6,DenormalizeProofOfPlay,,POP - DenormalizeProofOfPlay,Proof of Play,Network Operations,GSTV-Domo-Admin
+200,DenormalizeProofOfPlay Dec 2020,,POP - DenormalizeProofOfPlay Dec 2020,Proof of Play,Network Operations,
+878,DEV_AssembleTransactions_Gilbarco,DEV - AssembleTransactions Gilbarco,DEV - Managed Services - AssembleTransactions Gilbarco,Managed Services,Ad Operations,GSTV-Domo-Admin
+877,DEV_AssembleTransactions_Speedway,DEV - AssembleTransactions Speedway,DEV - Managed Services - Speedway - AssembleTransactions,Managed Services,Ad Operations,GSTV-Domo-Admin
+320,Development - ETL - Traffic Instructions - Data Engineering,,Traffic Instructions - Development - ETL - Data Engineering,Traffic Instructions,Ad Operations,Garrett Kohler
+330,DF330 - Transactions - Monitoring - All Networks,,Transactions - DF330 - Transactions - Monitoring - All Networks,Transactions,Data & Analytics,Garrett Kohler
+339,DF339 - Monitoring - Traffic Instructions - Daily Unique Site and Assets,,Traffic Instructions - DF339 - Monitoring - Daily Unique Site and Assets,Traffic Instructions,Ad Operations,Garrett Kohler
+345,DF345 - View - Monitoring - Sites - Active Sites | INT - DF345,,Governance - DF345 - View - Monitoring - Sites - Active Sites | INT - DF345,Monitoring & Governance,Data Engineering,
+347,DF347 - Monitoring - Salesforce Sites & Site Status History - Row Counts,,Salesforce - DF347 - Monitoring - Salesforce Sites & Site Status History - Row Counts,Salesforce / CRM,Sales,
+349,DF349 - Wayne-Dover Live Transactions Hourly Input | REC,,Transactions - DF349 - Wayne-Dover Live Transactions Hourly Input | REC,Transactions,Data & Analytics,
+350,DF350 - Gilbarco Live Transactions Hourly Input | REC,,Transactions - DF350 - Gilbarco Live Transactions Hourly Input | REC,Transactions,Data & Analytics,
+351,DF351 - Speedway Live Transactions Hourly Input | REC,,Transactions - DF351 - Speedway Live Transactions Hourly Input | REC,Transactions,Data & Analytics,GSTV-Domo-Admin
+352,DF352 - Monitoring - SF Opp-IO & Opportunities - Row Counts,,Salesforce - DF352 - Monitoring - SF Opp-IO & Opportunities - Row Counts,Salesforce / CRM,Sales,
+360,DF360 - Transactions - Monitoring - Daily & Prior,,Transactions - DF360 - Transactions - Monitoring - Daily & Prior,Transactions,Data & Analytics,
+362,DF362 - Transactions_Monitoring | All_Locations,DF362 - Transactions Monitoring | All Locations,Transactions - DF362 - Transactions Monitoring | All Locations,Transactions,Data & Analytics,
+363,DF363 - Transactions_Monitoring | Daily & Prior | By Location,DF363 - Transactions Monitoring | Daily & Prior | By Location,Transactions - DF363 - Transactions Monitoring | Daily & Prior | By Location,Transactions,Data & Analytics,
+364,DF364 - Snowflake Transaction Writebacks - Monitoring | PROD,,Transactions - DF364 - Snowflake Transaction Writebacks - Monitoring | PROD,Transactions,Data & Analytics,GSTV-Domo-Admin
+366,DF366 - Traffic Instructions Monitoring - Site Count by Asset-Day,,Traffic Instructions - DF366 - Monitoring - Site Count by Asset-Day,Traffic Instructions,Ad Operations,
+469,DFx - Impression Multiplier - Using Unvalidated Transaction - Hourly,,Impressions - DFx - Impression Multiplier - Using Unvalidated Transaction - Hourly,Impressions,Data & Analytics,GSTV-Domo-Admin
+421,DFx - Monitoring - Daily Transactions - Gilbarco,,Transactions - DFx - Monitoring - Daily Transactions - Gilbarco,Transactions,Data & Analytics,GSTV-Domo-Admin
+398,DFx - Monitoring - Snowflake - Sites Reporting Transactions,,Transactions - DFx - Monitoring - Snowflake - Sites Reporting Transactions,Transactions,Data & Analytics,GSTV-Domo-Admin
+402,DFx - Monitoring - Transactions,,Transactions - DFx - Monitoring - Transactions,Transactions,Data & Analytics,Garrett Kohler
+380,DFx - Patch - Transactions - May 2022 All Networkss,,Transactions - DFx - Patch - Transactions - May 2022 All Networkss,Transactions,Data & Analytics,Garrett Kohler
+474,DFx - Programmatic - Exchange Revenue - All Networks,,Revenue - DFx - Programmatic - Exchange Revenue - All Networks,Revenue & Monetization,Finance,GSTV-Domo-Admin
+405,DFx - Revenue - Campaign Revenue by DMA,,Revenue - DFx - Revenue - Campaign Revenue by DMA,Revenue & Monetization,Finance,Garrett Kohler
+423,DFx - Site Status by Day - Salesforce Writeback,,Salesforce - DFx - Site Status by Day - Salesforce Writeback,Salesforce / CRM,Sales,GSTV-Domo-Admin
+414,DFx - Site Status by Month - Salesforce Retailers,,Salesforce - DFx - Site Status by Month - Salesforce Retailers,Salesforce / CRM,Sales,Aaron Olson
+434,DFx - Sites - Base Data Set - Programmatic Revenue Testing Sites Tagged,DFx - Sites - Base Dataset - Programmatic Revenue Testing Sites Tagged,Revenue - DFx - Sites - Base Dataset - Programmatic Revenue Testing Sites Tagged,Revenue & Monetization,Finance,GSTV-Domo-Admin
+418,DFx - Sites - Sell Through Calculations - V1,,Programmatic Ops - DFx - Sites - Sell Through Calculations - V1,Programmatic Operations,Programmatic,GSTV-Domo-Admin
+424,DFx - Vistar - Direct Revenue - All DMAs - Daily,,Revenue - DFx - Vistar - Direct Revenue - All DMAs - Daily,Revenue & Monetization,Finance,GSTV-Domo-Admin
+425,DFx - Vistar - Exchange Revenue - All DMAs - Daily,,Revenue - DFx - Vistar - Exchange Revenue - All DMAs - Daily,Revenue & Monetization,Finance,GSTV-Domo-Admin
+305,DFx Market Plan 2021,,Sites - DFx Market Plan 2021,Sites & Locations,Data Engineering,Abigail Kane
+449,DFx Market Plan 2022,,Sites - DFx Market Plan 2022,Sites & Locations,Data Engineering,Abigail Kane
+274,DFx Snowflake Task Monitoring by Day,,Governance - DFx Snowflake Task Monitoring by Day,Monitoring & Governance,Data Engineering,Garrett Kohler
+828,Discover Daily SSP,,Programmatic - Discover Daily SSP,Programmatic,Programmatic,Antonio Bowens
+302,domo - dataflow + MySql + MongoDb - bug fix,,Engineering - domo - dataflow + MySql + MongoDb - bug fix,Engineering,Engineering,Garrett Kohler
+879,Domo Governance,,Governance - Domo Governance,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+525,DomoStats - DataFlow and View Inputs - Map IDs to Name,,Governance - DataFlow and View Inputs - Map IDs to Name,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+571,Domostats - Dataflow Input Datasources with Names,,Governance - Dataflow Input Datasources with Names,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+572,Domostats - Dataflow Output Datasources with Names,,Governance - Dataflow Output Datasources with Names,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+574,Domostats - View and Dataflow Inputs and Outputs,,Governance - View and Dataflow Inputs and Outputs,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+573,Domostats - View Input Datasources with Names,,Governance - View Input Datasources with Names,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+481,Dover - Transactions - Historic - Hourly,,Transactions - Dover - Transactions - Historic - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+789,Dover DXPromote Pop + Site Status History,,Sites - Dover DXPromote Pop + Site Status History,Sites & Locations,Network Operations,Bill Binkiewicz
+58,DP IO List for Rev Share,DP IO List for Revenue Share,Revenue - DP IO List for Revenue Share,Revenue & Monetization,Finance,
+271,DS_DomoStats_Dataset_Execution_Error_History_INT,,Governance - DS_DomoStats_Dataset_Execution_Error_History_INT,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+487,DS_DomoStats_DataSets_Mapped_To_UserNames,,Governance - DS_DomoStats_DataSets_Mapped_To_UserNames,Monitoring & Governance,Data Engineering,Sriram Vepuri
+298,Duplicate Location_Date_Hour - 20210430 Transaction Data,Duplicate Location Date Hour - 20210430 Transaction Data,Transactions - Duplicate Location Date Hour - 20210430 Transaction Data,Transactions,Data & Analytics,Garrett Kohler
+540,DXPromote Proof Of Play Delay Analysis,DXPromote Proof of Play Delay Analysis,Sites - DXPromote Proof of Play Delay Analysis,Sites & Locations,Network Operations,Aaron Olson
+182,Enabled Chevy Programmatic Sites,,Programmatic - Enabled Chevy Programmatic Sites,Programmatic,Programmatic,Michael Girard
+441,Enterprise - RPA Conversion for Vistar - V2.1 - Email Ingest,,RPA - Enterprise - RPA Conversion for Vistar - V2.1 - Email Ingest,RPA,Ad Operations,GSTV-Domo-Admin
+301,ETL - IO List v3,,Campaigns - ETL - IO List v3,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+784,ETL to joined Simpli.fi and Salesforce Data,,Salesforce - ETL to joined Simpli.fi and Salesforce Data,Salesforce / CRM,Sales,Antonio Bowens
+867,Exchange Revenue by CPM Floor,,Revenue - Exchange Revenue by CPM Floor,Revenue & Monetization,Finance,GSTV-Domo-Admin
+839,Fairlife Daily SSP,,Programmatic - Fairlife Daily SSP,Programmatic,Programmatic,Antonio Bowens
+895,Finance - CVI and NVI Modifications,,Impressions - Finance - CVI and NVI Modifications,Impressions,Data & Analytics,GSTV-Domo-Admin
+690,Finance - Programmatic Revenue Analysis - Vistar Exchange Revenue by Site,,Revenue - Finance - Programmatic Revenue Analysis - Vistar Exchange Revenue by Site,Revenue & Monetization,Finance,GSTV-Domo-Admin
+28,Flatten TI With Site Status History,,Sites - Flatten TI With Site Status History,Sites & Locations,Data Engineering,
+886,FP6 NVI Flow,,Impressions - FP6 NVI Flow,Impressions,Data & Analytics,Adam Doughty
+92,Full Site List,,Sites - Full Site List,Sites & Locations,Data Engineering,Garrett Kohler
+91,Gbase and Domo Transaction Comparisons,,Transactions - Gbase and Domo Transaction Comparisons,Transactions,Data & Analytics,Aaron Olson
+55,Gilbarco - Transactions - Live - Hourly,,Transactions - Gilbarco - Transactions - Live - Hourly,Transactions,Data & Analytics,Aaron Olson
+760,Gilbarco Applause Sites Health Dashboard - Data Flow,,POP - Gilbarco Applause Sites Health Dashboard - Data Flow,Proof of Play,Network Operations,Bill Binkiewicz
+255,"Gilbarco Coupons Printed by Date, Coupon",,"Managed Services - Gilbarco Coupons Printed by Date, Coupon",Managed Services,Ad Operations,Adam Doughty
+754,Gilbarco Hour of Week Impression Multipliers - Previous Quarter,,Impressions - Gilbarco Hour of Week Impression Multipliers - Previous Quarter,Impressions,Data & Analytics,Bill Binkiewicz
+845,Gilbarco ICS - Cloud Amplifier - 24 Hours POP,,POP - Gilbarco ICS - Cloud Amplifier - 24 Hours,Proof of Play,Network Operations,Bill Binkiewicz
+623,Gilbarco ICS - Transactions - Patch - Input,,POP - Gilbarco ICS - Transactions - Patch - Input,Proof of Play,Network Operations,GSTV-Domo-Admin
+901,Gilbarco ICS Monthly Operating Status Process,,POP - Gilbarco ICS Monthly Operating Status Process,Proof of Play,Network Operations,Bill Binkiewicz
+913,Gilbarco ICS Notifications - Enriched,,POP - Gilbarco ICS Notifications - Enriched,Proof of Play,Network Operations,Viji Karthikeyan
+757,Gilbarco ICS Plays By Day,,POP - Gilbarco ICS Plays By Day,Proof of Play,Network Operations,Bill Binkiewicz
+723,Gilbarco ICS Pop + Site Status History,,POP - Gilbarco ICS + Site Status History,Proof of Play,Network Operations,Bill Binkiewicz
+658,Gilbarco ICS Revenue,,POP - Gilbarco ICS Revenue,Proof of Play,Network Operations,GSTV-Domo-Admin
+720,Gilbarco ICS Site Health Transform,,POP - Gilbarco ICS Site Health Transform,Proof of Play,Network Operations,Bill Binkiewicz
+865,Gilbarco ICS Site Validation Workflow,,POP - Gilbarco ICS Site Validation Workflow,Proof of Play,Network Operations,Bill Binkiewicz
+558,Gilbarco Job Stats Processor,,Managed Services - Gilbarco Job Stats Processor,Managed Services,Ad Operations,Bill Binkiewicz
+220,Gilbarco Outage Analysis,,Managed Services - Gilbarco Outage Analysis,Managed Services,Ad Operations,Adam Doughty
+213,Gilbarco Outage Impact,,Managed Services - Gilbarco Outage Impact,Managed Services,Ad Operations,
+664,Gilbarco Programmatic Multiplier Calculation,,Programmatic - Gilbarco Programmatic Multiplier Calculation,Programmatic,Programmatic,Michael Girard
+129,Gilbarco Transactions - May 2021,,Transactions - Gilbarco Transactions - May 2021,Transactions,Data & Analytics,Aaron Olson
+621,Gilbarco V2 - Transactions - Live - Hourly,,Transactions - Gilbarco V2 - Transactions - Live - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+15,GilbarcoRestartAnalysisTransform,,Managed Services - GilbarcoRestartAnalysisTransform,Managed Services,Ad Operations,
+687,GK - Transaction Audit - YoY Network Comparison,,Transactions - GK - Transaction Audit - YoY Network Comparison,Transactions,Data & Analytics,GSTV-Domo-Admin
+804,Grouped Programmatic Direct,,Programmatic - Grouped Programmatic Direct,Programmatic,Programmatic,Antonio Bowens
+869,GSTV Fast Sites Pop Metrics,,Analytics - GSTV Fast Sites Pop Metrics,Site Analytics,Data & Analytics,Bill Binkiewicz
+905,GVR ICS Clawback,Gilbarco ICS Clawback,Revenue - Gilbarco ICS Clawback,Revenue & Monetization,Finance,Hailee Mcfarland
+369,Heat Map - Transactions - Day of Week by Time of Day,,Transactions - Heat Map - Transactions - Day of Week by Time of Day,Transactions,Data & Analytics,Garrett Kohler
+588,Historic - Vistar Venue Avails Before Programmatic - Data Cleanup,,Programmatic Ops - Vistar - Historic - Venue Avails Before Programmatic - Data Cleanup,Programmatic Operations,Programmatic,Aaron Olson
+245,Historical Comscore Transaction Report - WIP,,Impressions - Historical Comscore Transaction Report - WIP,Impressions,Data & Analytics,Kayla Cekal
+650,Hivestack - Hourly Impressions By Week,,Impressions - Hivestack - Hourly Impressions By Week,Impressions,Data & Analytics,Aaron Olson
+646,Hourly Impression Multipliers - Site Actuals And DMA Averages,,Impressions - Hourly Impression Multipliers - Site Actuals And DMA Averages,Impressions,Data & Analytics,Aaron Olson
+142,Hourly Transactions - Writeback,,Transactions - Hourly Transactions - Writeback,Transactions,Data & Analytics,Aaron Olson
+422,Hurrican Ian Campaign Impact -,,Campaigns - Hurrican Ian Campaign Impact,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+788,ICS Revenue Per Site Breakdown,,POP - ICS Revenue Per Site Breakdown,Proof of Play,Network Operations,Aaron Olson
+607,Identify Sites Playing Programmatic While Flagged Unsellable,,Programmatic - Identify Sites Playing Programmatic While Flagged Unsellable,Programmatic,Programmatic,Adam Doughty
+231,Impressions by IO by DMA,,Impressions - by IO by DMA,Impressions,Data & Analytics,Abigail Kane
+233,Impressions By IO By DMA Previous Month,,Impressions - By IO By DMA Previous Month,Impressions,Data & Analytics,Nick Kaufmann
+874,Instance Governance Sample Output,,Governance - Instance Sample Output,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+378,INT_GSTV_Stacked_Campaign,INT GSTV Stacked Campaign,Campaigns - INT GSTV Stacked Campaign,Campaigns & Delivery,Ad Operations,Garrett Kohler
+622,Inventory - Update Place Exchange Site Status,,Sites - Inventory - Update Place Exchange Site Status,Sites & Locations,Data Engineering,Scott Anger
+31,IO List for Rev Share,IO List for Revenue Share,Revenue - IO List for Revenue Share,Revenue & Monetization,Finance,
+94,IO List for Rev Share 202001,IO List for Revenue Share 202001,Revenue - IO List for Revenue Share 202001,Revenue & Monetization,Finance,Garrett Kohler
+335,IO List From Vistar BI - Pervious Month,,Programmatic - Vistar - IO List From BI - Pervious Month,Programmatic,Programmatic,Abigail Kane
+319,IO List From Vistar BI - Prior Month,,Programmatic - Vistar - IO List From BI - Prior Month,Programmatic,Programmatic,GSTV-Domo-Admin
+144,IO List v2 Verification Flow,,Campaigns - IO List v2 Verification Flow,Campaigns & Delivery,Ad Operations,
+230,IO with DMA with Impressions,,Impressions - IO with DMA with Impressions,Impressions,Data & Analytics,Abigail Kane
+693,IOTV to DXP Conversion Planning,,Sites - IOTV to DXP Conversion Planning,Sites & Locations,Network Operations,Adam Doughty
+446,JIRA Data Join,,Engineering - JIRA Data Join,Engineering,Engineering,Michelle Bachmann
+447,JIRA Issues w/o Dups,,Engineering - JIRA Issues w/o Dups,Engineering,Engineering,Michelle Bachmann
+448,Jira Projects,,Engineering - Jira Projects,Engineering,Engineering,Michelle Bachmann
+454,JIRA Time Tracking Compliance - Month To Date,,Engineering - JIRA Time Tracking Compliance - Month To Date,Engineering,Engineering,Aaron Olson
+773,Joined Daily SSP,,Programmatic - Joined Daily SSP,Programmatic,Programmatic,Antonio Bowens
+909,Joined Place Exchange PMP Pacing Data,,Programmatic Ops - Place Exchange - Joined PMP Pacing Data,Programmatic Operations,Programmatic,Antonio Bowens
+701,KRPTON_TEST - Speedway - Email Transactions - Live - Hourly,KRPTON TEST - Speedway - Email Transactions - Live - Hourly,Transactions - KRPTON TEST - Speedway - Email Transactions - Live - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+514,Kwik Trip for RevShare,,Revenue - Kwik Trip for RevShare,Revenue & Monetization,Finance,Abigail Kane
+253,Landmark Industries Rent Payment,,Revenue - Landmark Industries Rent Payment,Revenue & Monetization,Finance,Kayla Cekal
+536,Map View and Dataflow Inputs and Output IDs to Object Names,,Engineering - Map View and Dataflow Inputs and Output IDs to Object Names,Engineering,Engineering,GSTV-Domo-Admin
+307,March POP + March TI for Vistar Analysis,,Programmatic - Vistar - March POP + March TI for Analysis,Programmatic,Programmatic,Adam Doughty
+552,Market Plan - Direct - Using NVIs,,Sites - Market Plan - Direct - Using NVIs,Sites & Locations,Data Engineering,Aaron Olson
+843,Market Plan - Direct - Using NVIs - Casey's General Stores Only,,Sites - Market Plan - Direct - Using NVIs - Casey's General Stores Only,Sites & Locations,Data Engineering,Hailee Mcfarland
+598,Market Plan - Direct - Using NVIs - Gulp Media Network Only,,Sites - Market Plan - Direct - Using NVIs - Gulp Media Network Only,Sites & Locations,Data Engineering,Aaron Olson
+659,Market Plan - Direct - Using NVIs - No Exclusions,,Sites - Market Plan - Direct - Using NVIs - No Exclusions,Sites & Locations,Data Engineering,Hailee Mcfarland
+123,Market Plan - Direct - Using Transactions,,Transactions - Market Plan - Direct - Using Transactions,Transactions,Data & Analytics,Aaron Olson
+535,Market Plan - Direct w/NVI,,Impressions - Market Plan - Direct w/NVI,Impressions,Data & Analytics,Nick Kaufmann
+554,Market Plan - Programmatic - Using NVIs,,Sites - Market Plan - Programmatic - Using NVIs,Sites & Locations,Data Engineering,Aaron Olson
+156,Market Plan - Programmatic - Using Transactions,,Transactions - Market Plan - Programmatic - Using Transactions,Transactions,Data & Analytics,Aaron Olson
+261,Market Plan - Site List - Snapshot - Uploaded,,Sites - Market Plan - Site List - Snapshot - Uploaded,Sites & Locations,Data Engineering,Abigail Kane
+665,Market Plan Current vs. Previous Comparison,,Sites - Market Plan Current vs. Previous Comparison,Sites & Locations,Data Engineering,Adam Doughty
+881,Marketing - CVI - Summer Tentpole and Holiday Transactions/Impression Trends,,Impressions - Marketing - CVI - Summer Tentpole and Holiday Transactions/Impression Trends,Impressions,Data & Analytics,GSTV-Domo-Admin
+477,MARSH - Clone of Sites - Base Data Set,MARSH - Clone of Sites - Base Dataset,Sites - MARSH - Clone of Sites - Base Dataset,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+475,Marsh - Plays and Site Status - Sites to Reactivate,,Sites - Marsh - Plays and Site Status - Sites to Reactivate,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+587,Master Monthly Impressions - Using CVIs,,Impressions - Master Monthly Impressions - Using CVIs,Impressions,Data & Analytics,Nick Kaufmann
+553,Master Monthly Impressions - Using NVIs,,Impressions - Master Monthly Impressions - Using NVIs,Impressions,Data & Analytics,Aaron Olson
+154,Master Monthly Impressions - Using Transactions,,Transactions - Master Monthly Impressions - Using Transactions,Transactions,Data & Analytics,Aaron Olson
+263,Master | Domo_Governance_Dataset,Master | Domo Governance Dataset,Governance - Master | Dataset,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+841,Mcdonalds Daily SSP,,Programmatic - Mcdonalds Daily SSP,Programmatic,Programmatic,Antonio Bowens
+294,Merge Transaction Data - 0430,,Transactions - Merge Transaction Data - 0430,Transactions,Data & Analytics,Garrett Kohler
+899,Mid-Campaign Tracking - Ad Ops - Active Campaigns,,Campaigns - Mid-Campaign Tracking - Ad Ops - Active Campaigns,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+128,Missing Dover Transactions - 08/13/2020 - 10/04/2020,,Transactions - Missing Dover Transactions - 08/13/2020 - 10/04/2020,Transactions,Data & Analytics,Aaron Olson
+663,Mongo Sites,,Sites - Mongo Sites,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+463,Monitoring - Dataflow and Dataset Execution Status - Base Data Set - DFx,Monitoring - Dataflow and Dataset Execution Status - Base Dataset - DFx,Governance - Monitoring - Dataflow and Dataset Execution Status - Base Dataset - DFx,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+341,Monitoring - Sales Force Connector - Alerts,,Governance - Monitoring - Sales Force Connector - Alerts,Monitoring & Governance,Data Engineering,Garrett Kohler
+311,Monitoring - Salesforce Connector Data Load,,Salesforce - Monitoring - Salesforce Connector Data Load,Salesforce / CRM,Sales,GSTV-Domo-Admin
+404,Monitoring - Site Status History per Day - All Networks,,Sites - Monitoring - Site Status History per Day - All Networks,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+403,Monitoring - Sites Status History,,Sites - Monitoring - Sites Status History,Sites & Locations,Data Engineering,Garrett Kohler
+410,Monitoring - Snowflake Writebacks - Dai,,Governance - Monitoring - Snowflake Writebacks - Dai,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+566,Monitoring - Speedway - S3 Transactions - Live - Hourly - Store ID QA,,Transactions - Monitoring - Speedway - S3 Transactions - Live - Hourly - Store ID QA,Transactions,Data & Analytics,GSTV-Domo-Admin
+406,Monitoring - Traffic Instructions - By Network,,Traffic Instructions - Monitoring - By Network,Traffic Instructions,Ad Operations,GSTV-Domo-Admin
+413,Monitoring - Traffic Instructions - Sites Reporting,,Traffic Instructions - Monitoring - Sites Reporting,Traffic Instructions,Ad Operations,GSTV-Domo-Admin
+560,Monitoring - Transactions,,Transactions - Monitoring - Transactions,Transactions,Data & Analytics,GSTV-Domo-Admin
+407,Monitoring - Transactions - All Networks,,Transactions - Monitoring - Transactions - All Networks,Transactions,Data & Analytics,GSTV-Domo-Admin
+522,Monitoring - Transactions - By Hour Analysis,,Transactions - Monitoring - Transactions - By Hour Analysis,Transactions,Data & Analytics,GSTV-Domo-Admin
+491,Monitoring - Transactions - Data Assembler,,Transactions - Monitoring - Transactions - Data Assembler,Transactions,Data & Analytics,GSTV-Domo-Admin
+521,Monitoring - Transactions - Snowflake Writeback Check,,Transactions - Monitoring - Transactions - Snowflake Writeback Check,Transactions,Data & Analytics,GSTV-Domo-Admin
+43,Monthly Pop for Rev Share,Monthly Pop for Revenue Share,Revenue - Monthly Pop for Revenue Share,Revenue & Monetization,Finance,
+2,Monthly Revenue,,Revenue - Monthly Revenue,Revenue & Monetization,Finance,Aaron Olson
+234,Net Impressions by DMA,,Impressions - Net Impressions by DMA,Impressions,Data & Analytics,Kayla Cekal
+11,Network Hourly Transactions,,Transactions - Network Hourly Transactions,Transactions,Data & Analytics,
+643,Network Uptime Metrics ,,Governance - Network Uptime Metrics,Monitoring & Governance,Data Engineering,Bill Binkiewicz
+494,Network Validated Impressions - Base Data Set with Fiscal Calendar and Utility Helper,Network Validated Impressions - Base Dataset with Fiscal Calendar and Utility Helper,Impressions - Network Validated Impressions - Base Dataset with Fiscal Calendar and Utility Helper,Impressions,Data & Analytics,GSTV-Domo-Admin
+401,Network Validated Impressions - Daily - Recursive,,Impressions - Network Validated Impressions - Daily - Recursive,Impressions,Data & Analytics,GSTV-Domo-Admin
+440,Network Validated Impressions - Network Dashboard,,Impressions - Network Validated Impressions - Network Dashboard,Impressions,Data & Analytics,GSTV-Domo-Admin
+534,Network Validated Impressions - Sites Reporting More Than 14 Days Of NVIs In The Last 32 Days,,Impressions - Network Validated Impressions - Sites Reporting More Than 14 Days Of NVIs In The Last 32 Days,Impressions,Data & Analytics,Aaron Olson
+609,NOC - Full Status Report - Append Email Connector Datasets,,Sites - NOC - Full Status Report - Append Email Connector Datasets,Sites & Locations,Network Operations,GSTV-Domo-Admin
+576,NOC - Monitoring - Site Plays,,Sites - NOC - Monitoring - Site Plays,Sites & Locations,Network Operations,GSTV-Domo-Admin
+567,"NOC - Play Monitoring - by Site, Asset, Hour",,"Sites - NOC - Play Monitoring - by Site, Asset, Hour",Sites & Locations,Network Operations,GSTV-Domo-Admin
+808,NOC Flow - All Platforms FP6 DXP IOTV FP4 ICS Jupiter Status,,Sites - NOC Flow - All Platforms FP6 DXP IOTV FP4 ICS Jupiter Status,Sites & Locations,Network Operations,Adam Doughty
+850,NOC Flow - Brand / Retailer Changes - Last 14 Days,,Sites - NOC Flow - Brand / Retailer Changes - Last 14 Days,Sites & Locations,Network Operations,Adam Doughty
+851,NOC Flow - Brand / Retailer Changes - Last 14 Days Alternate,,Sites - NOC Flow - Brand / Retailer Changes - Last 14 Days Alternate,Sites & Locations,Network Operations,Adam Doughty
+842,NOC Flow - Casey's Deployment POP History,,Sites - NOC Flow - Casey's Deployment POP History,Sites & Locations,Network Operations,Adam Doughty
+782,NOC Flow - DXP Conversion Requirements,,Sites - NOC Flow - DXP Conversion Requirements,Sites & Locations,Network Operations,Adam Doughty
+783,NOC Flow - Evergreen Analysis,,Sites - NOC Flow - Evergreen Analysis,Sites & Locations,Network Operations,Adam Doughty
+911,NOC Flow - FP6 Activation Date Calculation,,Sites - NOC Flow - FP6 Activation Date Calculation,Sites & Locations,Network Operations,Adam Doughty
+798,NOC Flow - FP6 Reporting,,Sites - NOC Flow - FP6 Reporting,Sites & Locations,Network Operations,Adam Doughty
+729,NOC Flow - ICS POP and Screen Counts,,POP - NOC Flow - ICS and Screen Counts,Proof of Play,Network Operations,Adam Doughty
+870,NOC Flow - ICS Sites that Need Activation Date,,POP - NOC Flow - ICS Sites that Need Activation Date,Proof of Play,Network Operations,Adam Doughty
+914,NOC Flow - Jupiter Sites Report,,Sites - NOC Flow - Jupiter Sites Report,Sites & Locations,Network Operations,Adam Doughty
+738,NOC Flow - Metrics Data Summary,,Sites - NOC Flow - Metrics Data Summary,Sites & Locations,Network Operations,Adam Doughty
+611,NOC Flow - NFC + Screen/Dispenser,,Sites - NOC Flow - NFC + Screen/Dispenser,Sites & Locations,Network Operations,Adam Doughty
+762,NOC Flow - NVI History,,Impressions - NOC Flow - NVI History,Impressions,Data & Analytics,Adam Doughty
+737,NOC Flow - Retail Partnerships Reporting,,Sites - NOC Flow - Retail Partnerships Reporting,Sites & Locations,Network Operations,Adam Doughty
+733,NOC Flow - Retailer with Mixed Managed Service Sites,,Sites - NOC Flow - Retailer with Mixed Managed Service Sites,Sites & Locations,Network Operations,Adam Doughty
+795,NOC Flow - Revenue by Site / DMA,,Revenue - NOC Flow - Revenue by Site / DMA,Revenue & Monetization,Finance,Adam Doughty
+805,NOC Flow - RPA Sites & Retailers,,RPA - NOC Flow - RPA Sites & Retailers,RPA,Ad Operations,Adam Doughty
+800,NOC Flow - Screen Hardware,,Sites - NOC Flow - Screen Hardware,Sites & Locations,Network Operations,Adam Doughty
+829,NOC Flow - Screen POP Summary,,Sites - NOC Flow - Screen POP Summary,Sites & Locations,Network Operations,Adam Doughty
+727,NOC Flow - Sites Reporting POP by Platform,,POP - NOC Flow - Sites Reporting by Platform,Proof of Play,Network Operations,Adam Doughty
+748,NOC Flow - Status History,,Sites - NOC Flow - Status History,Sites & Locations,Network Operations,Adam Doughty
+745,NOC Flow - Unsellable Flag Summary,,Sites - NOC Flow - Unsellable Flag Summary,Sites & Locations,Network Operations,Adam Doughty
+673,NOC Master Data,,Sites - NOC Master Data,Sites & Locations,Network Operations,Adam Doughty
+716,NOC Report - Circle K ICS Deactivated Monitor,,POP - NOC Report - Circle K ICS Deactivated Monitor,Proof of Play,Network Operations,Adam Doughty
+698,NOC Report - GVR Weekly Offline,NOC Report - Gilbarco Weekly Offline,Sites - NOC Report - Gilbarco Weekly Offline,Sites & Locations,Network Operations,Adam Doughty
+678,NOC Report - ICS Reports,,POP - NOC Report - ICS Reports,Proof of Play,Network Operations,Adam Doughty
+675,NOC Report - Market Plan Preview,,Sites - NOC Report - Market Plan Preview,Sites & Locations,Data Engineering,Adam Doughty
+682,NOC Report - Monthly/Weekly SLT Inventory Changes,,Sites - NOC Report - Monthly/Weekly SLT Inventory Changes,Sites & Locations,Network Operations,Adam Doughty
+699,NOC Report - POP / Transaction History Summary,,Transactions - NOC Report - POP / Transaction History Summary,Transactions,Data & Analytics,Adam Doughty
+722,NOC Report - Retailer Site Reports,,Sites - NOC Report - Retailer Site Reports,Sites & Locations,Network Operations,Adam Doughty
+709,NOC Report - TDLINX Update Flow,,Sites - NOC Report - TDLINX Update Flow,Sites & Locations,Data Engineering,Adam Doughty
+697,NOC Report - Transactions vs Prior Years,,Transactions - NOC Report - Transactions vs Prior Years,Transactions,Data & Analytics,Adam Doughty
+718,NOC Report - Wayne Gilbarco Partner Data,,Sites - NOC Report - Wayne Gilbarco Partner Data,Sites & Locations,Network Operations,Adam Doughty
+677,NOC Report - Weekly Master Reports,,Sites - NOC Report - Weekly Master Reports,Sites & Locations,Network Operations,Adam Doughty
+259,NOC Report Flow - Count of Network Status By Date By Network,,Sites - NOC Report Flow - Count of Network Status By Date By Network,Sites & Locations,Network Operations,Adam Doughty
+210,NOC Report Flow - Count of Network Status By Date By Program,,Sites - NOC Report Flow - Count of Network Status By Date By Program,Sites & Locations,Network Operations,Adam Doughty
+717,NOC Report Transactions History,,Transactions - NOC Report Transactions History,Transactions,Data & Analytics,Adam Doughty
+543,NVI - Monthly DMA Averages,,Impressions - NVI - Monthly DMA Averages,Impressions,Data & Analytics,Aaron Olson
+501,NVI Historic - Base Data Set,NVI Historic - Base Dataset,Impressions - NVI Historic - Base Dataset,Impressions,Data & Analytics,GSTV-Domo-Admin
+831,Odyssey 2.0 - Advertiser Churn,,Engineering - Odyssey 2.0 - Advertiser Churn,Engineering,Engineering,GSTV-Domo-Admin
+838,Odyssey 2.0 - Exchange Revenue by Advertiser,,Revenue - Odyssey 2.0 - Exchange Revenue by Advertiser,Revenue & Monetization,Finance,GSTV-Domo-Admin
+837,"Odyssey 2.0 - Programmatic - Exchange Revenue - by Date, Site",,"Revenue - Odyssey 2.0 - Programmatic - Exchange Revenue - by Date, Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+824,Odyssey 2.0 - Programmatic Revenue - Period Comparisons ,,Revenue - Odyssey 2.0 - Programmatic Revenue - Period Comparisons,Revenue & Monetization,Finance,GSTV-Domo-Admin
+833,Odyssey 2.0 - Programmatic Revenue - SSP - Full Granularity,,Revenue - Odyssey 2.0 - Programmatic Revenue - SSP - Full Granularity,Revenue & Monetization,Finance,GSTV-Domo-Admin
+774,"Odyssey 2.0 - Revenue, Diagnostics, and Availability - by Site",,"Revenue - Odyssey 2.0 - Revenue, Diagnostics, and Availability - by Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+806,"Odyssey 2.0 - Vistar - Exchange and Deal Revenue - by Site, Adversiter",,"Revenue - Odyssey 2.0 - Vistar - Exchange and Deal Revenue - by Site, Adversiter",Revenue & Monetization,Finance,GSTV-Domo-Admin
+427,OPP/IO for Sept. Rev Share w IO 7409,OPP/IO for Sept. Revenue Share w IO 7409,Revenue - OPP/IO for Sept. Revenue Share w IO 7409,Revenue & Monetization,Finance,Abigail Kane
+138,OPP/IO Rev - Base Data Set,OPP/IO Rev - Base Dataset,Salesforce - OPP/IO Rev - Base Dataset,Salesforce / CRM,Sales,GSTV-Domo-Admin
+303,Orca Transaction Patch - Data Assembler Output Schema Match,,Transactions - Orca Transaction Patch - Data Assembler Output Schema Match,Transactions,Data & Analytics,Garrett Kohler
+296,Output - Merge Transactions - 0412,,Transactions - Output - Merge Transactions - 0412,Transactions,Data & Analytics,Garrett Kohler
+295,Output - Remove Duplicated - Merged Transaction Data - 0430,,Transactions - Output - Remove Duplicated - Merged Transaction Data - 0430,Transactions,Data & Analytics,Garrett Kohler
+297,Output - Remove Duplicates - Merge Transactions - 0412,,Transactions - Output - Remove Duplicates - Merge Transactions - 0412,Transactions,Data & Analytics,Garrett Kohler
+116,Parkin Vistar,,Programmatic - Vistar - Parkin,Programmatic,Programmatic,Adam Doughty
+121,Partner Site List - Adomni,,Sites - Partner Site List - Adomni,Sites & Locations,Data Engineering,Aaron Olson
+177,Partner Site List - Adquick,,Sites - Partner Site List - Adquick,Sites & Locations,Data Engineering,Aaron Olson
+176,Partner Site List - Aki,,Sites - Partner Site List - Aki,Sites & Locations,Data Engineering,Aaron Olson
+519,Partner Site List - Broadsign,,Sites - Partner Site List - Broadsign,Sites & Locations,Data Engineering,Abigail Kane
+97,Partner Site List - Place Exchange,,Sites - Partner Site List - Place Exchange,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+64,Partner Site List - Ubimo,,Sites - Partner Site List - Ubimo,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+472,Partner Transaction List - Rapportal,,Transactions - Partner Transaction List - Rapportal,Transactions,Data & Analytics,Aaron Olson
+429,Patch - DFx - Vistar Programmatic Exchange Revenue,,Revenue - Patch - DFx - Vistar Programmatic Exchange Revenue,Revenue & Monetization,Finance,GSTV-Domo-Admin
+353,Patch - OPP/IO Rev - Base Data Set,Patch - OPP/IO Rev - Base Dataset,Salesforce - Patch - OPP/IO Rev - Base Dataset,Salesforce / CRM,Sales,Garrett Kohler
+555,Patch - Speedway - S3 Transactions - Live - Hourly,,Transactions - Patch - Speedway - S3 Transactions - Live - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+384,Patch - Transactions - All Networks,,Transactions - Patch - Transactions - All Networks,Transactions,Data & Analytics,Garrett Kohler
+127,Patch - Transactions - All Networks - Hourly,,Transactions - Patch - Transactions - All Networks - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+312,Patch - Transactions - Gilbarco,,Transactions - Patch - Transactions - Gilbarco,Transactions,Data & Analytics,
+313,Patch - Transactions - Speedway,,Transactions - Patch - Transactions - Speedway,Transactions,Data & Analytics,Garrett Kohler
+565,Patch - Transactions - Speedway V2 - S3 Data,,Transactions - Patch - Transactions - Speedway V2 - S3 Data,Transactions,Data & Analytics,GSTV-Domo-Admin
+314,Patch - Transactions - Wayne,,Transactions - Patch - Transactions - Wayne,Transactions,Data & Analytics,
+550,Patch - Wayne Transactions - Weighted Calculation,,Transactions - Patch - Wayne Transactions - Weighted Calculation,Transactions,Data & Analytics,GSTV-Domo-Admin
+518,Patch DA - Programmatic Revenue - Hivestack,,Revenue - Patch DA - Programmatic Revenue - Hivestack,Revenue & Monetization,Finance,GSTV-Domo-Admin
+507,Patch Process - Vistar SSP Revenue,,Revenue - Patch Process - Vistar SSP Revenue,Revenue & Monetization,Finance,GSTV-Domo-Admin
+771,PD Campaign with Months,,Campaigns - PD Campaign with Months,Campaigns & Delivery,Ad Operations,Antonio Bowens
+894,Platinum - Calc Active site Days,,Analytics - Platinum - Calc Active site Days,Site Analytics,Data & Analytics,GSTV-Domo-Admin
+903,Platinum - Site Tiers with Revenue Predictions,,Revenue - Platinum - Site Tiers with Revenue Predictions,Revenue & Monetization,Finance,GSTV-Domo-Admin
+793,Pluto - CPM Floors - Live,,Revenue - Pluto - CPM Floors - Live,Revenue & Monetization,Finance,GSTV-Domo-Admin
+785,Pluto - CPM Group Tracking,,Revenue - Pluto - CPM Group Tracking,Revenue & Monetization,Finance,GSTV-Domo-Admin
+786,Pluto - Dashboard Reporting,,Revenue - Pluto - Dashboard Reporting,Revenue & Monetization,Finance,GSTV-Domo-Admin
+775,Pluto - Exchange Revenue - Hourly by Site,,Revenue - Pluto - Exchange Revenue - Hourly by Site,Revenue & Monetization,Finance,GSTV-Domo-Admin
+787,Pluto - Fill First 3 Weeks CPM Floor,,Revenue - Pluto - Fill First 3 Weeks CPM Floor,Revenue & Monetization,Finance,GSTV-Domo-Admin
+794,Pluto - Period Comparison Metrics,,Revenue - Pluto - Period Comparison Metrics,Revenue & Monetization,Finance,GSTV-Domo-Admin
+766,Pluto - Regression Analysis,,Revenue - Pluto - Regression Analysis,Revenue & Monetization,Finance,GSTV-Domo-Admin
+781,Pluto - Reporting Metrics,,Revenue - Pluto - Reporting Metrics,Revenue & Monetization,Finance,GSTV-Domo-Admin
+743,"Pluto - Revenue - Vistar Exchange and Flex - Live - Daily, by Site",,"Revenue - Pluto - Revenue - Vistar Exchange and Flex - Live - Daily, by Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+799,Pluto - Sankey Chart - Process Data,,Revenue - Pluto - Sankey Chart - Process Data,Revenue & Monetization,Finance,GSTV-Domo-Admin
+744,"Pluto - Vistar Diagnostic and Revenue - Live - Daily, by Site",,"Revenue - Pluto - Vistar Diagnostic and Revenue - Live - Daily, by Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+741,"Pluto - Vistar Diagnostics and Revenue - Live - Daily, by Site",,"Revenue - Pluto - Vistar Diagnostics and Revenue - Live - Daily, by Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+742,"Pluto - Vistar Diagnostics and Site Data - All - Daily, by Site",,"Revenue - Pluto - Vistar Diagnostics and Site Data - All - Daily, by Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+777,Pluto - Weekly Fill Rate Groups,,Revenue - Pluto - Weekly Fill Rate Groups,Revenue & Monetization,Finance,GSTV-Domo-Admin
+834,PMAR-202 - Site Plays and Leases,,Governance - PMAR-202 - Site Plays and Leases,Monitoring & Governance,Data Engineering,GSTV-Domo-Admin
+80,PoP Report QL,,POP - Report QL,Proof of Play,Network Operations,Al Minetola
+111,PoP_byNetwork,PoP byNetwork,POP - byNetwork,Proof of Play,Network Operations,
+730,PROD - Append - Create Prioritized RPA Schedule and RPA Names,,PROD - RPA - Append - Create Prioritized RPA Schedule and RPA Names,RPA,Ad Operations,GSTV-Domo-Admin
+731,PROD - Append - Managed Service Retailer Contracts,,PROD - Managed Services - Append - Managed Service Retailer Contracts,Managed Services,Ad Operations,GSTV-Domo-Admin
+736,PROD - Managed Services - RPA Conversion - Create Line Items - Ad Ops RPA Conversion,,PROD - RPA - Managed Services - RPA Conversion - Create Line Items - Ad Ops RPA Conversion,RPA,Ad Operations,GSTV-Domo-Admin
+897,PROD - ORCA 6.0 - Mid-Campaign Tracking,,PROD - Campaigns - ORCA 6.0 - Mid-Campaign Tracking,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+752,PROD - Pluto - Revenue and Diagnostics,,PROD - Revenue - Pluto - Revenue and Diagnostics,Revenue & Monetization,Finance,GSTV-Domo-Admin
+484,PROD - Programmatic - Place Exchange - Revenue - by Date,,PROD - Revenue - Programmatic - Place Exchange - Revenue - by Date,Revenue & Monetization,Finance,GSTV-Domo-Admin
+503,PROD - Programmatic - SSP Revenue,,PROD - Revenue - Programmatic - SSP Revenue,Revenue & Monetization,Finance,GSTV-Domo-Admin
+751,PROD - Programmatic - Vistar Email - Diagnostic Insights - Daily by Site,,PROD - Programmatic Ops - Vistar - Programmatic - Email - Diagnostic Insights - Daily by Site,Programmatic Operations,Programmatic,GSTV-Domo-Admin
+807,PROD - Programmatic Revenue and Diagnostics - Base Data Sets - Odyssey + Pluto,,PROD - Revenue - Programmatic Revenue and Diagnostics - Base Data Sets - Odyssey + Pluto,Revenue & Monetization,Finance,GSTV-Domo-Admin
+399,PROD - RPA Conversion 3.1 - 2 Line Items - Ad Ops,,PROD - RPA - Conversion 3.1 - 2 Line Items - Ad Ops,RPA,Ad Operations,Jim Borovsky
+889,PROD - RPA Scheduling - Append Most Recent Schedules from RSMs and Enterprise,,PROD - RPA - Scheduling - Append Most Recent Schedules from RSMs and Enterprise,RPA,Ad Operations,GSTV-Domo-Admin
+890,PROD - Site Scoring - Data for Classification Labeling,,PROD - Analytics - Site Scoring - Data for Classification Labeling,Site Analytics,Data & Analytics,GSTV-Domo-Admin
+657,Programmatic - Diagnostics and Revenue by Venue,,Revenue - Programmatic - Diagnostics and Revenue by Venue,Revenue & Monetization,Finance,GSTV-Domo-Admin
+563,Programmatic - Direct Revenue - By Network - Finance,,Revenue - Programmatic - Direct Revenue - By Network - Finance,Revenue & Monetization,Finance,Nick Kaufmann
+483,Programmatic - Exchange - Revenue - Hivestack,,Revenue - Programmatic - Exchange - Revenue - Hivestack,Revenue & Monetization,Finance,GSTV-Domo-Admin
+482,Programmatic - Exchange - Revenue - Vistar,,Revenue - Programmatic - Exchange - Revenue - Vistar,Revenue & Monetization,Finance,GSTV-Domo-Admin
+830,Programmatic - Mongo - Site Leases and Plays,,Sites - Programmatic - Mongo - Site Leases and Plays,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+835,Programmatic - New Revenue from Play Rate Increase,,Revenue - Programmatic - New Revenue from Play Rate Increase,Revenue & Monetization,Finance,GSTV-Domo-Admin
+823,Programmatic - Revenue - Full Granularity - Live,,Revenue - Programmatic - Revenue - Full Granularity - Live,Revenue & Monetization,Finance,GSTV-Domo-Admin
+902,Programmatic - Revenue - Place Exchange - Base Data Set,Programmatic - Revenue - Place Exchange - Base Dataset,Revenue - Programmatic - Revenue - Place Exchange - Base Dataset,Revenue & Monetization,Finance,GSTV-Domo-Admin
+749,Programmatic - Vistar - Exchange Revenue - Daily by Site,,Revenue - Programmatic - Vistar - Exchange Revenue - Daily by Site,Revenue & Monetization,Finance,GSTV-Domo-Admin
+761,"Programmatic - Vistar - Exchange Revenue - Daily Email Load - by Day, Site",,"Revenue - Programmatic - Vistar - Exchange Revenue - Daily Email Load - by Day, Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+755,Programmatic - Vistar - Fill Rate,,Programmatic Ops - Vistar - Programmatic - Fill Rate,Programmatic Operations,Programmatic,GSTV-Domo-Admin
+750,Programmatic - Vistar - Flexible Revenue - Daily by Site,,Revenue - Programmatic - Vistar - Flexible Revenue - Daily by Site,Revenue & Monetization,Finance,GSTV-Domo-Admin
+433,Programmatic - Vistar Direct Revenue - Daily by Site,,Revenue - Programmatic - Vistar Direct Revenue - Daily by Site,Revenue & Monetization,Finance,GSTV-Domo-Admin
+485,Programmatic - Vistar Flexible and Exchange Revenue - Base Data Set,Programmatic - Vistar Flexible and Exchange Revenue - Base Dataset,Revenue - Programmatic - Vistar Flexible and Exchange Revenue - Base Dataset,Revenue & Monetization,Finance,GSTV-Domo-Admin
+653,Programmatic - Vistar SSP Revenue - by Venue by Day,,Revenue - Programmatic - Vistar SSP Revenue - by Venue by Day,Revenue & Monetization,Finance,GSTV-Domo-Admin
+582,Programmatic Ad Leases and Expirations - Base Data Set,Programmatic Ad Leases and Expirations - Base Dataset,Programmatic - Ad Leases and Expirations - Base Dataset,Programmatic,Programmatic,GSTV-Domo-Admin
+361,Programmatic Ad Leases V2 - With BackToBackAnalysis,,Programmatic - Ad Leases V2 - With BackToBackAnalysis,Programmatic,Programmatic,GSTV-Domo-Admin
+174,Programmatic Ad Leases with Revenue,,Revenue - Programmatic Ad Leases with Revenue,Revenue & Monetization,Finance,GSTV-Domo-Admin
+260,Programmatic Competition 1w,,Programmatic - Competition 1w,Programmatic,Programmatic,
+863,Programmatic Diagnostics - Base Data Set,Programmatic Diagnostics - Base Dataset,Programmatic - Diagnostics - Base Dataset,Programmatic,Programmatic,GSTV-Domo-Admin
+337,Programmatic Leases by Sites by hour with Unique assets,,Programmatic - Leases by Sites by hour with Unique assets,Programmatic,Programmatic,GSTV-Domo-Admin
+143,Programmatic Market Plan,,Sites - Programmatic Market Plan,Sites & Locations,Data Engineering,Aaron Olson
+859,Programmatic Play Rate - Base Data Set,Programmatic Play Rate - Base Dataset,Programmatic - Play Rate - Base Dataset,Programmatic,Programmatic,GSTV-Domo-Admin
+585,Programmatic PoP Blockers - Site Enablement Tracking,,Programmatic - PoP Blockers - Site Enablement Tracking,Programmatic,Programmatic,GSTV-Domo-Admin
+517,Programmatic Revenue - Vistar Direct,,Revenue - Programmatic Revenue - Vistar Direct,Revenue & Monetization,Finance,GSTV-Domo-Admin
+896,Programmatic Revenue - YoY YTD Analysis,,Revenue - Programmatic Revenue - YoY YTD Analysis,Revenue & Monetization,Finance,Aaron Olson
+714,Programmatic Revenue and Diagnostics,,Revenue - Programmatic Revenue and Diagnostics,Revenue & Monetization,Finance,GSTV-Domo-Admin
+198,Programmatic Site Enable_Disable Analysis,Programmatic Site Enable Disable Analysis,Programmatic - Site Enable Disable Analysis,Programmatic,Programmatic,
+586,Programmatic Site Enablement - PoP Blockers,,Programmatic - Site Enablement - PoP Blockers,Programmatic,Programmatic,GSTV-Domo-Admin
+721,Project Krypton - Speedway Transaction Analysis,,Transactions - Project Krypton - Speedway Transaction Analysis,Transactions,Data & Analytics,Aaron Olson
+711,Project Krypton - SWGA Oil Fuel Transactions 2024,,Transactions - Project Krypton - SWGA Oil Fuel Transactions 2024,Transactions,Data & Analytics,Aaron Olson
+204,Provided Locations Matched to TDLinx Verified Addresses,,Sites - Provided Locations Matched to TDLinx Verified Addresses,Sites & Locations,Data Engineering,Aaron Olson
+847,QA Vegas 2.1 - RPA Managed Services - Determine RPAs to be Unscheduled,,RPA - QA Vegas 2.1 - RPA Managed Services - Determine RPAs to be Unscheduled,RPA,Ad Operations,GSTV-Domo-Admin
+547,REID - RPA Conversion for Salesforce Handoff,,RPA - REID - RPA Conversion for Salesforce Handoff,RPA,Ad Operations,GSTV-Domo-Admin
+694,Retail Success - CA Tribal Council - Weekly Schedule Upload,,Campaigns - Retail Success - CA Tribal Council - Weekly Schedule Upload,Campaigns & Delivery,Ad Operations,Al Minetola
+884,Retail Success - Daily Scheduled Creatives,,Campaigns - Retail Success - Daily Scheduled Creatives,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+528,Rev Share - PoP,Revenue Share - PoP,Revenue - Share - PoP,Revenue & Monetization,Finance,GSTV-Domo-Admin
+412,Revenue by DMA,,Revenue - by DMA,Revenue & Monetization,Finance,Abigail Kane
+445,Revenue by Site by Network,,Revenue - by Site by Network,Revenue & Monetization,Finance,Abigail Kane
+223,Revenue by State Analysis,,Revenue - by State Analysis,Revenue & Monetization,Finance,Aaron Olson
+197,Revenue Share - Discrepancies,,Revenue - Share - Discrepancies,Revenue & Monetization,Finance,Kayla Cekal
+148,Revenue Share - Network Partners,,Revenue - Share - Network Partners,Revenue & Monetization,Finance,Aaron Olson
+212,Revenue Share - Network Partners - Configurable,,Revenue - Share - Network Partners - Configurable,Revenue & Monetization,Finance,Kayla Cekal
+268,Revenue Share - Network Partners - Live,,Revenue - Share - Network Partners - Live,Revenue & Monetization,Finance,GSTV-Domo-Admin
+193,Revenue Share - Retailer Campaigns,,Revenue - Share - Retailer Campaigns,Revenue & Monetization,Finance,Aaron Olson
+478,Revenue Share - Retailer Campaigns - Historical,,Revenue - Share - Retailer Campaigns - Historical,Revenue & Monetization,Finance,Abigail Kane
+167,Revenue Share - Site/State,,Revenue - Share - Site/State,Revenue & Monetization,Finance,Aaron Olson
+228,Revenue Share - Site/State - Configurable,,Revenue - Share - Site/State - Configurable,Revenue & Monetization,Finance,Kayla Cekal
+640,Revenue Share - Unified,,Revenue - Share - Unified,Revenue & Monetization,Finance,Aaron Olson
+504,Revenue Share patch - Transactions,,Revenue - Share patch - Transactions,Revenue & Monetization,Finance,Abigail Kane
+672,Revenue Share Unified - Retailer Campaigns,,Revenue - Share Unified - Retailer Campaigns,Revenue & Monetization,Finance,Hailee Mcfarland
+276,RPA Conversion for Vistar,,RPA - Conversion for Vistar,RPA,Ad Operations,Aaron Olson
+724,RPA Conversion for Vistar - Aaron's Original,,RPA - Conversion for Vistar - Aaron's Original,RPA,Ad Operations,Al Minetola
+386,RPA Conversion for Vistar - V2.0 - 4 Slots,,RPA - Conversion for Vistar - V2.0 - 4 Slots,RPA,Ad Operations,Aaron Olson
+595,RPA Engagement - Site Plays,,RPA - Engagement - Site Plays,RPA,Ad Operations,GSTV-Domo-Admin
+16,RPA Plays,,RPA - Plays,RPA,Ad Operations,
+17,RPA Plays Analysis,,RPA - Plays Analysis,RPA,Ad Operations,
+437,RPA POP to Unified Filenames,,RPA - POP to Unified Filenames,RPA,Ad Operations,Adam Doughty
+608,RPA Scheduling - Base Data Set,RPA Scheduling - Base Dataset,RPA - Scheduling - Base Dataset,RPA,Ad Operations,GSTV-Domo-Admin
+624,RPA Scheduling - Check for Asset Name in Nuxeo - AW,,RPA - Scheduling - Check for Asset Name in Nuxeo - AW,RPA,Ad Operations,GSTV-Domo-Admin
+628,RPA Scheduling - Check for Asset Name in Nuxeo - BR,,RPA - Scheduling - Check for Asset Name in Nuxeo - BR,RPA,Ad Operations,GSTV-Domo-Admin
+627,RPA Scheduling - Check for Asset Name in Nuxeo - DC,,RPA - Scheduling - Check for Asset Name in Nuxeo - DC,RPA,Ad Operations,GSTV-Domo-Admin
+625,RPA Scheduling - Check for Asset Name in Nuxeo - LRamirez,,RPA - Scheduling - Check for Asset Name in Nuxeo - LRamirez,RPA,Ad Operations,GSTV-Domo-Admin
+626,RPA Scheduling - Check for Asset Name in Nuxeo - LRobertson,,RPA - Scheduling - Check for Asset Name in Nuxeo - LRobertson,RPA,Ad Operations,GSTV-Domo-Admin
+631,RPA Scheduling - Check for Asset Name in Nuxeo - MH,,RPA - Scheduling - Check for Asset Name in Nuxeo - MH,RPA,Ad Operations,GSTV-Domo-Admin
+630,RPA Scheduling - Check for Asset Name in Nuxeo - PH,,RPA - Scheduling - Check for Asset Name in Nuxeo - PH,RPA,Ad Operations,GSTV-Domo-Admin
+629,RPA Scheduling - Check for Asset Name in Nuxeo - PS,,RPA - Scheduling - Check for Asset Name in Nuxeo - PS,RPA,Ad Operations,GSTV-Domo-Admin
+887,RPA Scheduling - Daypart Blockers,,RPA - Scheduling - Daypart Blockers,RPA,Ad Operations,GSTV-Domo-Admin
+559,RPA Scheduling - Remove Duplicates,,RPA - Scheduling - Remove Duplicates,RPA,Ad Operations,GSTV-Domo-Admin
+601,RPA Scheduling Blockers - Check RPA Creative Names in Media Distribution Verified Assets,,RPA - Scheduling Blockers - Check RPA Creative Names in Media Distribution Verified Assets,RPA,Ad Operations,GSTV-Domo-Admin
+439,RPA Utilization - Active Prev Month - Date Filter,,RPA - Utilization - Active Prev Month - Date Filter,RPA,Ad Operations,Sriram Vepuri
+426,RPA Utilization - dataset,,RPA - Utilization - dataset,RPA,Ad Operations,Sriram Vepuri
+435,RPA Utilization - Exxon - for Next Month data flow,,RPA - Utilization - Exxon - for Next Month data flow,RPA,Ad Operations,Sriram Vepuri
+436,RPA Utilization - Interim version - for Next Month data flow,,RPA - Utilization - Interim version - for Next Month data flow,RPA,Ad Operations,Sriram Vepuri
+465,RPA Utilization - Previous Month Utilization - 2022,,RPA - Utilization - Previous Month Utilization - 2022,RPA,Ad Operations,GSTV-Domo-Admin
+470,RPA Utilization - VSC based Active RPA Util Prev Month data flow - for each month in 2023,,RPA - Utilization - VSC based Active RPA Util Prev Month data flow - for each month in 2023,RPA,Ad Operations,GSTV-Domo-Admin
+428,RPA Utilization data flow,,RPA - Utilization data flow,RPA,Ad Operations,Sriram Vepuri
+281,RPAs - Historic - Vistar Output,,Programmatic - Vistar - RPAs - Historic - Output,Programmatic,Programmatic,Aaron Olson
+866,Sales Planning - Campaign Extension Flagging,,Campaigns - Sales Planning - Campaign Extension Flagging,Campaigns & Delivery,Ad Operations,GSTV-Domo-Admin
+236,Salesforce and TIM IO Reconciliation - Filterable,,Salesforce - and TIM IO Reconciliation - Filterable,Salesforce / CRM,Sales,Kayla Cekal
+387,Sell Through Calculations - V1,,Programmatic Ops - Sell Through Calculations - V1,Programmatic Operations,Programmatic,Aaron Olson
+617,Site Inventory Availability,,Programmatic - Site Inventory Availability,Programmatic,Programmatic,GSTV-Domo-Admin
+456,Site Metric Study - Site Status,,Sites - Site Metric Study - Site Status,Sites & Locations,Data Engineering,Abigail Kane
+258,Site Metrics - Characteristics - Completeness - Monthly,,Analytics - Site Metrics - Characteristics - Completeness - Monthly,Site Analytics,Data & Analytics,Aaron Olson
+141,Site Metrics - Characteristics - Completeness - Weekly,,Analytics - Site Metrics - Characteristics - Completeness - Weekly,Site Analytics,Data & Analytics,Aaron Olson
+257,Site Metrics - Characteristics - KPI - Monthly,,Analytics - Site Metrics - Characteristics - KPI - Monthly,Site Analytics,Data & Analytics,Aaron Olson
+160,Site Metrics - Characteristics - KPI - Weekly,,Analytics - Site Metrics - Characteristics - KPI - Weekly,Site Analytics,Data & Analytics,Aaron Olson
+159,Site Metrics - Characteristics Historic ETL,,Analytics - Site Metrics - Characteristics Historic ETL,Site Analytics,Data & Analytics,Aaron Olson
+183,Site Metrics - Network - Change - Monthly,,Analytics - Site Metrics - Network - Change - Monthly,Site Analytics,Data & Analytics,Aaron Olson
+139,Site Metrics - Network - Change - Weekly,,Analytics - Site Metrics - Network - Change - Weekly,Site Analytics,Data & Analytics,Aaron Olson
+372,Site Metrics - Network - Change - Weekly - Patch,,Analytics - Site Metrics - Network - Change - Weekly - Patch,Site Analytics,Data & Analytics,Aaron Olson
+178,Site Metrics - Network - Monthly - Snapshot,,Analytics - Site Metrics - Network - Monthly - Snapshot,Site Analytics,Data & Analytics,Aaron Olson
+161,Site Metrics - Network - Snapshot,,Analytics - Site Metrics - Network - Snapshot,Site Analytics,Data & Analytics,Aaron Olson
+492,Site Metrics - Network - Snapshot - Patch,,Analytics - Site Metrics - Network - Snapshot - Patch,Site Analytics,Data & Analytics,Aaron Olson
+158,Site Metrics - Network Growth Historic ETL,,Analytics - Site Metrics - Network Growth Historic ETL,Site Analytics,Data & Analytics,Aaron Olson
+575,"Site Revenue By County, ZIP, and DMA With NVIs And Impressions",,"Revenue - Site Revenue By County, ZIP, and DMA With NVIs And Impressions",Revenue & Monetization,Finance,Aaron Olson
+836,"Site Scores - Site Revenue, Impressions, and Diagnostics",,"Revenue - Site Scores - Site Revenue, Impressions, and Diagnostics",Revenue & Monetization,Finance,GSTV-Domo-Admin
+858,Site Scoring - DMA CVI Variance,,Impressions - Site Scoring - DMA CVI Variance,Impressions,Data & Analytics,GSTV-Domo-Admin
+82,Site Status by Day,,Sites - Site Status by Day,Sites & Locations,Data Engineering,Aaron Olson
+581,Site Status Ending with State Detail,,Sites - Site Status Ending with State Detail,Sites & Locations,Data Engineering,Abigail Kane
+120,Site Status History - Base Data Set,Site Status History - Base Dataset,Sites - Site Status History - Base Dataset,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+315,Site Status History by Day - Patch,,Sites - Site Status History by Day - Patch,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+371,Site Status History Per Day - Configurable - Patch,,Sites - Site Status History Per Day - Configurable - Patch,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+131,Site Status History per Day - Current Day,,Sites - Site Status History per Day - Current Day,Sites & Locations,Data Engineering,Aaron Olson
+45,Site Status History per Day - Historic,,Sites - Site Status History per Day - Historic,Sites & Locations,Data Engineering,
+654,Site Status History per Day - Replace MySQL Dataflow,,Sites - Site Status History per Day - Replace MySQL Dataflow,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+578,Sites - Calculate Missing Data For FatTail To Write To Salesforce,,Salesforce - Sites - Calculate Missing Data For FatTail To Write To Salesforce,Salesforce / CRM,Sales,Aaron Olson
+202,Sites - Days With Proof of Play - Configurable,,POP - Sites - Days With Configurable,Proof of Play,Network Operations,Aaron Olson
+151,Sites - Days With Proof of Play - Previous Month,,POP - Sites - Days With Previous Month,Proof of Play,Network Operations,Aaron Olson
+667,Sites - Programmatic,,Programmatic - Sites - Programmatic,Programmatic,Programmatic,GSTV-Domo-Admin
+912,Sites - Salesforce Writeback - Create Input Dataset,,Salesforce - Sites - Salesforce Writeback - Create Input Dataset,Salesforce / CRM,Sales,Abigail Kane
+873,Sites Programmatic CPMs by Week,,Programmatic - Sites Programmatic CPMs by Week,Programmatic,Programmatic,Michael Girard
+211,Sites Reporting Proof of Play - By Day - Configurable,,POP - Sites Reporting By Day - Configurable,Proof of Play,Network Operations,Kayla Cekal
+221,Sites Reporting Proof of Play - By Day - Previous Month,,POP - Sites Reporting By Day - Previous Month,Proof of Play,Network Operations,Aaron Olson
+287,Sites Reporting Proof of Play - By Day-Current Month,,POP - Sites Reporting By Day-Current Month,Proof of Play,Network Operations,Kayla Cekal
+336,Slack Dataflow,,Engineering - Slack Dataflow,Engineering,Engineering,Garrett Kohler
+342,Snowflake Writeback - Monitoring - Alerts,,Governance - Snowflake Writeback - Monitoring - Alerts,Monitoring & Governance,Data Engineering,Garrett Kohler
+180,Speedway - Email Transactions - Live - Hourly,,Transactions - Speedway - Email Transactions - Live - Hourly,Transactions,Data & Analytics,Aaron Olson
+130,"Speedway - Missing Transactions - April 2020, May 2020, September 2020",,"Transactions - Speedway - Missing Transactions - April 2020, May 2020, September 2020",Transactions,Data & Analytics,Aaron Olson
+359,Speedway - R1T - Live Transactions - Backfill,,Transactions - Speedway - R1T - Live Transactions - Backfill,Transactions,Data & Analytics,GSTV-Domo-Admin
+546,Speedway - S3 Transactions - Live - Hourly,,Transactions - Speedway - S3 Transactions - Live - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+81,Speedway - Transactions - Live - Hourly - Weekly Input,,Transactions - Speedway - Transactions - Live - Hourly - Weekly Input,Transactions,Data & Analytics,Aaron Olson
+544,Speedway Analysis - Revenue and Impressions by Network,,Revenue - Speedway Analysis - Revenue and Impressions by Network,Revenue & Monetization,Finance,GSTV-Domo-Admin
+35,Speedway Historical Site Hourly Data to Week totals,,Managed Services - Speedway - Historical Site Hourly Data to Week totals,Managed Services,Ad Operations,
+53,Speedway Hourly Transactions | REC,,Transactions - Speedway Hourly Transactions | REC,Transactions,Data & Analytics,
+832,Speedway Plays By Day,,Managed Services - Speedway - Plays By Day,Managed Services,Ad Operations,Bill Binkiewicz
+826,Speedway Pop + Site Status History,,POP - Speedway + Site Status History,Proof of Play,Network Operations,Bill Binkiewicz
+201,Speedway Rent Payment - Configurable,,Revenue - Speedway Rent Payment - Configurable,Revenue & Monetization,Finance,Abigail Kane
+145,Speedway Rent Payment - Daily,,Revenue - Speedway Rent Payment - Daily,Revenue & Monetization,Finance,Aaron Olson
+495,Speedway Rent Payment - Hourly,,Revenue - Speedway Rent Payment - Hourly,Revenue & Monetization,Finance,Abigail Kane
+34,Speedway Site Hourly Data to Week totals,,Managed Services - Speedway - Site Hourly Data to Week totals,Managed Services,Ad Operations,
+37,Speedway Site/Week Aggregated Data,,Managed Services - Speedway - Site/Week Aggregated Data,Managed Services,Ad Operations,
+548,Speedway-Sources-QA-check,,Managed Services - Speedway - Sources-QA-check,Managed Services,Ad Operations,GSTV-Domo-Admin
+772,SSP Daily Joined ,,Programmatic - SSP Daily Joined,Programmatic,Programmatic,Antonio Bowens
+713,"SSP Revenue - All SSPs - by Date, Site",,"Revenue - SSP Revenue - All SSPs - by Date, Site",Revenue & Monetization,Finance,GSTV-Domo-Admin
+532,SSP Revenue - Broadsign,,Revenue - SSP Revenue - Broadsign,Revenue & Monetization,Finance,GSTV-Domo-Admin
+591,SSP Revenue - Load Prior Day into Base Data Set,SSP Revenue - Load Prior Day into Base Dataset,Revenue - SSP Revenue - Load Prior Day into Base Dataset,Revenue & Monetization,Finance,GSTV-Domo-Admin
+486,"SSP Revenue - PX - Grouped by Date, Advertiser, Buy Type, DSP",,"Revenue - SSP Revenue - PX - Grouped by Date, Advertiser, Buy Type, DSP",Revenue & Monetization,Finance,GSTV-Domo-Admin
+670,Standard ICS Clawback ,,Revenue - Standard ICS Clawback,Revenue & Monetization,Finance,Kayla Cekal
+323,State Farm - Campaign Start Reporting,,Campaigns - State Farm - Campaign Start Reporting,Campaigns & Delivery,Ad Operations,Aaron Olson
+317,State Farm - Contract Log Processing,,Campaigns - State Farm - Contract Log Processing,Campaigns & Delivery,Ad Operations,Aaron Olson
+379,State Farm - Delivery - Patch - Formatted Input,,Campaigns - State Farm - Delivery - Patch - Formatted Input,Campaigns & Delivery,Ad Operations,Aaron Olson
+322,State Farm - Expected Schedule By Day,,Campaigns - State Farm - Expected Schedule By Day,Campaigns & Delivery,Ad Operations,Aaron Olson
+318,State Farm - Plays - Live - Daily,,Campaigns - State Farm - Plays - Live - Daily,Campaigns & Delivery,Ad Operations,Aaron Olson
+356,State Farm - Reporting - Monthly Plays,,Campaigns - State Farm - Reporting - Monthly Plays,Campaigns & Delivery,Ad Operations,Aaron Olson
+184,State Farm Agent POP Totals,,Campaigns - State Farm Agent POP Totals,Campaigns & Delivery,Ad Operations,Adam Doughty
+67,State Farm Playback Issues,,Campaigns - State Farm Playback Issues,Campaigns & Delivery,Ad Operations,
+282,Summarize Transactions by Date and Network,,Transactions - Summarize Transactions by Date and Network,Transactions,Data & Analytics,Garrett Kohler
+125,TDLinx - Updates for Gbase,,Sites - TDLinx - Updates for Gbase,Sites & Locations,Data Engineering,Aaron Olson
+218,TDLinx - Updates for Gbase (Updating WIP),,Sites - TDLinx - Updates for Gbase (Updating WIP),Sites & Locations,Data Engineering,Abigail Kane
+226,TDLinx Data Integrity,,Sites - TDLinx Data Integrity,Sites & Locations,Data Engineering,Kayla Cekal
+227,TDLinx Data Integrity Sites Not Matched,,Sites - TDLinx Data Integrity Sites Not Matched,Sites & Locations,Data Engineering,Kayla Cekal
+853,temp_hackathon,temp hackathon,Analytics - temp hackathon,Site Analytics,Data & Analytics,GSTV-Domo-Admin
+217,Temporary - Site Metrics - Network - Monthly Change - Restating Historic Data,,Analytics - Temporary - Site Metrics - Network - Monthly Change - Restating Historic Data,Site Analytics,Data & Analytics,Aaron Olson
+187,Temporary - Site Metrics - Network - Weekly Change - Fixing Historic Data,,Analytics - Temporary - Site Metrics - Network - Weekly Change - Fixing Historic Data,Site Analytics,Data & Analytics,Aaron Olson
+377,TEST_GSTV_Campaign_Data,TEST GSTV Campaign Data,Campaigns - TEST GSTV Campaign Data,Campaigns & Delivery,Ad Operations,Garrett Kohler
+700,TEST_KRYPTON - Gilbarco - Transactions - Live - Hourly,TEST KRYPTON - Gilbarco - Transactions - Live - Hourly,Transactions - TEST KRYPTON - Gilbarco - Transactions - Live - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+696,TEST_KRYPTON Wayne - Transactions - Live - Hourly,TEST KRYPTON Wayne - Transactions - Live - Hourly,Transactions - TEST KRYPTON Wayne - Transactions - Live - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+10,Traffic Instruction Plays,,Traffic Instructions - Plays,Traffic Instructions,Ad Operations,
+12,Traffic Instruction Plays - Collapsed,,Traffic Instructions - Plays - Collapsed,Traffic Instructions,Ad Operations,
+7,Traffic Instruction Testing - Aaron,,Traffic Instructions - Testing - Aaron,Traffic Instructions,Ad Operations,Aaron Olson
+367,Traffic Instructions Monitoring - Asset Count by Site-Day - DF367,,Traffic Instructions - Monitoring - Asset Count by Site-Day - DF367,Traffic Instructions,Ad Operations,
+686,Transaction Data Assembler Audit - 2024/2025 Speedway and Dover,,Transactions - Data Assembler Audit - 2024/2025 Speedway and Dover,Transactions,Data & Analytics,GSTV-Domo-Admin
+515,Transaction Monitoring - Base Data Set,Transaction Monitoring - Base Dataset,Transactions - Monitoring - Base Dataset,Transactions,Data & Analytics,GSTV-Domo-Admin
+510,Transaction Monitoring - Segment Networks,,Transactions - Monitoring - Segment Networks,Transactions,Data & Analytics,GSTV-Domo-Admin
+593,Transaction Monitoring Dashboard,,Transactions - Monitoring Dashboard,Transactions,Data & Analytics,GSTV-Domo-Admin
+56,Transactions & Proof of Play,,POP - Transactions &,Proof of Play,Network Operations,
+634,Transactions - Gilbarco ICS - Live - Hourly,,POP - Transactions - Gilbarco ICS - Live - Hourly,Proof of Play,Network Operations,GSTV-Domo-Admin
+13,Transactions and Plays,,Transactions - and Plays,Transactions,Data & Analytics,
+374,Transactions and Site Revenue - 2021,,Transactions - and Site Revenue - 2021,Transactions,Data & Analytics,Aaron Olson
+38,Transactions-Historical,,Transactions - Historical,Transactions,Data & Analytics,
+46,Transactions-Rolling,,Transactions - Rolling,Transactions,Data & Analytics,
+279,Transform Load Monitoring from Snowflake,,Governance - Transform Load Monitoring from Snowflake,Monitoring & Governance,Data Engineering,Garrett Kohler
+344,Troubleshoot - IO List From Vistar BI - Prior Month,,Programmatic - Vistar - Troubleshoot - IO List From BI - Prior Month,Programmatic,Programmatic,Garrett Kohler
+72,TXNS_Gilbarco_LastWeek_INT,TXNS Gilbarco LastWeek INT,Managed Services - TXNS Gilbarco LastWeek INT,Managed Services,Ad Operations,
+70,TXNS_Speedway_LastWeek_INT,TXNS Speedway LastWeek INT,Managed Services - Speedway - TXNS LastWeek INT,Managed Services,Ad Operations,
+73,Unified Glilbarco transaction Data Jan 2019 through End of June 2020,,Transactions - Unified Glilbarco transaction Data Jan 2019 through End of June 2020,Transactions,Data & Analytics,
+290,Unique transaction site count - last 20 days,,Transactions - Unique transaction site count - last 20 days,Transactions,Data & Analytics,
+756,United Pacific - Initial Start Up - Transactions By Site By Day,,Transactions - United Pacific - Initial Start Up - Transactions By Site By Day,Transactions,Data & Analytics,Aaron Olson
+868,Unvalidated Transactions - Base Data Set,Unvalidated Transactions - Base Dataset,Transactions - Unvalidated Transactions - Base Dataset,Transactions,Data & Analytics,GSTV-Domo-Admin
+792,Unvalidated Transactions - Gilbarco Control Center - Decline Analysis,,Transactions - Unvalidated Transactions - Gilbarco Control Center - Decline Analysis,Transactions,Data & Analytics,Aaron Olson
+796,Unvalidated Transactions - Hourly,,Transactions - Unvalidated Transactions - Hourly,Transactions,Data & Analytics,GSTV-Domo-Admin
+397,Unvalidated Transactions - Hourly - Mega Patch,,Transactions - Unvalidated Transactions - Hourly - Mega Patch,Transactions,Data & Analytics,Aaron Olson
+264,Unvalidated Transactions - Monthly DMA Averages,,Transactions - Unvalidated Transactions - Monthly DMA Averages,Transactions,Data & Analytics,Aaron Olson
+175,USAA Revenue Tracking,,Revenue - USAA Revenue Tracking,Revenue & Monetization,Finance,
+69,Verizon Media Site List,,Sites - Verizon Media Site List,Sites & Locations,Data Engineering,Garrett Kohler
+74,Viant Adelphic Site List,,Sites - Viant Adelphic Site List,Sites & Locations,Data Engineering,
+822,Vistar - All Revenue - Full Granularity - Live,,Revenue - Vistar - All Revenue - Full Granularity - Live,Revenue & Monetization,Finance,GSTV-Domo-Admin
+383,Vistar - Content Sponsorship - For Revenue Share Input,,Revenue - Vistar - Content Sponsorship - For Revenue Share Input,Revenue & Monetization,Finance,Aaron Olson
+229,Vistar - Exchange/Direct - 2019/2020 - Configurable,,Programmatic - Vistar - Exchange/Direct - 2019/2020 - Configurable,Programmatic,Programmatic,Abigail Kane
+819,Vistar - Flexible Revenue - Full Granularity - Live,,Revenue - Vistar - Flexible Revenue - Full Granularity - Live,Revenue & Monetization,Finance,GSTV-Domo-Admin
+649,Vistar - Hourly Impressions By Week,,Impressions - Vistar - Hourly Impressions By Week,Impressions,Data & Analytics,Aaron Olson
+577,Vistar - Hourly Impressions By Week - DXPromote Migration Sites,,Sites - Vistar - Hourly Impressions By Week - DXPromote Migration Sites,Sites & Locations,Network Operations,Aaron Olson
+365,Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network,,Impressions - Vistar - Hourly Impressions By Week / Weekly Operating Hours / Spot Rate - Full Network,Impressions,Data & Analytics,Aaron Olson
+651,Vistar - Requests vs Leases - Gilbarco Analysis,,Programmatic - Vistar - Requests vs Leases - Gilbarco Analysis,Programmatic,Programmatic,Aaron Olson
+61,Vistar - Site Lists - GSTV and GSTV2 Network,,Sites - Vistar - Site Lists - GSTV and GSTV2 Network,Sites & Locations,Data Engineering,GSTV-Domo-Admin
+648,Vistar - Spot Rate,,Programmatic - Vistar - Spot Rate,Programmatic,Programmatic,Aaron Olson
+818,Vistar - SSP Revenue - Full Granularity,,Revenue - Vistar - SSP Revenue - Full Granularity,Revenue & Monetization,Finance,GSTV-Domo-Admin
+820,Vistar - SSP Revenue - Full Granularity - Load,,Revenue - Vistar - SSP Revenue - Full Granularity - Load,Revenue & Monetization,Finance,GSTV-Domo-Admin
+62,Vistar - Venue Management - GSTV Network,,Programmatic - Vistar - Venue Management - GSTV Network,Programmatic,Programmatic,GSTV-Domo-Admin
+152,Vistar - Venue Management - GSTV2 Network,,Programmatic - Vistar - Venue Management - GSTV2 Network,Programmatic,Programmatic,Aaron Olson
+645,Vistar - Weekly Operating Hours,,Programmatic - Vistar - Weekly Operating Hours,Programmatic,Programmatic,Aaron Olson
+250,Vistar Campaign Migration,,Programmatic - Vistar - Campaign Migration,Programmatic,Programmatic,
+208,Vistar Demand Pressure Targeting,,Programmatic - Vistar - Demand Pressure Targeting,Programmatic,Programmatic,
+876,Vistar Diagnostic Daily - Base Data Set,Vistar Diagnostic Daily - Base Dataset,Programmatic Ops - Vistar - Diagnostic Daily - Base Dataset,Programmatic Operations,Programmatic,GSTV-Domo-Admin
+596,Vistar Direct Revenue - Site by Day,,Revenue - Vistar Direct Revenue - Site by Day,Revenue & Monetization,Finance,GSTV-Domo-Admin
+420,Vistar Excahnge - August for Rev Share,Vistar Excahnge - August for Revenue Share,Revenue - Vistar Excahnge - August for Revenue Share,Revenue & Monetization,Finance,Abigail Kane
+644,Vistar Historic Venue By Month By Site With Site Revenue,,Revenue - Vistar Historic Venue By Month By Site With Site Revenue,Revenue & Monetization,Finance,Aaron Olson
+430,Vistar Programmatic Revenue,,Revenue - Vistar Programmatic Revenue,Revenue & Monetization,Finance,GSTV-Domo-Admin
+306,Vistar Recovery Analysis,,Programmatic - Vistar - Recovery Analysis,Programmatic,Programmatic,Adam Doughty
+157,Vistar Restrictions - Add and Remove - GSTV Network,,Programmatic - Vistar - Restrictions - Add and Remove - GSTV Network,Programmatic,Programmatic,Aaron Olson
+163,Vistar Restrictions - Add and Remove - GSTV2 Network,,Programmatic - Vistar - Restrictions - Add and Remove - GSTV2 Network,Programmatic,Programmatic,Aaron Olson
+652,Vistar Spot Rate Calculation,,Programmatic - Vistar - Spot Rate Calculation,Programmatic,Programmatic,GSTV-Domo-Admin
+502,Vistar SSP Patch - By Day (Not at Site Granularity),,Programmatic - Vistar - SSP Patch - By Day (Not at Site Granularity),Programmatic,Programmatic,GSTV-Domo-Admin
+816,Vistar- Flexible Revenue - Full Granularity - Load,,Revenue - Vistar- Flexible Revenue - Full Granularity - Load,Revenue & Monetization,Finance,GSTV-Domo-Admin
+267,VistarMigrationCampaigns_IsCurrent,VistarMigrationCampaigns IsCurrent,Campaigns - VistarMigrationCampaigns IsCurrent,Campaigns & Delivery,Ad Operations,Garrett Kohler
+54,Wayne - Transactions - Live - Hourly,,Transactions - Wayne - Transactions - Live - Hourly,Transactions,Data & Analytics,Aaron Olson
+530,Weighted Hourly Transaction Patch,,Transactions - Weighted Hourly Transaction Patch,Transactions,Data & Analytics,GSTV-Domo-Admin

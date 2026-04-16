@@ -1,0 +1,363 @@
+dataset_id,current_name,proposed_name,change_type,owner_name
+60522f4f-b1ca-4d44-a91f-2720e86cf0fd, TEMP - Vistar Diagnostic Insights - Q3 2024,DEV - Vistar Diagnostic Insights - Q3 2024,"strip_whitespace, env_prefix",Aaron Olson
+b8f2c9b8-70bb-4f49-be10-a393def219a9,2024 YTD PX Revenue.csv,2024 YTD PX Revenue,remove_extension,GSTV-Domo-Admin
+b11ec13f-007d-4946-bb05-e2cb13f4905e,2024-01 - DXPromote Proof Of Play Delay Analysis - Part 1,2024-01 - DXPromote Proof of Play Delay Analysis - Part 1,casing_fix,Aaron Olson
+d6643823-f919-49eb-b677-a88d9fdcf8e6,2025_stats_2025-12-29-1848.xlsx,2025 stats 2025-12-29-1848,"remove_extension, underscore_to_space",Bill Binkiewicz
+3e4cad28-7096-4b05-907c-57a9f1612049,2026 YTD Exchange Revenue - PX.csv,2026 YTD Exchange Revenue - PX,remove_extension,GSTV-Domo-Admin
+3739eb68-8bd4-417f-bc56-f5ba0b225f1a,2026 YTD Revenue - Place Exchange.csv,2026 YTD Revenue - Place Exchange,remove_extension,GSTV-Domo-Admin
+e94edea6-90e0-48b0-96f3-8ae67545ddf4,[AM Test Copy] RPA Conversion for Vistar - V2.0 - 4 Slots,TEST - RPA Conversion for Vistar - V2.0 - 4 Slots,env_prefix,GSTV-Domo-Admin
+f2918828-827e-4daf-8775-297dca100443,[DELETE] Select Distinct Advertisers Before Grouping,DEPRECATED - Select Distinct Advertisers Before Grouping,env_prefix,GSTV-Domo-Admin
+cf66f897-1553-48cf-90e6-1140e1851b73,[DEV] - Ad Ops - Programmatic Campaign Tracking,DEV - Ad Ops - Programmatic Campaign Tracking,env_prefix,Antonio Bowens
+95e0bc4e-0877-4171-9a84-3a59c4a19e92,[DEV] Ad Ops - Programmatic Opportunity Tracking,DEV - Ad Ops - Programmatic Opportunity Tracking,env_prefix,GSTV-Domo-Admin
+bf852834-f469-4637-8496-da7be548b107,[DNU] Daily Programmatic Exchange Revenue V2,DEPRECATED - Daily Programmatic Exchange Revenue V2,env_prefix,GSTV-Domo-Admin
+92a852b6-7426-46b4-8c1a-d24b2dcc3854,[Flag for Deletion] CA Tribal Council Pre-Processed RPA Schedule,DEPRECATED - CA Tribal Council Pre-Processed RPA Schedule,env_prefix,Al Minetola
+0ca6a87a-1197-4047-81d5-99ad855ced7e,[Production] Export - California Tribal Council - RPA Conversion,PROD - Export - California Tribal Council - RPA Conversion,env_prefix,Al Minetola
+f0bfe68e-fa5f-4c99-968d-bba298c1de39,[Production] RPA Conversion 3.1 - Wayne Daypart Splits,PROD - RPA Conversion 3.1 - Wayne Daypart Splits,env_prefix,Al Minetola
+3e0fd17c-1f9d-496a-8615-77d6a404e35e,[TEMP] - RPA - Speedway Managed Service - IO Site Lists,DEV - RPA - Speedway Managed Service - IO Site Lists,env_prefix,GSTV-Domo-Admin
+4094861a-cfb2-4a05-8bf2-4dd5354bc6a0,[TEMP] [TEST - VEGAS] IO Site List - Test Data,TEST - Vegas - IO Site List - Test Data,env_prefix,GSTV-Domo-Admin
+efcac41a-2f70-4e67-8365-aeb24c7123d1,[TEMP] Vegas - RPAs,DEV - Vegas - RPAs,env_prefix,GSTV-Domo-Admin
+6c790e34-8d58-46bd-beec-0e31f256aa33,[TEST - VEGAS] Managed Service Test IOs,TEST - Vegas - Managed Service Test IOs,env_prefix,GSTV-Domo-Admin
+f2ab47ef-c8ea-4fbd-a35a-303636378f41,[Test Casey's] IO Site List,TEST - Casey's - IO Site List,env_prefix,GSTV-Domo-Admin
+a8ebfcca-8cfd-42fe-aa9d-870acc3dba75,[TEST] [VEGAS] RPA Header DF,TEST - Vegas - RPA Header DF,env_prefix,GSTV-Domo-Admin
+75277a45-3282-4141-9604-3576b65b7535,[Test] Fix Vistar Venue Avails for Sell Through V2 ,TEST - Fix Vistar Venue Avails for Sell Through V2,"strip_whitespace, env_prefix",GSTV-Domo-Admin
+7f2b70a6-6d13-4fa1-ad58-a0fabcf273b6,[TEST] Pluto - All Revenue and Diagnostics - Py,TEST - Pluto - All Revenue and Diagnostics - Py,env_prefix,GSTV-Domo-Admin
+4d00a20b-ac5b-4250-a42a-7dd55d04681b,[Test] RPS Scheduling - Salesforce - 2 Line Items,TEST - RPS Scheduling - Salesforce - 2 Line Items,env_prefix,GSTV-Domo-Admin
+de21684d-b630-4a54-8997-6e507a59645c,[TEST] Vegas - Retailer Schedules - Base Data Set,TEST - Vegas - Retailer Schedules - Base Dataset,"env_prefix, casing_fix",GSTV-Domo-Admin
+b40e54a9-c52c-41d3-955b-dc80614f6bc0,[Testing] RPA Conversion 3.1 - Temporarily Deactivated Sites being Scheduled,TEST - RPA Conversion 3.1 - Temporarily Deactivated Sites being Scheduled,env_prefix,Al Minetola
+8b81df29-f223-4574-ae7f-17c4be203afc,[Testing] RPA Conversion 3.1 - Wayne Daypart Splits - Duplicates,TEST - RPA Conversion 3.1 - Wayne Daypart Splits - Duplicates,env_prefix,Al Minetola
+a06d46df-1302-4395-936a-57a0164fcb23,[Troubleshooting] State Farm Plays - Crawford 2FVX9BFNFAK,DEV - State Farm Plays - Crawford 2FVX9BFNFAK,env_prefix,Aaron Olson
+63b42328-2273-427f-8499-b5c901cb872d,[V-RAP-AND-DE] Development - Traffic Instructions,DEV - Development - Traffic Instructions,env_prefix,GSTV-Domo-Admin
+63fdcd69-a9ca-456b-abfe-439593920bf1,[V-RAP-AND-DE] Production - Campaign Validated Impressions - December 2023,DEV - Production - Campaign Validated Impressions - December 2023,env_prefix,GSTV-Domo-Admin
+5552cf0d-996a-4f3d-a53f-2b344cf517b2,Ad Ops - Circle K Intro 090723,Ad Ops - Circle K Intro 2023-09-07,date_format,Al Minetola
+e7dd28d7-3a9c-41a0-af24-473895f39cf5,Ad Ops - Sites Base Data Set,Ad Ops - Sites Base Dataset,casing_fix,Adam Doughty
+b76d5bf6-d830-4238-a4a2-40c16a66ca4a,adhoc.csv,adhoc,remove_extension,GSTV-Domo-Admin
+87c4aa16-a411-4609-b0f4-93b7980a247b,CA Tribal Council Scheduling Template.xlsx,CA Tribal Council Scheduling Template,remove_extension,GSTV-Domo-Admin
+d2c04215-9bbd-451d-b6ec-7786d54ef2a4,Campaign Validated Impressions - Base Data Set,Campaign Validated Impressions - Base Dataset,casing_fix,GSTV-Domo-Admin
+76966cce-e7a2-4313-9c5b-5acc7f77349a,Campaign Validated Impressions - Base Data Set - Filterable on Date Range,Campaign Validated Impressions - Base Dataset - Filterable on Date Range,casing_fix,Aaron Olson
+56137a0b-e434-461d-9f84-472fb973f2ef,Caseys Deployment for DOMO 091125.xlsx,Caseys Deployment for DOMO 2025-09-11,"remove_extension, date_format",Adam Doughty
+4c1f0039-9a37-4672-b180-72f60ad88b6a,Caseys Test - Mock IO Form Upload.xlsx,Caseys Test - Mock IO Form Upload,remove_extension,GSTV-Domo-Admin
+bc88c8bd-09dc-43e4-9b84-03829e9e5d2f,CircleK GTVIDs Expiring through 2023.xlsx,CircleK GTVIDs Expiring through 2023,remove_extension,Adam Doughty
+4c98fba7-db83-4b5e-b0e9-25cf99fe2a05,Clawback: ICS GVR Daily Site POP Stats,Clawback: ICS Gilbarco Daily Site POP Stats,network_name,Hailee Mcfarland
+60424ad7-3ef2-45a4-978a-d452de7e3aed,Creative_Site_Plays,Creative Site Plays,underscore_to_space,Minu Sara Thomas
+ff4ad654-45d4-4b33-90aa-6033f54237c8,Creatives_11072025.csv,Creatives_11072025,remove_extension,Minu Sara Thomas
+e48755a4-b47f-418c-8ff7-59ba1882bb9a,CreditMapping_Quickstart,CreditMapping Quickstart,underscore_to_space,GSTV-Domo-Admin
+f547a03b-72b0-408c-a741-798887d5a13a,"Daily and Hourly Plays, Transactions, CVIs by Site, by IO_Number - Last 60 Days","Daily and Hourly Plays, Transactions, CVIs by Site, by IO Number - Last 60 Days",underscore_to_space,GSTV-Domo-Admin
+6b0f2d22-6b90-459a-bbad-6ad5697c9aae,DanJ's View of IOTV Full Status Report,View - IOTV Full Status Report (DanJ's),view_prefix,Scott Anger
+425b1557-2dfd-4f59-9129-501a1e6f6471,dataset_watchdog_demo.xlsx,dataset watchdog demo,"remove_extension, underscore_to_space",GSTV-Domo-Admin
+c923de49-0b2e-4c78-af62-98e7b2228ccc,DEV_AssembleTransactions_Gilbarco,DEV - AssembleTransactions Gilbarco,"env_prefix, underscore_to_space",GSTV-Domo-Admin
+691d14dd-fe12-4705-aeee-1cf928beef69,DEV_AssembleTransactions_Speedway,DEV - AssembleTransactions Speedway,"env_prefix, underscore_to_space",GSTV-Domo-Admin
+adfadcfe-f654-41ae-9d99-7bc0ce2516d8,DMA Codes.xlsx,DMA Codes,remove_extension,Abigail Kane
+fd4e25da-ef68-4674-8ebb-29b083148fb3,Domo Daily Revenue from Broadsign-08_15_2024 19_12_47 +00_00 csv,Domo Daily Revenue from Broadsign-2024-08-15 19 12 47 +00 00 csv,"date_format, underscore_to_space",GSTV-Domo-Admin
+5cb390e9-8495-4fd9-884a-a2a11c8e73f5,DSP Revenue - DXPromote (Dover)_CB,DSP Revenue - DXPromote (Dover) CB,underscore_to_space,Cody Baker
+dca3b768-a355-4688-9898-a6a433a7c1ee,DXP Conversion Master List 053025.xlsx,DXP Conversion Master List 2025-05-30,"remove_extension, date_format",Adam Doughty
+32b05dff-e075-4ebe-9778-b3a3685950f3,DXPromote Proof Of Play Delay Analysis,DXPromote Proof of Play Delay Analysis,casing_fix,Aaron Olson
+8c0ad9f4-ec9d-433d-afc0-7db0e6ec3b02,EC2 Monitoring -  GIlbarco - Daily Ad Requests,EC2 Monitoring - GIlbarco - Daily Ad Requests,collapse_spaces,GSTV-Domo-Admin
+8ede547e-a314-4e90-9488-94075468552e,Editable DataSet for View of New Editable Table,Editable View - New Editable Table,editable_view,GSTV-Domo-Admin
+e5ea8321-d6e9-4587-b80c-8cc0d3e2ad4e,Enterprise Serials + MAC 050225.xlsx,Enterprise Serials + MAC 2025-05-02,"remove_extension, date_format",Adam Doughty
+4c60c1c1-ebc2-4c04-b428-8959f4059a1e,FP6-Device-Detail (app versions).csv,FP6-Device-Detail (app versions),remove_extension,Bill Binkiewicz
+959b192d-1f85-439a-add9-927e14a6d0ef,FP6_Device_Detail (with Prompt).csv,FP6_Device_Detail (with Prompt),remove_extension,Bill Binkiewicz
+c20220a4-7e85-4aba-9e16-3f0a35caf7f0,General Market Plan Site Exclusion List 2024-2026.xlsx,General Market Plan Site Exclusion List 2024-2026,remove_extension,Scott Anger
+a8d59c4e-d547-488a-af7e-278714283973,Gilbarco - Txn Patch - 092725,Gilbarco - Txn Patch - 2025-09-27,date_format,GSTV-Domo-Admin
+cb428884-39c6-43e7-8a34-9f773871f96a,Gilbarco Txns 20231004.csv,Gilbarco Txns 20231004,remove_extension,GSTV-Domo-Admin
+b6ab8765-3762-4350-ac9b-e7f50a4ac88d,Gilbarco Txns 20231005.csv,Gilbarco Txns 20231005,remove_extension,GSTV-Domo-Admin
+9363f459-2ec3-47f0-b45c-1bbdad3aa3d6,Gilbarco-Txs-12-22.csv,Gilbarco-Txs-12-22,remove_extension,GSTV-Domo-Admin
+9e763220-b66f-4f28-a0ac-b29a8252c76a,Group 1 List of Sites.xlsx,Group 1 List of Sites,remove_extension,Abigail Kane
+941361f6-8bf4-4d10-99e4-71e3cccabd6c,GSTV 2026 Market Plan Demo Comps.xlsx,GSTV 2026 Market Plan Demo Comps,remove_extension,Abigail Kane
+5e17f39a-a589-4a17-a105-c52042ad9541,GTVID - Data Set Match View,GTVID - Dataset Match View,casing_fix,Kayla Cekal
+fc946a3e-7e52-4423-ae50-f848aa776af5,GVR Sites Only Playing Default,Gilbarco Sites Only Playing Default,network_name,Adam Doughty
+e3f2cba4-41e9-4824-9929-414993c213f4,GVR Sites Playing Single File,Gilbarco Sites Playing Single File,network_name,Adam Doughty
+5eb8054e-d952-4306-ae13-d52277969f1c,GVR SitesDown Jan4-Jan6 2024,Gilbarco SitesDown Jan4-Jan6 2024,network_name,Adam Doughty
+1cadaf65-b384-4f40-b2c9-55381f078739,GVR SitesDown Jan4-Jan6 2024 POP,Gilbarco SitesDown Jan4-Jan6 2024 POP,network_name,Adam Doughty
+b041862d-4a45-4c9b-8818-11b9940cbc5d,hackathon_cleaned_sites.csv,hackathon cleaned sites,"remove_extension, underscore_to_space",GSTV-Domo-Admin
+bcffc449-a884-4109-9d10-dc798b36472d,hackathon_sites_rev_merge,hackathon sites rev merge,underscore_to_space,GSTV-Domo-Admin
+8f2d0ff9-56da-4261-b1ad-e832699d59bf,HuntBrothersPizza_2023_Retailer_Logs,HuntBrothersPizza 2023 Retailer Logs,underscore_to_space,GSTV-Domo-Admin
+f945ee48-fb28-4f41-b98c-9e3ff9b806dc,ICS GVR Clawback,ICS Gilbarco Clawback,network_name,Hailee Mcfarland
+a5055e95-7787-4cf7-a19f-858c45b09665,ICS Sites Completed By GVR,ICS Sites Completed By Gilbarco,network_name,Bill Binkiewicz
+98453564-0a55-4bf2-aafb-10773733a863,IO_Numbers.xlsx,IO Numbers,"remove_extension, underscore_to_space",GSTV-Domo-Admin
+8696a91e-4420-4f34-b656-6632670a346b,Landmark Contract Start Date.xlsx,Landmark Contract Start Date,remove_extension,Kayla Cekal
+4b9f9000-5335-4330-a374-9c8799df0009,Market Plan Inputs - 2022 April.xlsx,Market Plan Inputs - 2022 April,remove_extension,Abigail Kane
+f8914a38-b691-46a7-9415-89846169c2d9,Market Plan Inputs - 2022 December.xlsx,Market Plan Inputs - 2022 December,remove_extension,Abigail Kane
+25f11647-2e09-4ac9-a49d-528a795eb7a7,Market Plan Inputs - 2022 July.xlsx,Market Plan Inputs - 2022 July,remove_extension,Abigail Kane
+2703c825-79fc-43ab-80c9-a21a027f1a72,Market Plan Inputs - 2022 March.xlsx,Market Plan Inputs - 2022 March,remove_extension,Abigail Kane
+7c1b2691-fa4a-47ae-8124-28c086a82b48,Market Plan Inputs - 2022 May.xlsx,Market Plan Inputs - 2022 May,remove_extension,Abigail Kane
+240dac32-c037-4d04-b99e-11388677b8c1,Market Plan Inputs - 2022 November.xlsx,Market Plan Inputs - 2022 November,remove_extension,Abigail Kane
+2e72b3b6-f59a-421d-9d6d-fcf3687b71ad,Market Plan Inputs - 2022 October.xlsx,Market Plan Inputs - 2022 October,remove_extension,Abigail Kane
+02891301-908f-469f-b942-24c8ca09ba9b,Market Plan Inputs - 2022 September (3).xlsx,Market Plan Inputs - 2022 September (3),remove_extension,Abigail Kane
+20d5b146-0e6e-4fd1-8e36-afb0e38297ae,Market Plan Inputs - August 2022.xlsx,Market Plan Inputs - August 2022,remove_extension,Abigail Kane
+6ca999d3-bb94-47c0-b3c2-be844a8181e0,Market Plan Inputs - June 2022.xlsx,Market Plan Inputs - June 2022,remove_extension,Abigail Kane
+beec0042-570c-424c-8186-60392ab8f7a4,Market Plan Inputs- Feb 2022.xlsx,Market Plan Inputs- Feb 2022,remove_extension,Abigail Kane
+4a65e6d6-e257-4e00-9643-6d3f6e51d8b1,Market Plan Inputs- January 2022.xlsx,Market Plan Inputs- January 2022,remove_extension,Abigail Kane
+5aa02ecd-073e-4ddc-80e8-25277fec1bf0,Marsh - Plays and Site Status - Sites to Reactivate - Minus GVR Single File,Marsh - Plays and Site Status - Sites to Reactivate - Minus Gilbarco Single File,network_name,Adam Doughty
+d79835a2-d300-442a-bd7c-010288cd292d,Master Station List_Partitioned,Master Station List Partitioned,underscore_to_space,GSTV-Domo-Admin
+1c5f43df-76cf-4534-aeab-88c2fdf38916,Master_Domo_Governance_Dataset_INT,Master Domo Governance Dataset INT,underscore_to_space,GSTV-Domo-Admin
+2fab2e5a-f640-4110-8310-eebdd46af773,may 24 patch.csv,may 24 patch,remove_extension,GSTV-Domo-Admin
+4205ff55-2e9c-4d57-9dc2-203f98c9aa46,Michigan Veterans Affairs Agency Oct.csv,Michigan Veterans Affairs Agency Oct,remove_extension,Kayla Cekal
+8625ff51-3a62-4181-8acc-70e4f30b9f0d,Monitoring  - Transactions - Snowflake - Speedway,Monitoring - Transactions - Snowflake - Speedway,collapse_spaces,GSTV-Domo-Admin
+c1910582-6876-4324-b933-e94fddbeeef1,Monitoring -  OPP/IO Rev -  All Networks,Monitoring - OPP/IO Rev - All Networks,collapse_spaces,GSTV-Domo-Admin
+f7c688e1-dfe1-4759-88ec-dd84ecc3a317,Monitoring - Transactions  - Snowflake - Gilbarco,Monitoring - Transactions - Snowflake - Gilbarco,collapse_spaces,GSTV-Domo-Admin
+574b2fff-ab63-4fa6-8a89-887eac90bf66,Network Dashboard - Historic Data Set,Network Dashboard - Historic Dataset,casing_fix,GSTV-Domo-Admin
+39afdf39-ad82-498f-8816-46330cd8674a,Network Validated Impressions - Base Data Set,Network Validated Impressions - Base Dataset,casing_fix,GSTV-Domo-Admin
+6e101c89-324b-48f0-93da-0920a3b32ff3,Network Validated Impressions - Base Data Set - Last 2 Years,Network Validated Impressions - Base Dataset - Last 2 Years,casing_fix,GSTV-Domo-Admin
+548c9d9d-a020-438c-844a-3b93466f5a14,Network Validated Impressions - Base Data Set - Last 30 Days,Network Validated Impressions - Base Dataset - Last 30 Days,casing_fix,Aaron Olson
+973021b0-91e2-4716-828c-6a3803655990,Network Validated Impressions - Base Data Set with Fiscal Calendar and Utility Helper,Network Validated Impressions - Base Dataset with Fiscal Calendar and Utility Helper,casing_fix,GSTV-Domo-Admin
+bac97623-c1a5-47c8-bc19-331ac936d271,"NOC - Play Monitoring - by Site, Asset, Hour - Base Data Set","NOC - Play Monitoring - by Site, Asset, Hour - Base Dataset",casing_fix,GSTV-Domo-Admin
+82d8b7d0-c616-4887-a1b1-4de305c5bf56,NOC Report - Faster ICS POP and Screen Counts 091525,NOC Report - Faster ICS POP and Screen Counts 2025-09-15,date_format,Adam Doughty
+8f61c8fe-136c-46fc-9689-e843be123313,NOC Report - GVR CC Sites Dispenser Counts Upload,NOC Report - Gilbarco CC Sites Dispenser Counts Upload,network_name,Adam Doughty
+af155bff-643d-4a9a-803d-c8f5f459e56f,NOC Report - GVR FP4 ICS Sites Most Recent POP,NOC Report - Gilbarco FP4 ICS Sites Most Recent POP,network_name,Adam Doughty
+47a82da9-9c70-475e-b019-f4e33da9a936,NOC Report - GVR ICS First POP Most Recent 60 Days,NOC Report - Gilbarco ICS First POP Most Recent 60 Days,network_name,Adam Doughty
+6bf84fba-a8f5-4e24-9ab3-5a274a2c9c03,NOC Report - GVR Weekly All ICS FP4,NOC Report - Gilbarco Weekly All ICS FP4,network_name,Adam Doughty
+6e84dc01-ea3d-4e3e-8000-85c356f4a379,NOC Report - GVR Weekly All ICS FP6,NOC Report - Gilbarco Weekly All ICS FP6,network_name,Adam Doughty
+c54aaa04-e89a-40db-835e-8fc66b25dd37,NOC Report - GVR Weekly All Legacy Applause,NOC Report - Gilbarco Weekly All Legacy Applause,network_name,Adam Doughty
+0c471ba3-025b-489a-8948-b543ce0d092e,NOC Report - GVR Weekly Offline ALL,NOC Report - Gilbarco Weekly Offline ALL,network_name,Adam Doughty
+3191fab5-2974-4f3e-9b03-d4e20eeee6ff,NOC Report - GVR Weekly Offline ICS FP4,NOC Report - Gilbarco Weekly Offline ICS FP4,network_name,Adam Doughty
+b3a7708a-6f0c-42be-a7e6-5278e7172507,NOC Report - GVR Weekly Offline ICS FP6,NOC Report - Gilbarco Weekly Offline ICS FP6,network_name,Adam Doughty
+d1fc7843-d59c-4f05-8242-a9b586490873,NOC Report - GVR Weekly Offline Legacy Applause,NOC Report - Gilbarco Weekly Offline Legacy Applause,network_name,Adam Doughty
+26bfeabb-5eae-43a4-b032-19410e385f04,NOC Report - GVR Weekly Online ICS FP4,NOC Report - Gilbarco Weekly Online ICS FP4,network_name,Adam Doughty
+57109387-d623-4298-89bd-e42224c202d5,NOC Report - GVR Weekly Online ICS FP6,NOC Report - Gilbarco Weekly Online ICS FP6,network_name,Adam Doughty
+d5d1695f-aa87-4586-a522-e958ea389c8c,NOC Report - GVR Weekly Online Legacy Applause,NOC Report - Gilbarco Weekly Online Legacy Applause,network_name,Adam Doughty
+5826543f-6ceb-40db-80d0-224c360f354c,OPP/IO Rev - Base Data Set,OPP/IO Rev - Base Dataset,casing_fix,GSTV-Domo-Admin
+9c72632f-ceb8-4ae8-bb44-f0ca257baf56,OPP_IO Rev,OPP IO Rev,underscore_to_space,Aaron Olson
+8b9a3731-dc28-4aac-a5c9-704bc594882b,OPP_IO Rev - Base Data Set - IO 7409.xlsx,OPP IO Rev - Base Dataset - IO 7409,"remove_extension, underscore_to_space, casing_fix",Abigail Kane
+74a72662-fea6-49c3-bb27-f30bed4f28ba,Opportunities - Base Data Set,Opportunities - Base Dataset,casing_fix,GSTV-Domo-Admin
+6b80154b-33f3-444f-a915-256e6487a42c,OWL Sites 061125.xlsx,OWL Sites 2025-06-11,"remove_extension, date_format",Adam Doughty
+195388db-acb8-49dd-846d-f7b73480395f,"patch - vistar diagnostics dec 11, 12 2025.csv","patch - vistar diagnostics dec 11, 12 2025",remove_extension,GSTV-Domo-Admin
+603f8415-015e-4f33-a0b4-86e6cb755560,patch - vistar diagnostics dec 18 2025.csv,patch - vistar diagnostics dec 18 2025,remove_extension,GSTV-Domo-Admin
+917fa76a-e36b-41ba-b9c6-ecc3399d4114,Patch Input - Pluto Exchange Revenue - April 27 2025 Patch.csv,Patch Input - Pluto Exchange Revenue - April 27 2025 Patch,remove_extension,GSTV-Domo-Admin
+7e22a13f-fd0c-45c9-ad9c-e716b372f9df,Patch Input - Pluto Exchange Revenue - Jan 25 2026.csv.csv,Patch Input - Pluto Exchange Revenue - Jan 25 2026,remove_extension,GSTV-Domo-Admin
+1aba6e19-23c7-46da-9914-d49cfd2f71a6,Patch Input - Pluto Exchange Revenue - May 4 2025.csv,Patch Input - Pluto Exchange Revenue - May 4 2025,remove_extension,GSTV-Domo-Admin
+ab7f04f2-fd23-4613-9d80-33fe6c19a16d,Plays from Site_Plays_By_Hour,Plays from Site Plays By Hour,underscore_to_space,GSTV-Domo-Admin
+b7f24e81-6df8-4017-9152-83cc87d5fb6c,Pluto - CPM Floor - June 3 to June 7 2025.csv,Pluto - CPM Floor - June 3 to June 7 2025,remove_extension,GSTV-Domo-Admin
+d1019974-1756-42c9-8863-ba5884fe1081,pluto_dataset_watchdog.csv,pluto dataset watchdog,"remove_extension, underscore_to_space",GSTV-Domo-Admin
+de34f5ee-5a13-4ae4-9f29-0e6e5113dd9e,Pluto_Exchange_Revenue_Patch.csv,Pluto Exchange Revenue Patch,"remove_extension, underscore_to_space",GSTV-Domo-Admin
+c64f7456-f743-4ff7-8b6d-5843f4215c7b,Previous Day SSP  Advertiser Names,Previous Day SSP Advertiser Names,collapse_spaces,Antonio Bowens
+0f514336-4fb0-4a01-a4f3-d47faa278b37,processed_walkabilityScore.csv,processed walkabilityScore,"remove_extension, underscore_to_space",GSTV-Domo-Admin
+fd07874b-175a-4d72-be57-98d542e7b998,PROD -  PATCH - Transactions - Gilbarco - Write to WASTEWATERTREATMENTTANK_GILBARCO,PROD - PATCH - Transactions - Gilbarco - Write to WASTEWATERTREATMENTTANK GILBARCO,"underscore_to_space, collapse_spaces",GSTV-Domo-Admin
+b8ac5d34-6579-4df1-b135-89039b351242,PROD - Managed Service Retailer Contracts - Base Data Set,PROD - Managed Service Retailer Contracts - Base Dataset,casing_fix,GSTV-Domo-Admin
+a48e1105-1cd0-4274-8a1b-62878403ce1f,PROD - Managed Services - List of RPA Names and File Names - Base Data Set,PROD - Managed Services - List of RPA Names and File Names - Base Dataset,casing_fix,GSTV-Domo-Admin
+cfa5416f-8e08-42b7-b6eb-a578ac2bfcb9,PROD - Managed Services - RPA Processed and Prioritized Schedules - Base Data Set,PROD - Managed Services - RPA Processed and Prioritized Schedules - Base Dataset,casing_fix,GSTV-Domo-Admin
+179472b0-14c7-4287-9ba8-7771e157a591,PROD - OPP/IO Rev - Base Data Set - Writeback,PROD - OPP/IO Rev - Base Dataset - Writeback,casing_fix,GSTV-Domo-Admin
+46ba2c14-c549-4665-80d3-cf5a3f47ec71,PROD - PATCH - Transactions - Speedway - Write to UNVALIDATEDTRANSACTIONSTANK_SPEEDWAY,PROD - PATCH - Transactions - Speedway - Write to UNVALIDATEDTRANSACTIONSTANK SPEEDWAY,underscore_to_space,GSTV-Domo-Admin
+45a8cfe1-a2bc-436c-ac0c-0e560c1fe7b4,PROD - PATCH - Transactions - Wayne - Write to UNVALIDATEDTRANSACTIONSTANK_DOVER,PROD - PATCH - Transactions - Wayne - Write to UNVALIDATEDTRANSACTIONSTANK DOVER,underscore_to_space,GSTV-Domo-Admin
+ac8ff048-6e79-4398-88f4-7e6ded49df68,PROD - POP_Discrepancies,PROD - POP Discrepancies,underscore_to_space,Bill Binkiewicz
+f3a723f9-4065-43da-a8a3-36e3eb553f02,PROD - Sites - Base Data Set - Writeback,PROD - Sites - Base Dataset - Writeback,casing_fix,GSTV-Domo-Admin
+5859d2e5-9a87-4c16-83e6-a1e8b83dc4ae,PROD_GSTVDataGovernance,PROD GSTVDataGovernance,underscore_to_space,GSTV-Domo-Admin
+f67d76a8-65c1-4c67-bc50-dfe6a0cf6b8f,PROD_VistarDiagnostics_Daily_BSD,PROD VistarDiagnostics Daily BSD,underscore_to_space,GSTV-Domo-Admin
+838687de-ad03-4da5-b533-b217ed5531d3,Programmatic - Revenue - Place Exchange - Base Data Set,Programmatic - Revenue - Place Exchange - Base Dataset,casing_fix,GSTV-Domo-Admin
+0008dbea-b750-44f0-a56c-7780ba6ad0b5,Programmatic - Vistar Exchange Revenue By Site - December 2024.csv,Programmatic - Vistar Exchange Revenue By Site - December 2024,remove_extension,Kayla Cekal
+f521c4ce-2927-4234-8a74-e19594017851,Programmatic - Vistar Exchange Revenue By Site - November 2024.csv,Programmatic - Vistar Exchange Revenue By Site - November 2024,remove_extension,Kayla Cekal
+f794cda8-cff3-4005-94f8-815e8ec288af,Programmatic Ad Leases and Expirations -  V3,Programmatic Ad Leases and Expirations - V3,collapse_spaces,GSTV-Domo-Admin
+fe3e0f40-3851-4002-9ded-65c749c13fe8,Programmatic Diagnostics - Base Data Set,Programmatic Diagnostics - Base Dataset,casing_fix,GSTV-Domo-Admin
+b3568034-c1a2-479a-ab32-4693df581440,Programmatic Play Rate - Base Data Set,Programmatic Play Rate - Base Dataset,casing_fix,GSTV-Domo-Admin
+11eefb97-9f6a-4df5-8f3a-7f03431f559c,Programmatic Revenue Patch - Dec 28 and 29.csv,Programmatic Revenue Patch - Dec 28 and 29,remove_extension,GSTV-Domo-Admin
+11c99b8c-1c45-409c-be70-3d6880fc8613,Programmatic Revenue Patch - Dec 5 Place Exchange.csv,Programmatic Revenue Patch - Dec 5 Place Exchange,remove_extension,GSTV-Domo-Admin
+fcce77f3-3200-4af7-81d3-eceed581d865,Programmatic Tracking (2).xlsx,Programmatic Tracking (2),remove_extension,Antonio Bowens
+152a3322-e038-4d46-9aa4-e4211ea6e557,Proof of Plays - Sites Reporting PoP - Rev Share,Proof of Plays - Sites Reporting PoP - Revenue Share,casing_fix,GSTV-Domo-Admin
+c5d35551-ca22-41f2-bb32-06844efac83b,Raw DXPromote Proof Of Play - 10 Hours Out,Raw DXPromote Proof of Play - 10 Hours Out,casing_fix,Aaron Olson
+13fed4c6-ec17-42c3-93a8-453830d68fbb,Raw DXPromote Proof Of Play - 2 Hours Out,Raw DXPromote Proof of Play - 2 Hours Out,casing_fix,Aaron Olson
+80f8b0fa-2dac-4fef-8692-021e7ea830fa,Raw DXPromote Proof Of Play - 3 Hours Out,Raw DXPromote Proof of Play - 3 Hours Out,casing_fix,Aaron Olson
+d503c947-7c5d-4a64-ad88-2b2231061ece,Raw DXPromote Proof Of Play - 4 Hours Out,Raw DXPromote Proof of Play - 4 Hours Out,casing_fix,Aaron Olson
+69baaf0e-2593-459f-a9f1-069a4805ec83,Raw DXPromote Proof Of Play - 5 Hours Out,Raw DXPromote Proof of Play - 5 Hours Out,casing_fix,Aaron Olson
+d70c56d3-453c-4740-acf4-0e844ae7375e,Raw DXPromote Proof Of Play - 6 Hours Out,Raw DXPromote Proof of Play - 6 Hours Out,casing_fix,Aaron Olson
+acd470e9-b008-4c72-9ff7-aecb8938b96a,Raw DXPromote Proof Of Play - 7 Hours Out,Raw DXPromote Proof of Play - 7 Hours Out,casing_fix,Aaron Olson
+31f66cef-5473-458d-9675-dc0cb966bab4,Raw DXPromote Proof Of Play - 8 Hours Out,Raw DXPromote Proof of Play - 8 Hours Out,casing_fix,Aaron Olson
+f461c246-058c-4703-b565-7e378e95eddc,Raw DXPromote Proof Of Play - 9 Hours Out,Raw DXPromote Proof of Play - 9 Hours Out,casing_fix,Aaron Olson
+3bca4740-0ee9-4ac3-8fd2-2ff6a5504ffd,Rev Allocation - Base Data Set,Rev Allocation - Base Dataset,casing_fix,GSTV-Domo-Admin
+d8590656-a298-4e15-9e23-8e50f5c50246,Rev Share - Sites Reporting Proof of Play - By Day,Revenue Share - Sites Reporting Proof of Play - By Day,casing_fix,GSTV-Domo-Admin
+55bf45e3-fbb2-4936-8da0-b19e3c65cd02,RPA Scheduling - Base Data Set,RPA Scheduling - Base Dataset,casing_fix,GSTV-Domo-Admin
+707b9c18-b324-4378-9a6c-2fbe63adf7a5,RPA Utilization - From Snowflake Traffic Instructions - Rev Share,RPA Utilization - From Snowflake Traffic Instructions - Revenue Share,casing_fix,Sriram Vepuri
+d3f8a51f-2cc6-4971-ac89-13dfeed4170b,RPA Utilization - Seed Data Set,RPA Utilization - Seed Dataset,casing_fix,Sriram Vepuri
+f2a2ad00-d673-4df6-adba-b6f4a4bd3da4,RPA Worksheet - Template(ENTRY - 12 Line Item).csv,RPA Worksheet - Template(ENTRY - 12 Line Item),remove_extension,GSTV-Domo-Admin
+617b7b99-02cd-4f34-bb02-fb7922b95814,Scott View of NOC Report - ICS + DXP Status,View - NOC Report - ICS + DXP Status (Scott),view_prefix,Scott Anger
+311b1d2b-5745-4fbb-8976-bd076c6b7603,seasonal ad spend for domo.xlsx,seasonal ad spend for domo,remove_extension,Lauren Lazarus
+55c8e651-9c9f-4659-8055-0a014f7928a6,Site Status History per Day -  July Comscore View,Site Status History per Day - July Comscore View,collapse_spaces,Kayla Cekal
+8beef98c-a191-4f1f-b364-34f519a9794a,Site Status History per Day - Base Data Set,Site Status History per Day - Base Dataset,casing_fix,GSTV-Domo-Admin
+c9d8bf14-0e33-4a4a-b6ce-69b7240e71ef,Site Status History per Day - Base Data Set - Filterable,Site Status History per Day - Base Dataset - Filterable,casing_fix,Abigail Kane
+40a737bf-051a-4ca8-b907-703cb49e742a,Site Status History per Day - Base Data Set - Previous 2 Years,Site Status History per Day - Base Dataset - Previous 2 Years,casing_fix,GSTV-Domo-Admin
+9c4a3f76-e262-461f-9be6-9166427ab4ec,Sites - Base Data Set,Sites - Base Dataset,casing_fix,GSTV-Domo-Admin
+adb87c43-7283-4c18-be7c-ca0f4cf49227,Sites - Base Data Set - Casey's,Sites - Base Dataset - Casey's,casing_fix,Kayla Cekal
+75721441-a00d-4884-8e5b-e7868f9858ce,Sites - Base Data Set - Dover,Sites - Base Dataset - Dover,casing_fix,GSTV-Domo-Admin
+e467c1a8-917b-4ff0-9aab-a44207962bca,Sites - Base Data Set - Gilbarco,Sites - Base Dataset - Gilbarco,casing_fix,Aaron Olson
+6982aab5-be0e-46cc-a294-6d248f84ddd3,Sites - Base Data Set - Input for Snowflake Writeback,Sites - Base Dataset - Input for Snowflake Writeback,casing_fix,GSTV-Domo-Admin
+f5e5b552-dcd0-423e-b00b-8552d641cb80,Sites - Base Data Set - Kwik Trip,Sites - Base Dataset - Kwik Trip,casing_fix,Abigail Kane
+ac7577cc-7c51-4571-a72e-b44b931d179e,Sites - Base Data Set - Landmark ,Sites - Base Dataset - Landmark,"strip_whitespace, casing_fix",Kayla Cekal
+58d7d846-f10f-46e9-abbb-10fcc031694f,Sites - Base Data Set - One Off SItes,Sites - Base Dataset - One Off SItes,casing_fix,Abigail Kane
+52f65b9e-0a56-467c-969f-1017e4bcee99,Sites - Base Data Set - Restriction Management for Retailer Success,Sites - Base Dataset - Restriction Management for Retailer Success,casing_fix,GSTV-Domo-Admin
+146ef2f9-b5c4-4b1b-8695-cd8975638dd7,Sites - Base Data Set - Snowflake Writeback,Sites - Base Dataset - Snowflake Writeback,casing_fix,GSTV-Domo-Admin
+aea320f3-3c12-4ae7-87d3-be2e0a682f2d,Sites - Base Data Set - Speedway,Sites - Base Dataset - Speedway,casing_fix,Aaron Olson
+c932d552-d9d9-413f-9784-6edd3f0bcf6f,Sites - Base Data Set - Wayne,Sites - Base Dataset - Wayne,casing_fix,Aaron Olson
+2a89ca4c-2582-4b26-a043-3bfa5a783aa8,Sites - Base Data Set w/ Flags,Sites - Base Dataset w/ Flags,casing_fix,GSTV-Domo-Admin
+24168b9b-b95a-474d-a630-6d0afd1799fa,Sites - Base Data Set w/ Identifiers,Sites - Base Dataset w/ Identifiers,casing_fix,GSTV-Domo-Admin
+c5528c0a-de2c-4272-b1b3-197c1a69e2f7,Sites - Base Data Set w/Flags,Sites - Base Dataset w/Flags,casing_fix,Adam Doughty
+42de9d3c-ef57-44f4-874e-b0a378bce413,Sites Playing Single File - GVR Default Past 7 Days,Sites Playing Single File - Gilbarco Default Past 7 Days,network_name,Adam Doughty
+866bfeae-1c3b-4804-a20c-a5aaefc3b911,Sites with Status - Base Data Set,Sites with Status - Base Dataset,casing_fix,GSTV-Domo-Admin
+9ff9b208-d9bd-4611-9878-ebfe3b6d3294,Sites_LEFT_JOINED_With_POP_For_Adam,Sites LEFT JOINED With POP For Adam,underscore_to_space,GSTV-Domo-Admin
+f4173d82-7505-4626-8361-4ba3af7aeb59,Speedway - Sites Not Reporting Proof Of Play,Speedway - Sites Not Reporting Proof of Play,casing_fix,Aaron Olson
+e2e0ad99-7a75-4dc6-8d81-188ac83e76b4,Speedway Notifications  - MEDIA_PULLED_BY_TERMINAL only,Speedway Notifications - MEDIA_PULLED_BY_TERMINAL only,collapse_spaces,Bill Binkiewicz
+3386faca-6d98-41c8-b0bb-f6570290a8ad,Speedway Txn Patch April 29 2025.csv,Speedway Txn Patch April 29 2025,remove_extension,GSTV-Domo-Admin
+29aa8b86-ea6e-4701-a7a3-39856fb18661,Speedway TxnPatch July 18 2024.csv,Speedway TxnPatch July 18 2024,remove_extension,GSTV-Domo-Admin
+2ce9518b-9efa-4007-a9f1-1abb379fbf9f,Speedway TxnPatch July 19 2024.csv,Speedway TxnPatch July 19 2024,remove_extension,GSTV-Domo-Admin
+294b69aa-9af0-4389-805c-7d01f746070e,Speedway TxnPatch July 20 2024.csv,Speedway TxnPatch July 20 2024,remove_extension,GSTV-Domo-Admin
+01f90183-e218-4b30-a674-ebc655e54166,Speedway TxnPatch July 21 2024.csv,Speedway TxnPatch July 21 2024,remove_extension,GSTV-Domo-Admin
+10d5d734-87ab-46b5-a2b8-f7a138add5cf,Speedway TxnPatch July 22 2024.csv,Speedway TxnPatch July 22 2024,remove_extension,GSTV-Domo-Admin
+e628823b-2073-46e0-8d97-072696b67214,Speedway TxnPatch July 23 2024.csv,Speedway TxnPatch July 23 2024,remove_extension,GSTV-Domo-Admin
+53df7b9e-4a2a-4d16-8317-1fa82aab0224,Speedway TxnPatch July 24 2024.csv,Speedway TxnPatch July 24 2024,remove_extension,GSTV-Domo-Admin
+e530710b-5f85-4d88-b53e-da1cb34f0d48,Speedway TxnPatch July 25 2024.csv,Speedway TxnPatch July 25 2024,remove_extension,GSTV-Domo-Admin
+3ce0df22-8c75-4767-8ca2-904e093a7481,Speedway TxnPatch July 26 2024.csv,Speedway TxnPatch July 26 2024,remove_extension,GSTV-Domo-Admin
+7e70336d-5171-417a-b753-76c07d100406,Speedway TxnPatch July 27 2024.csv,Speedway TxnPatch July 27 2024,remove_extension,GSTV-Domo-Admin
+9f966676-14e7-4513-8f7b-98e8f81a7884,Speedway TxnPatch July 28 2024.csv,Speedway TxnPatch July 28 2024,remove_extension,GSTV-Domo-Admin
+97aad0a7-0a12-471d-a8c4-0466c9f29d97,Speedway TxnPatch July 29 2024.csv,Speedway TxnPatch July 29 2024,remove_extension,GSTV-Domo-Admin
+6160919c-0fa1-4476-944b-98ad94caea1d,Speedway TxnPatch July 30 2024.csv,Speedway TxnPatch July 30 2024,remove_extension,GSTV-Domo-Admin
+053e370c-c701-41cd-90e8-0a63e8e6aa39,Speedway TxnPatch July 31 2024.csv,Speedway TxnPatch July 31 2024,remove_extension,GSTV-Domo-Admin
+807eb0b8-c850-4b71-be7b-bcbf1ffd5026,TEMP - Additional Dover Transaction Analysis,DEV - Additional Dover Transaction Analysis,env_prefix,Aaron Olson
+3fed787e-71c6-4601-bfa2-ce9c016f0b5c,Temp - Additional Dover Transactions Analysis,DEV - Additional Dover Transactions Analysis,env_prefix,Aaron Olson
+70bd21e5-7608-4fcf-9931-545c088a13bb,TEMP - All ICS Sites With Migration Date ,DEV - All ICS Sites With Migration Date,"strip_whitespace, env_prefix",Bill Binkiewicz
+c67986b6-a01e-4c23-8983-4e36a44ce6e8,TEMP - All ICS Sites With or Without POP Data,DEV - All ICS Sites With or Without POP Data,env_prefix,Bill Binkiewicz
+02a5fae5-4c6d-4ab9-8d86-20896a6aaab8,TEMP - Campaign Validated Impressions - Base Data Set - Troubleshooting Variances,DEV - Campaign Validated Impressions - Base Dataset - Troubleshooting Variances,"env_prefix, casing_fix",Aaron Olson
+dfa12fa8-ad86-4a38-99b6-715bbb18aaa0,Temp - Casey's Site List,DEV - Casey's Site List,env_prefix,Aaron Olson
+b8926484-15d1-44cc-95ae-334375527d0b,TEMP - Casey's Standup - Average Daily And Monthly Impressions,DEV - Casey's Standup - Average Daily And Monthly Impressions,env_prefix,Aaron Olson
+6cf6b8a6-eded-462e-a231-0c7b57ffcc84,TEMP - Combined Raw DXPromote Proof of Play,DEV - Combined Raw DXPromote Proof of Play,env_prefix,Aaron Olson
+40281cfe-41bb-42b1-ac62-709e4089da38,TEMP - CVI Data Check - IO 9799,DEV - CVI Data Check - IO 9799,env_prefix,Aaron Olson
+67dd6761-5ae1-41d6-9b08-d49a55b285b5,TEMP - CVIs And Revenue By Site By Month - Since FY23,DEV - CVIs And Revenue By Site By Month - Since FY23,env_prefix,Aaron Olson
+7135d473-b0b7-4004-88f7-856fdd510ab2,TEMP - DFS Offline Sites Since 2023,DEV - DFS Offline Sites Since 2023,env_prefix,Aaron Olson
+982179ea-6e83-4030-9d55-e49e50df4bf6,TEMP - DXPromote - Derived Versus Provided Transaction Analysis,DEV - DXPromote - Derived Versus Provided Transaction Analysis,env_prefix,Aaron Olson
+a32bf5d8-906d-4f57-ba2e-0b5bb1eb2bdd,TEMP - DXPromote - Derived Versus Provided Transaction Analysis - Normalized,DEV - DXPromote - Derived Versus Provided Transaction Analysis - Normalized,env_prefix,Aaron Olson
+5d255ea2-a86a-4236-8dec-815ef0f7a8a4,TEMP - DXPromote Initial Migration List,DEV - DXPromote Initial Migration List,env_prefix,Aaron Olson
+6632872e-0fda-4ab3-ad97-96b12cbd9d61,TEMP - FP6 Meta Data Test,DEV - FP6 Meta Data Test,env_prefix,Bill Binkiewicz
+99ab01fa-446c-409f-9326-6a03fa64cc60,TEMP - ICS - Active Sites,DEV - ICS - Active Sites,env_prefix,Aaron Olson
+7605a7d4-d4c5-4837-8a06-55baa8255622,TEMP - ICS - Active Sites Not Requesting Spots,DEV - ICS - Active Sites Not Requesting Spots,env_prefix,GSTV-Domo-Admin
+29bf1655-853c-4118-a15f-2afd91f0325e,TEMP - ICS Site Analysis - November 2024 - February 2025,DEV - ICS Site Analysis - November 2024 - February 2025,env_prefix,Aaron Olson
+64da59ed-4c2e-4749-b7c1-34f9d65dde30,TEMP - ICS Sites - Diagnostic Insights,DEV - ICS Sites - Diagnostic Insights,env_prefix,Aaron Olson
+72011334-bc7e-4893-95f7-a32f5a5e6705,TEMP - Identifying Missing Programmatic Revenue,DEV - Identifying Missing Programmatic Revenue,env_prefix,Aaron Olson
+6637a6cd-bc5d-4af8-b9d8-541afda68e59,TEMP - Investigating Unvalidated Transaction Dataset Discrepancies,DEV - Investigating Unvalidated Transaction Dataset Discrepancies,env_prefix,Aaron Olson
+2b892180-5e9c-4001-b9f8-ec9b2f9db295,TEMP - Master Station List Individual Site Delta Analysis - Row Per Day,DEV - Master Station List Individual Site Delta Analysis - Row Per Day,env_prefix,Aaron Olson
+45a2ece4-2f20-4917-a232-3efa3e109e9e,TEMP - Master Station List Individual Site Delta Analysis - Row Per Day Of Month,DEV - Master Station List Individual Site Delta Analysis - Row Per Day Of Month,env_prefix,Aaron Olson
+095099a9-0c80-4011-8509-334be7ce166f,TEMP - Monthly Revenue With Site Status History And Transactions For Analysis,DEV - Monthly Revenue With Site Status History And Transactions For Analysis,env_prefix,Aaron Olson
+a2d53a07-6707-4a7a-a468-2939d489b8a4,TEMP - NVI Market Plan Comparison,DEV - NVI Market Plan Comparison,env_prefix,Aaron Olson
+2e916570-58fb-472e-bc06-456df0843152,TEMP - NVI Testing - NVI - Configurable,DEV - NVI Testing - NVI - Configurable,env_prefix,Aaron Olson
+ff45f194-aa33-4abe-8dc2-b8cc2820c552,TEMP - NVI Testing - Transactions - Calculated Average Daily and Monthly Impressions,DEV - NVI Testing - Transactions - Calculated Average Daily and Monthly Impressions,env_prefix,Aaron Olson
+de8bb57d-c6b3-4ebe-8fc1-da5b0000a401,TEMP - NVIs - Calculated Average Daily and Monthly Impressions - 365 Day Lookback,DEV - NVIs - Calculated Average Daily and Monthly Impressions - 365 Day Lookback,env_prefix,Aaron Olson
+309e9218-5efc-4fde-8701-279c488fad1e,TEMP - NVIs - Calculated Average Daily and Monthly Impressions - 90 Day Lookback,DEV - NVIs - Calculated Average Daily and Monthly Impressions - 90 Day Lookback,env_prefix,Aaron Olson
+045865ec-99fa-44ae-83af-82bce84ac890,TEMP - Open Exchange CPM Analysis,DEV - Open Exchange CPM Analysis,env_prefix,Aaron Olson
+87161772-82dd-4b80-bbb5-3197b494e417,TEMP - Output Testing - Initial Filter,DEV - Output Testing - Initial Filter,env_prefix,Aaron Olson
+62892b57-1485-43ff-becb-02f45b8104d4,TEMP - Output Testing - Left Side,DEV - Output Testing - Left Side,env_prefix,Aaron Olson
+7598c90b-ff2e-492f-8bf5-3f943a86a05c,TEMP - Output Testing - Right Side,DEV - Output Testing - Right Side,env_prefix,Aaron Olson
+61756afd-2729-4b1d-9587-f6fda3a1665a,TEMP - Pluto Backfill,DEV - Pluto Backfill,env_prefix,GSTV-Domo-Admin
+07bab826-155f-442a-9cf0-7ff309d04c50,TEMP - Programmatic - Vistar - All Revenue and Diagnostics - Daily By Site - Current Year,DEV - Programmatic - Vistar - All Revenue and Diagnostics - Daily By Site - Current Year,env_prefix,Aaron Olson
+3f5ecd46-ecd7-4fb4-9304-bf667f04bdbc,TEMP - Programmatic Exchange Revenue By Bidder By Site,DEV - Programmatic Exchange Revenue By Bidder By Site,env_prefix,Aaron Olson
+68873f43-8b3b-4c32-9c42-c49bef56d871,TEMP - Programmatic Performance By Program,DEV - Programmatic Performance By Program,env_prefix,Bill Binkiewicz
+ccff890e-2157-4fe6-9446-b841be1afbad,TEMP - Rev Share Programmatic Output,DEV - Revenue Share Programmatic Output,"env_prefix, casing_fix",Aaron Olson
+3bf59895-dc11-4aab-bb3c-b2023aeaaf25,TEMP - REV SHARE TROUBLESHOOTING - PROGRAMMATIC - CALCULATE MONTHLY REVENUE OUTPUT,DEV - Revenue Share Troubleshooting - Programmatic - Calculate Monthly Revenue Output,"env_prefix, allcaps_to_titlecase, casing_fix",GSTV-Domo-Admin
+4f830777-d186-4892-b0e0-76ec6e7a705b,TEMP - REV SHARE TROUBLESHOOTING - PROGRAMMATIC - Each Row Now Represents One IO With A Total And Breakouts Per Rev Share Grouping - OUTPUT,DEV - Revenue Share TROUBLESHOOTING - PROGRAMMATIC - Each Row Now Represents One IO With A Total And Breakouts Per Revenue Share Grouping - OUTPUT,"env_prefix, casing_fix",GSTV-Domo-Admin
+2ed9eb47-f0cc-4651-8d3d-ed8c511be688,TEMP - REV SHARE TROUBLESHOOTING - PROGRAMMATIC - EXCHANGE TO IO MAPPING OUTPUT,DEV - Revenue Share Troubleshooting - Programmatic - Exchange To IO Mapping Output,"env_prefix, allcaps_to_titlecase, casing_fix",GSTV-Domo-Admin
+0c2c5352-23de-4979-b15c-e41e2ae97899,TEMP - Revenue Share - Site/State - Comparing Output vs Input,DEV - Revenue Share - Site/State - Comparing Output vs Input,env_prefix,Aaron Olson
+55696ac2-6285-4b6a-b972-9f1da6b78a68,TEMP - Salesforce Duplicate Task Analysis,DEV - Salesforce Duplicate Task Analysis,env_prefix,Aaron Olson
+476818f2-4231-412f-ba70-ec6a4af69b92,Temp - Sell Through V2,DEV - Sell Through V2,env_prefix,GSTV-Domo-Admin
+f0811d65-4bbe-4443-8888-9961740db094,TEMP - Site Revenue Per Month,DEV - Site Revenue Per Month,env_prefix,Aaron Olson
+6d12eb7f-4138-41e5-b0da-a6310b4be575,TEMP - Site Status History per Day - Base Data Set - 2022/2023/2024/2025,DEV - Site Status History per Day - Base Dataset - 2022/2023/2024/2025,"env_prefix, casing_fix",Aaron Olson
+f289473c-53f5-48e4-8a97-4a3ed218e222,TEMP - Site Status History per Day - Data Schema,DEV - Site Status History per Day - Data Schema,env_prefix,Aaron Olson
+24e95044-c56c-4a68-af39-079a55afae40,TEMP - Speedway/Casey's NVI Sources,DEV - Speedway/Casey's NVI Sources,env_prefix,Aaron Olson
+d0e5d470-2800-493d-92dc-ae1634e34b79,TEMP - State Farm Vistar Delivery Reporting - Consolidated,DEV - State Farm Vistar Delivery Reporting - Consolidated,env_prefix,Aaron Olson
+1c1f35e4-dc9d-4e55-924a-d7385428b284,TEMP - Supply Accuracy Analysis,DEV - Supply Accuracy Analysis,env_prefix,Aaron Olson
+7f6dae2a-0e03-4982-b8ae-5ea40522096d,TEMP - Terminals With Clock Issues,DEV - Terminals With Clock Issues,env_prefix,Bill Binkiewicz
+59579846-ac09-4b9e-a90f-2628e0d9f99d,TEMP - Testing Output For Days To Include,DEV - Testing Output For Days To Include,env_prefix,Aaron Olson
+ed811fce-0250-4803-bc5e-2837bad2b778,TEMP - Transactions Analysis - Month Over Month By Site,DEV - Transactions Analysis - Month Over Month By Site,env_prefix,Aaron Olson
+d9ae65a3-453d-46db-bcf6-f058e5943573,TEMP - Transactions Analysis - November,DEV - Transactions Analysis - November,env_prefix,Aaron Olson
+2c31c89d-7793-4a02-af17-bdf6a60eb064,TEMP - TROUBLESHOOTING  - 2024 Branch,DEV - TROUBLESHOOTING - 2024 Branch,"env_prefix, collapse_spaces",Aaron Olson
+7a930fa1-8d4d-46ed-82ab-38b226889f17,TEMP - TROUBLESHOOTING - Transactions And Site Status Join,DEV - TROUBLESHOOTING - Transactions And Site Status Join,env_prefix,Aaron Olson
+0ff300a7-fd00-41d7-b5d4-b2533d75d885,TEMP - Troubleshooting Impacted Locations Calculation,DEV - Troubleshooting Impacted Locations Calculation,env_prefix,Aaron Olson
+158fcfb7-9b8b-4f7e-957e-d21f65c317e5,TEMP - Unvalidated Transactions - Hourly - Data Schema,DEV - Unvalidated Transactions - Hourly - Data Schema,env_prefix,Aaron Olson
+eb68068f-b90b-4f1f-bada-7c0496ca45aa,TEMP - Unvalidated Transactions - Hourly - January and February 2022,DEV - Unvalidated Transactions - Hourly - January and February 2022,env_prefix,Aaron Olson
+4e233943-c63c-452c-ace1-cea416a6b472,TEMP - View of Sites,DEV - View - Sites,"env_prefix, view_prefix",Aaron Olson
+87f24dc2-a86f-489a-804e-910573d64111,TEMP - Vistar - SPP Reporting By Site By Deal TTM,DEV - Vistar - SPP Reporting By Site By Deal TTM,env_prefix,Aaron Olson
+7ebed331-2b13-4ce9-9cc4-6393099027d7,TEMP - Vistar - Weekly Operating Hours - Troubleshooting,DEV - Vistar - Weekly Operating Hours - Troubleshooting,env_prefix,Aaron Olson
+f876d2c1-7467-422f-ad21-3354727e4b1d,TEMP - Vistar Diagnostic Insights - Q1 2024,DEV - Vistar Diagnostic Insights - Q1 2024,env_prefix,Aaron Olson
+cffeab76-afb9-40de-a1e5-aa975acaea31,TEMP - Vistar Diagnostic Insights - Q2 2024,DEV - Vistar Diagnostic Insights - Q2 2024,env_prefix,Aaron Olson
+78c66411-77bc-4103-92d8-6e8643ed3610,TEMP_GSTVDataGovernance,TEMP GSTVDataGovernance,underscore_to_space,GSTV-Domo-Admin
+8b05f12e-0e8a-4fdf-9d56-109d0d11ca2a,Test - Deduplicated Ad Leases on _ID,Test - Deduplicated Ad Leases on ID,"underscore_to_space, collapse_spaces",GSTV-Domo-Admin
+d5e6cec4-f407-4fec-a3c0-49f7f5b01f62,TEST - TDLINX,TEST - Tdlinx,allcaps_to_titlecase,Abigail Kane
+698f705d-39f4-4085-81f2-57e6c45bc03c,TEST_KRYPTON - Averages including duplicates. ,TEST KRYPTON - Averages including duplicates.,"strip_whitespace, underscore_to_space",Aaron Olson
+5c4f1574-f6d1-41e8-8a3d-c809c3095736,TEST_KRYPTON - Gilbarco - Transactions - Live - Hourly - Matched,TEST KRYPTON - Gilbarco - Transactions - Live - Hourly - Matched,underscore_to_space,GSTV-Domo-Admin
+c802df1d-25ea-4e4c-8952-1d422d39a176,TEST_KRYPTON - Gilbarco - Transactions - Live - Hourly - Not Matched,TEST KRYPTON - Gilbarco - Transactions - Live - Hourly - Not Matched,underscore_to_space,GSTV-Domo-Admin
+d37faad1-28f6-4554-9df6-029215360b25,TEST_KRYPTON - Site Status History Per Day - Configurable,TEST KRYPTON - Site Status History Per Day - Configurable,underscore_to_space,GSTV-Domo-Admin
+666ff319-afd5-4320-8f25-fe188b0e3517,TEST_KRYPTON Wayne - Transactions - Live - Hourly - Matched,TEST KRYPTON Wayne - Transactions - Live - Hourly - Matched,underscore_to_space,GSTV-Domo-Admin
+e593d944-ef2a-4814-882c-7cc733cdcf76,TEST_KRYPTON Wayne - Transactions - Live - Hourly - Not Matched,TEST KRYPTON Wayne - Transactions - Live - Hourly - Not Matched,underscore_to_space,GSTV-Domo-Admin
+a5352bbd-dafe-4746-9df3-2652ec471ab9,TEST_VEGAS - User Input - Contract Details,TEST VEGAS - User Input - Contract Details,underscore_to_space,GSTV-Domo-Admin
+bcf2e388-789a-4c41-857a-696d4a9225b1,TEST_VEGAS - User Input - IO Details,TEST VEGAS - User Input - IO Details,underscore_to_space,GSTV-Domo-Admin
+103ec61d-491f-403b-9384-8145372ff975,TEST_VEGAS - User Input Validation - Contract Input Not Matched,TEST VEGAS - User Input Validation - Contract Input Not Matched,underscore_to_space,GSTV-Domo-Admin
+14608dc7-8599-44fb-a984-e79103d851fc,TEST_VEGAS - Validated User Input - Contract Matched to IOs,TEST VEGAS - Validated User Input - Contract Matched to IOs,underscore_to_space,GSTV-Domo-Admin
+ec10002f-d286-43f3-979d-1711eef34eaa,TPM Q4 2025 PTO Report.xlsx,TPM Q4 2025 PTO Report,remove_extension,Bill Binkiewicz
+32b244b6-716a-4c90-8b9b-ddef47b8dd81,Traffic Instructions - Rev Share - Base Data Set,Traffic Instructions - Revenue Share - Base Dataset,casing_fix,GSTV-Domo-Admin
+6e839ef0-fb56-4822-9143-fb469d8e5355,Transactions - Gilbarco ICS - from UNVALIDATED_TRANSACTION,Transactions - Gilbarco ICS - from UNVALIDATED TRANSACTION,underscore_to_space,GSTV-Domo-Admin
+86d4c01f-43c2-4e45-b888-622bedada1ca,Trouble shoot off of line items,Trouble shoot off of Line Items,casing_fix,GSTV-Domo-Admin
+ba08a2c1-7dd4-42e6-902f-b762fd61afbd,TW - GSTV - screens (1).xlsx,TW - GSTV - screens (1),remove_extension,Antonio Bowens
+1ed0ff1a-6033-4923-9f9c-425ba0d00079,Unvalidated Transactions - Hourly - Rev Share patch,Unvalidated Transactions - Hourly - Revenue Share patch,casing_fix,Abigail Kane
+2f2d9ab1-71ee-4912-9f66-1093160a079e,"VG-001 IOTV & ATV Top 20 minus AAFES_NEXCOM, Cons, Kwik, Circle K selex, Hisp, Caseys & Misc","VG-001 IOTV & ATV Top 20 minus AAFES NEXCOM, Cons, Kwik, Circle K selex, Hisp, Caseys & Misc",underscore_to_space,Al Minetola
+ce4ff834-2bcd-4cf8-a473-753f5d5cfe0b,View of - DXP Site Data (MP Inclusions),View - DXP Site Data (MP Inclusions),view_prefix,Scott Anger
+6233a3e3-b1ef-4ee2-95b9-c401b7390ddf,View of Finance - Programmatic Revenue Analysis - Vistar Exchange Revenue by Site,View - Finance - Programmatic Revenue Analysis - Vistar Exchange Revenue by Site,view_prefix,Kayla Cekal
+2b8c959e-78dd-47ca-975a-3d881eb1e726,View of Gilbarco Applause Control Center Site Export,View - Gilbarco Applause Control Center Site Export,view_prefix,Adam Doughty
+6e6cde8f-a897-4fcb-b65b-6c971aa4f7d3,View of Hourly Impression Multipliers - Site Actuals And DMA Averages,View - Hourly Impression Multipliers - Site Actuals And DMA Averages,view_prefix,GSTV-Domo-Admin
+072db50b-5e28-4ae4-b6c8-08e780574655,View of ICS Site Data - MP Inclusions,View - ICS Site Data - MP Inclusions,view_prefix,Scott Anger
+980f59bf-5a35-411b-a0ea-1857c9b46a52,View of Impression Analysis - Sample Site SARIMA ,View - Impression Analysis - Sample Site SARIMA,"strip_whitespace, view_prefix",GSTV-Domo-Admin
+35df1366-d6d5-4222-8ceb-a96a01efbcd4,View of Inventory - PX Sites to Set to Inactive (formatted for import),View - Inventory - PX Sites to Set to Inactive (formatted for import),view_prefix,Scott Anger
+2ee9b34e-0588-4dfe-8041-a1ca8736df0e,View of IO List v3,View - IO List v3,view_prefix,GSTV-Domo-Admin
+e8ec2bdc-71c0-4b8c-9d14-30d2edf03ce5,View of New Editable Table,View - New Editable Table,view_prefix,GSTV-Domo-Admin
+7ea164de-a752-417e-b0e4-7fa87c9310fb,View of NOC Outreach Site List,View - NOC Outreach Site List,view_prefix,Adam Doughty
+8e42ce6b-4686-4830-b5dd-87c1205a30ae,View of NOC POP - GVR Default Fixed Sites,View - NOC POP - Gilbarco Default Fixed Sites,"view_prefix, network_name",Scott Anger
+5b993552-5015-4874-b28b-a9eccb3ea58f,View of NOC Report - CC Data for Missing DBAs,View - NOC Report - CC Data for Missing DBAs,view_prefix,Scott Anger
+72f3ab2e-db86-431c-9bb0-a9d6b746c890,View of NOC Report - CC Data for TDLINX Matching,View - NOC Report - CC Data for TDLINX Matching,view_prefix,Scott Anger
+8e61e4a7-1937-4fcc-8da9-a451eb120c05,"View of NOC Report - ICS Site Data (Any Status, FP4, 30 Days SAA","View - NOC Report - ICS Site Data (Any Status, FP4, 30 Days SAA",view_prefix,Scott Anger
+349d77d9-4eaf-4e3d-a16a-4ca393887fa4,View of NOC Report - ICS Site Data (SAA),View - NOC Report - ICS Site Data (SAA),view_prefix,Scott Anger
+16cf9e6b-bf60-4261-af97-8aeb028116b6,View of NOC Report - ICS Site Data (Sellable for the first time filtered) SAA,View - NOC Report - ICS Site Data (Sellable for the first time filtered) SAA,view_prefix,Scott Anger
+19029629-8ddc-4906-9c6d-6dcd7e51e6f0,View of NOC Report - TDLINX Combined Export NO COMMAS,View - NOC Report - TDLINX Combined Export NO COMMAS,view_prefix,Scott Anger
+3ea0ebed-4b2e-4813-a1f2-19d3970e1781,View of NOC Report - TDLINX Combined Export WITH BLANK COLS_SAA,View - NOC Report - TDLINX Combined Export WITH BLANK COLS SAA,"view_prefix, underscore_to_space",Scott Anger
+02c5d3b2-8890-4d71-b99a-e4337128e40d,View of OPP/IO Rev - Base Data Set - '22 Historical,View - OPP/IO Rev - Base Dataset - '22 Historical,"view_prefix, casing_fix",Abigail Kane
+0c2cf9ca-e979-425e-8e59-a4e0bd3537ee,View of Opportunities - Buying Agencies,View - Opportunities - Buying Agencies,view_prefix,GSTV-Domo-Admin
+2c7e726b-0805-46de-ab0c-c43c47c02a69,View of Place Exchange - Gilbarco (220722SA),View - Place Exchange - Gilbarco (220722SA),view_prefix,Scott Anger
+089b377e-b7e5-4048-8093-d62ff4479bc7,View of Place Exchange Inventory - All (for PX Manual Update),View - Place Exchange Inventory - All (for PX Manual Update),view_prefix,Scott Anger
+ee80b3a2-d21a-4dc6-82c0-9b5a40777af3,View of Programmatic - Vistar - Diagnostic Insights - Daily by Site,View - Programmatic - Vistar - Diagnostic Insights - Daily by Site,view_prefix,GSTV-Domo-Admin
+c3c1a5ca-01c7-40e0-b50a-b34108fea5bb,"View of Programmatic - Vistar - Exchange Revenue - by Date, Site","View - Programmatic - Vistar - Exchange Revenue - by Date, Site",view_prefix,GSTV-Domo-Admin
+86ca4ccb-1bfb-4279-b298-f23f9ba3164a,View of Proof of Plays - Sites Reporting PoP - Rev Share One off Sites,View - Proof of Plays - Sites Reporting PoP - Revenue Share One off Sites,"view_prefix, casing_fix",Abigail Kane
+9a3f7ce1-489b-49e4-92ae-cbc521d75b11,View of Rev Share - Sites Reporting Proof of Play - By Day - Prior Month,View - Revenue Share - Sites Reporting Proof of Play - By Day - Prior Month,"view_prefix, casing_fix",Abigail Kane
+2b68e994-cb31-4979-af9b-229f0ba99e83,View of Site Revenue by month by state,View - Site Revenue by month by state,view_prefix,Abigail Kane
+bdf59bb2-d2fd-4d8b-9c9b-5c1518e2166e,View of Site Status History - Newly Active and Awaiting Installation - Week over Week,View - Site Status History - Newly Active and Awaiting Installation - Week over Week,view_prefix,GSTV-Domo-Admin
+a5d321da-9376-405a-97e1-4574d1c66087,View of Site Status History per Day - May,View - Site Status History per Day - May,view_prefix,Abigail Kane
+17fff9f5-4622-429f-b3b7-501f866547f4,View of Site Status History per Day - Previous Month,View - Site Status History per Day - Previous Month,view_prefix,Abigail Kane
+4c2733bb-5edd-436e-9b9c-6c7087add717,View of Site Status History per Day - Previous Month1,View - Site Status History per Day - Previous Month1,view_prefix,Abigail Kane
+807aa37d-0b41-4351-83da-21d294f439b6,View of Site Status History per Day - Site Metrics,View - Site Status History per Day - Site Metrics,view_prefix,Abigail Kane
+a8ba0fd7-d6b4-4af7-bf0e-cab554cdcc2d,View of Sites - Base Data Set - Site Retailer Information,View - Sites - Base Dataset - Site Retailer Information,"view_prefix, casing_fix",Abigail Kane
+6e1d586e-8655-46f3-91f1-3b4317ced0d1,View of Sites - Base Data SetNK 10.25.22,View - Sites - Base Data SetNK 10.25.22,view_prefix,Nick Kaufmann
+25f28b2f-1fce-4f47-b334-50b3c9246910,View of Sites - Military without Base Names,View - Sites - Military without Base Names,view_prefix,Scott Anger
+3833b6d9-bee3-42f2-ac4f-a6aacca27261,View of Sites w/Recent POP & Transactions Date (YES PoP+Transactions 7 days),View - Sites w/Recent POP & Transactions Date (YES PoP+Transactions 7 days),view_prefix,Scott Anger
+f2b705de-cbdb-44fb-a4c4-445f31521949,View of Sites with any Transactions Prev 30 Days + NO POP w/GTVID,View - Sites with any Transactions Prev 30 Days + NO POP w/GTVID,view_prefix,Adam Doughty
+be918948-f159-4ff1-9531-84f0b7a73ac2,View of TEMP - Unvalidated Transactions - Hourly -February 2022,View - TEMP - Unvalidated Transactions - Hourly -February 2022,view_prefix,Abigail Kane
+f818182a-7745-45ca-bf1b-c1eadf7d5ba2,View of Unvalidated Transactions - Hourly - '22 Historical,View - Unvalidated Transactions - Hourly - '22 Historical,view_prefix,Abigail Kane
+8d5fe5b0-5b92-4226-af2d-5d65edf6a7d2,View of Unvalidated Transactions - Hourly Comscore Historical,View - Unvalidated Transactions - Hourly Comscore Historical,view_prefix,Kayla Cekal
+66459246-531f-49f9-b824-01c23a795de8,View of Unvalidated Transactions - Hourly WIP,View - Unvalidated Transactions - Hourly WIP,view_prefix,Abigail Kane
+2c5959c9-a503-4740-95ea-9cc506555930,View of Vistar - Exchange - Detail - Previous Month with Network,View - Vistar - Exchange - Detail - Previous Month with Network,view_prefix,Kayla Cekal
+85b63ea4-5da6-4f01-ad52-5cd5dacc7849,Vistar - Exchange - Detail -  2020 Configurable,Vistar - Exchange - Detail - 2020 Configurable,collapse_spaces,Abigail Kane
+1085c73e-de64-4914-a3bc-4b2fc8178b01,vistar exchange May 25.csv,vistar exchange May 25,remove_extension,GSTV-Domo-Admin
+ae787cd4-907c-4491-b3fa-408a764fafef,Vistar Exchange Revenue Patch Jan 2023 - July 2023.csv,Vistar Exchange Revenue Patch Jan 2023 - July 2023,remove_extension,GSTV-Domo-Admin
+523d7375-3867-4e3e-bc00-685c5cdfc350,Vistar SSP Revenue Patch - Empty Template for Schema.csv,Vistar SSP Revenue Patch - Empty Template for Schema,remove_extension,GSTV-Domo-Admin
+d3d61df7-17ee-4137-8b7e-ecc15bdfbb7f,Vistar-Exchange-Detail-Previous-Month 8-30-8-31.csv,Vistar-Exchange-Detail-Previous-Month 8-30-8-31,remove_extension,Abigail Kane
+6b2a250f-bae1-4a7c-aa2f-188630c752b8,VistarMigrationCampaigns_Actualized,VistarMigrationCampaigns Actualized,underscore_to_space,GSTV-Domo-Admin
+1e2fcf23-bd71-4bcf-b082-4ce783514578,VSC_key-pair-auth,VSC key-pair-auth,underscore_to_space,GSTV-Domo-Admin
+a07bd32b-d2d8-44f1-8675-dfd0a3ed8a09,vw_Monitoring  - Site Status History - Wayne,View - Monitoring - Site Status History - Wayne,"view_prefix, collapse_spaces",GSTV-Domo-Admin
+8fd8e607-9d22-4073-8e5b-62e2264180ef,vw_Monitoring -  OPP/IO Rev - Salesforce Input Matches Snowflake Output,View - Monitoring - OPP/IO Rev - Salesforce Input Matches Snowflake Output,"view_prefix, collapse_spaces",GSTV-Domo-Admin
+becfa763-b499-49c5-9e07-d249219f46cc,vw_Monitoring - Daily Transactions - Gilbarco,View - Monitoring - Daily Transactions - Gilbarco,view_prefix,GSTV-Domo-Admin
+548fc72f-59c9-4b01-a8ec-1c7afbe58591,vw_Monitoring - Daily Transactions - Speedway,View - Monitoring - Daily Transactions - Speedway,view_prefix,GSTV-Domo-Admin
+bacecd45-4da6-42b8-861c-feb56d1fc790,vw_Monitoring - Daily Transactions - Wayne,View - Monitoring - Daily Transactions - Wayne,view_prefix,GSTV-Domo-Admin
+53d3fefe-1391-4611-8ef4-0ea103ed3322,vw_Monitoring - Daily Transactions in Domo - Speedway,View - Monitoring - Daily Transactions in Domo - Speedway,view_prefix,GSTV-Domo-Admin
+50321edd-f5db-4184-8539-9f3b7603b01e,vw_Monitoring - Daily Transactions in Domo - Wayne,View - Monitoring - Daily Transactions in Domo - Wayne,view_prefix,GSTV-Domo-Admin
+1ad1a368-36bb-4137-81b7-8c1396343b47,vw_Monitoring - Sites Reporting Transactions - Speedway,View - Monitoring - Sites Reporting Transactions - Speedway,view_prefix,GSTV-Domo-Admin
+d77d7404-7b15-408b-89dd-175ce7558d26,vw_Monitoring - Sites Reporting Transactions in Snowflake - Speedway,View - Monitoring - Sites Reporting Transactions in Snowflake - Speedway,view_prefix,GSTV-Domo-Admin
+243eae84-b9a3-4f25-8db6-7fd56760f4ab,vw_Monitoring - Transactions - Gilbarco,View - Monitoring - Transactions - Gilbarco,view_prefix,GSTV-Domo-Admin
+82b3e97c-524c-42b4-a557-d51f4e3c4255,vw_Monitoring - Transactions - Snowflake - Gilbarco,View - Monitoring - Transactions - Snowflake - Gilbarco,view_prefix,GSTV-Domo-Admin
+1f578518-71a0-44d6-adb4-36b39f26e893,vw_Monitoring - Transactions - Speedway,View - Monitoring - Transactions - Speedway,view_prefix,GSTV-Domo-Admin
+a1bf0346-a230-49b1-b08a-d3962541d939,walkability_and_acs_combined,walkability and acs combined,underscore_to_space,GSTV-Domo-Admin
+c56a9b7c-e75d-4b6e-aa8f-060f0766d0b6,walkabilityScore.csv,walkabilityScore,remove_extension,GSTV-Domo-Admin
+df5ffb88-6585-4e49-8b56-80a8bd4de07d,Wayne - TxnPatch - Aug 17 2024.csv,Wayne - TxnPatch - Aug 17 2024,remove_extension,GSTV-Domo-Admin
+62e84160-b1fc-495b-8bf1-391e54446923,Wayne - TxnPatch - Feb 28 2024.csv,Wayne - TxnPatch - Feb 28 2024,remove_extension,GSTV-Domo-Admin
+afec2a81-b47f-43c3-9f0e-754fdbdc9e08,Wayne - TxnPatch - Feb 29 2024.csv,Wayne - TxnPatch - Feb 29 2024,remove_extension,GSTV-Domo-Admin
+ad42d2f4-edec-4bd6-a708-88caa19d5009,Wayne - TxnPatch Volume - Aug 7 2024.xlsx,Wayne - TxnPatch Volume - Aug 7 2024,remove_extension,GSTV-Domo-Admin
+3601d806-14d3-4d41-9db3-c55d1f2eff81,Whats Trending Site List for Traffic Instructions.xlsx,Whats Trending Site List for Traffic Instructions,remove_extension,Abigail Kane
+2ab07b81-0f12-46f8-a929-9375be91956f,Worksheet - GVR Sites Only Playing Default (2024).xlsx,Worksheet - Gilbarco Sites Only Playing Default (2024),"remove_extension, network_name",Scott Anger
